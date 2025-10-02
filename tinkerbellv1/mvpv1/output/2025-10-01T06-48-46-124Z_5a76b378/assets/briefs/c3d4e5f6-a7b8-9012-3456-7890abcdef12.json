@@ -1,0 +1,27 @@
+{
+  "brief": {
+    "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "image_brief": "A split image or a before-and-after concept. On one side (problem), visualize 'wasted ad spend': a downward trending graph with red indicators, perhaps a stack of generic ad creatives with a red 'X' over them, implying poor performance. The background should feel cluttered or inefficient. On the other side (solution), visualize 'optimized spend' and 'high-ROI creatives': an upward trending graph with green indicators, a sleek digital dashboard showcasing positive performance metrics (ROI, conversions), and a hand interacting with an intuitive interface that suggests 'instant iteration'. The background should be clean and organized. Use a professional, clean aesthetic with brand colors (blue, black, white) to highlight data and efficiency. The overall impression should be a clear contrast between inefficiency and effective, data-driven optimization.",
+    "video_brief": {
+      "hook": "Wasting ad spend on underperforming creatives?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a digital performance report displaying red, negative metrics (e.g., high CPA, low ROI). A hand hovers over the screen, looking frustrated and stressed. The screen has a slightly chaotic or overwhelming feel."
+        },
+        {
+          "time": "3-9s",
+          "visual": "Transition to a modern, clean SaaS dashboard interface (using blue, black, white). Animated elements show rapid A/B testing or creative variations being generated and analyzed in real-time. Green arrows and positive data points emerge, indicating improvement. A hand confidently interacts with the interface, suggesting ease of use."
+        },
+        {
+          "time": "9-12s",
+          "visual": "A confident marketing manager smiles, looking at a screen displaying significant ROI growth and budget efficiency. A subtle visual of money growing or being saved, perhaps a green bar graph sharply rising. The overall scene conveys success and control."
+        }
+      ],
+      "voiceover": "Are you wasting valuable ad spend on underperforming creatives? Stop the guesswork. Instantly iterate and optimize your performance ads. Identify and scale high-ROI creatives, cutting wasted budget and boosting your bottom line.",
+      "cta": "Optimize Spend"
+    },
+    "generated_at": "2025-10-01T07:05:29.358Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image or a before-and-after concept. On one side (problem), visualize 'wasted ad spend': a downward trending graph with red indicators, perhaps a stack of generic ad creatives with a red 'X' over them, implying poor performance. The background should feel cluttered or inefficient. On the other side (solution), visualize 'optimized spend' and 'high-ROI creatives': an upward trending graph with green indicators, a sleek digital dashboard showcasing positive performance metrics (ROI, conversions), and a hand interacting with an intuitive interface that suggests 'instant iteration'. The background should be clean and organized. Use a professional, clean aesthetic with brand colors (blue, black, white) to highlight data and efficiency. The overall impression should be a clear contrast between inefficiency and effective, data-driven optimization.\",\n  \"video_brief\": {\n    \"hook\": \"Wasting ad spend on underperforming creatives?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a digital performance report displaying red, negative metrics (e.g., high CPA, low ROI). A hand hovers over the screen, looking frustrated and stressed. The screen has a slightly chaotic or overwhelming feel.\"\n      },\n      {\n        \"time\": \"3-9s\",\n        \"visual\": \"Transition to a modern, clean SaaS dashboard interface (using blue, black, white). Animated elements show rapid A/B testing or creative variations being generated and analyzed in real-time. Green arrows and positive data points emerge, indicating improvement. A hand confidently interacts with the interface, suggesting ease of use.\"\n      },\n      {\n        \"time\": \"9-12s\",\n        \"visual\": \"A confident marketing manager smiles, looking at a screen displaying significant ROI growth and budget efficiency. A subtle visual of money growing or being saved, perhaps a green bar graph sharply rising. The overall scene conveys success and control.\"\n      }\n    ],\n    \"voiceover\": \"Are you wasting valuable ad spend on underperforming creatives? Stop the guesswork. Instantly iterate and optimize your performance ads. Identify and scale high-ROI creatives, cutting wasted budget and boosting your bottom line.\",\n    \"cta\": \"Optimize Spend\"\n  }\n}\n```"
+}

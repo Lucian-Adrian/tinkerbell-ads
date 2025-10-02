@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+    "image_brief": "A split image. On the left, a person (representing Alex Chen, a Performance Marketing Manager) looking puzzled at a complex, tangled web of data lines and graphs, conveying 'surface-level data' and 'guessing.' Colors are muted, hinting at frustration. On the right, the same person is now confident, smiling, and pointing to a clear, intuitive, and modern dashboard displaying actionable 'deep creative insights' and positive ROI metrics. The right side is vibrant with brand colors: blues and whites dominating, with crisp black text. A subtle glow or 'unlock' icon connects the two sides, symbolizing 'unlocking true ad performance.' The overall tone is informative and empowering.",
+    "video_brief": {
+      "hook": "Unlock true ad performance and insights.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Opening shot: A close-up on a person (representing Alex Chen, Performance Marketing Manager) looking stressed or overwhelmed by a screen filled with complex, cluttered ad performance data charts and spreadsheets. The screen displays confusing metrics, suggesting 'surface-level data' and 'guessing.' Colors are dull."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Transition: The chaotic data on the screen smoothly transforms into a clean, modern, and intuitive dashboard. Animated graphs show clear, actionable 'deep creative insights' and positive ROI trends. Brand colors (blue, white, black) are prominent, creating a sense of clarity and organization. A subtle 'unlock' animation appears."
+        },
+        {
+          "time": "7-12s",
+          "visual": "The person from the first scene is now confident and engaged, easily interacting with the insights dashboard. They make a quick, decisive action (e.g., clicking an 'iterate' button). Visuals show a rapid increase in ROI and campaign performance metrics, emphasizing 'instantly iterate for maximum campaign ROI'."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot: The powerful insights dashboard is prominently displayed with the headline 'Unlock True Ad Performance & Insights' clearly visible. A vibrant call-to-action button 'Get Insights' is highlighted. Brand logo subtly appears."
+        }
+      ],
+      "voiceover": "Struggling with surface-level ad data? It's time to unlock true performance. Gain deep creative insights, and instantly iterate for maximum ROI. Stop guessing. Start winning with data.",
+      "cta": "Get Insights"
+    },
+    "generated_at": "2025-10-01T07:06:40.677Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image. On the left, a person (representing Alex Chen, a Performance Marketing Manager) looking puzzled at a complex, tangled web of data lines and graphs, conveying 'surface-level data' and 'guessing.' Colors are muted, hinting at frustration. On the right, the same person is now confident, smiling, and pointing to a clear, intuitive, and modern dashboard displaying actionable 'deep creative insights' and positive ROI metrics. The right side is vibrant with brand colors: blues and whites dominating, with crisp black text. A subtle glow or 'unlock' icon connects the two sides, symbolizing 'unlocking true ad performance.' The overall tone is informative and empowering.\",\n  \"video_brief\": {\n    \"hook\": \"Unlock true ad performance and insights.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Opening shot: A close-up on a person (representing Alex Chen, Performance Marketing Manager) looking stressed or overwhelmed by a screen filled with complex, cluttered ad performance data charts and spreadsheets. The screen displays confusing metrics, suggesting 'surface-level data' and 'guessing.' Colors are dull.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Transition: The chaotic data on the screen smoothly transforms into a clean, modern, and intuitive dashboard. Animated graphs show clear, actionable 'deep creative insights' and positive ROI trends. Brand colors (blue, white, black) are prominent, creating a sense of clarity and organization. A subtle 'unlock' animation appears.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"The person from the first scene is now confident and engaged, easily interacting with the insights dashboard. They make a quick, decisive action (e.g., clicking an 'iterate' button). Visuals show a rapid increase in ROI and campaign performance metrics, emphasizing 'instantly iterate for maximum campaign ROI'.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot: The powerful insights dashboard is prominently displayed with the headline 'Unlock True Ad Performance & Insights' clearly visible. A vibrant call-to-action button 'Get Insights' is highlighted. Brand logo subtly appears.\"\n      }\n    ],\n    \"voiceover\": \"Struggling with surface-level ad data? It's time to unlock true performance. Gain deep creative insights, and instantly iterate for maximum ROI. Stop guessing. Start winning with data.\",\n    \"cta\": \"Get Insights\"\n  }\n}\n```"
+}

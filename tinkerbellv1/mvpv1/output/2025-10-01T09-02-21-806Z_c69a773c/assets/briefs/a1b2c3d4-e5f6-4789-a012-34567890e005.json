@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e005",
+    "image_brief": "A dynamic, modern marketing team (2-3 diverse individuals) collaborating around a large, interactive screen displaying a sleek performance ad dashboard. The dashboard shows rapidly updating graphs with significant upward trends and positive metrics, symbolizing 'growth' and 'performance.' One team member points confidently at a section of the screen showing 'instant iteration' results, while another quickly types on a laptop, and a third observes with a satisfied, focused expression. The overall atmosphere is one of high efficiency, innovation, and rapid success. The background is a bright, contemporary office space, suggesting a high-tech environment. Use clean lines and a professional aesthetic.",
+    "video_brief": {
+      "hook": "Stop slow ad cycles. Unlock exponential growth.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A split screen. Left side: A close-up on a frustrated marketing manager (Sarah Chen archetype) looking stressed at a cluttered desktop with multiple open browser tabs, charts showing flat or declining ad performance, and a persistent 'loading' spinner. Right side: A clock hand barely moving, emphasizing slow progress. Desaturated colors and a sense of stagnation."
+        },
+        {
+          "time": "3-7s",
+          "visual": "A rapid transition to a vibrant, dynamic UI of a performance ad platform. Data points and metrics instantly update, showing green arrows pointing upwards. A hand quickly drags and drops various creative elements (images, headlines, CTAs) into a template, then clicks a prominent 'Iterate Instantly' button. A ripple effect or flash across the screen symbolizes the speed of iteration."
+        },
+        {
+          "time": "7-12s",
+          "visual": "A diverse marketing team (3-4 people) in a bright, modern, collaborative workspace. They are gathered around a large monitor displaying the same sleek performance ad dashboard, now showing significant, consistent upward trends, high ROI, and positive engagement metrics. They are smiling, high-fiving, and pointing at the screen, conveying success, efficiency, and empowerment."
+        },
+        {
+          "time": "12-15s",
+          "visual": "The company logo (placeholder) appears prominently on screen, with the headline 'Boost Ad Team Efficiency. Unlock Exponential Growth.' The performance ad dashboard continues to show growth in the background. A clear, animated call-to-action button 'Boost Efficiency' slides into view, inviting interaction. Final shot holds on logo and CTA."
+        }
+      ],
+      "voiceover": "Slow creative cycles? Inefficient ad production? It's time to unlock your team's full potential. Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains and drive exponential growth. Transform your ad strategy now.",
+      "cta": "Boost Efficiency"
+    },
+    "generated_at": "2025-10-01T09:09:50.492Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, modern marketing team (2-3 diverse individuals) collaborating around a large, interactive screen displaying a sleek performance ad dashboard. The dashboard shows rapidly updating graphs with significant upward trends and positive metrics, symbolizing 'growth' and 'performance.' One team member points confidently at a section of the screen showing 'instant iteration' results, while another quickly types on a laptop, and a third observes with a satisfied, focused expression. The overall atmosphere is one of high efficiency, innovation, and rapid success. The background is a bright, contemporary office space, suggesting a high-tech environment. Use clean lines and a professional aesthetic.\",\n  \"video_brief\": {\n    \"hook\": \"Stop slow ad cycles. Unlock exponential growth.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A split screen. Left side: A close-up on a frustrated marketing manager (Sarah Chen archetype) looking stressed at a cluttered desktop with multiple open browser tabs, charts showing flat or declining ad performance, and a persistent 'loading' spinner. Right side: A clock hand barely moving, emphasizing slow progress. Desaturated colors and a sense of stagnation.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"A rapid transition to a vibrant, dynamic UI of a performance ad platform. Data points and metrics instantly update, showing green arrows pointing upwards. A hand quickly drags and drops various creative elements (images, headlines, CTAs) into a template, then clicks a prominent 'Iterate Instantly' button. A ripple effect or flash across the screen symbolizes the speed of iteration.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"A diverse marketing team (3-4 people) in a bright, modern, collaborative workspace. They are gathered around a large monitor displaying the same sleek performance ad dashboard, now showing significant, consistent upward trends, high ROI, and positive engagement metrics. They are smiling, high-fiving, and pointing at the screen, conveying success, efficiency, and empowerment.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"The company logo (placeholder) appears prominently on screen, with the headline 'Boost Ad Team Efficiency. Unlock Exponential Growth.' The performance ad dashboard continues to show growth in the background. A clear, animated call-to-action button 'Boost Efficiency' slides into view, inviting interaction. Final shot holds on logo and CTA.\"\n      }\n    ],\n    \"voiceover\": \"Slow creative cycles? Inefficient ad production? It's time to unlock your team's full potential. Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains and drive exponential growth. Transform your ad strategy now.\",\n    \"cta\": \"Boost Efficiency\"\n  }\n}\n```"
+}

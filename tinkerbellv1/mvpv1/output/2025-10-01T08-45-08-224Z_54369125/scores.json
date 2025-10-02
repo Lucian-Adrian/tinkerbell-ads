@@ -1,0 +1,193 @@
+{
+  "scores": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "trend_score": 33,
+      "llm_score": 92,
+      "viral_score": 35,
+      "final_score": 60,
+      "rationale": "Directly targets slow iteration pain and growth motivation, creating urgency and competitive pressure. Strong ROI focus.\nThe tone is direct and problem-focused, addressing a key pain point (slow iteration, losing growth). However, the hook is a common marketing phrase and lacks the provocative, counter-intuitive, or dramatic novelty seen in viral exemplars like 'We fired our agency' or 'Your ad budget is a hostage.' It's clear but not compelling enough to spark widespread sharing.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+      "trend_score": 13,
+      "llm_score": 92,
+      "viral_score": 85,
+      "final_score": 63,
+      "rationale": "Addresses a critical pain point around proving value and ROI. 'Tired of guessing?' is a powerful hook for a results-oriented strategist.\nThe tone is direct and results-oriented, aligning perfectly with the persona. The hook 'Prove Your Ad Value. Instantly.' directly addresses a critical pain point, similar to the exemplars' focus on CFOs or agencies. The body's 'Tired of guessing?' adds a relatable, slightly provocative element, and the promise of 'justify every dollar' offers clear, tangible value.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+      "trend_score": 20,
+      "llm_score": 94,
+      "viral_score": 75,
+      "final_score": 64,
+      "rationale": "Appeals directly to competitive advantage and rapid scaling, key motivations for a Growth Strategist. 'Dominate your market' is a strong, aggressive call.\nThe tone is ambitious and empowering. The hook 'Outpace Competitors' is strong for a growth strategist. 'Unprecedented speed' offers novelty by framing the solution as a significant competitive advantage. However, it lacks the specific, almost shocking claim or metaphor found in the highest-scoring viral ads.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+      "trend_score": 12,
+      "llm_score": 90,
+      "viral_score": 50,
+      "final_score": 55,
+      "rationale": "Focuses on team productivity and strategic work, a strong secondary motivation for a Head of Performance. Connects automation to higher-value tasks.\nThe tone is empathetic but the hook 'Reclaim Your Team's Time' is somewhat generic and less urgent than viral exemplars. While it addresses a valid pain point (productivity), the novelty of automating tasks isn't presented in a disruptive or unique way that would spark widespread engagement.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-9abcdef01234",
+      "trend_score": 19,
+      "llm_score": 93,
+      "viral_score": 90,
+      "final_score": 67,
+      "rationale": "Tackles a major financial pain point ('ad waste') and promises immediate budget optimization and growth. Highly relevant for ROI-focused leaders.\nThe tone is urgent and problem-solution focused, mirroring the directness of viral ads. The hook 'Cut Ad Waste Now' is highly urgent and addresses a universal pain point for marketers. The body's 'Stop pouring budget into underperforming ads' is a strong, relatable call-out, akin to the 'hostage' metaphor, offering an immediate, tangible benefit and connecting directly to the company's UVP ('Instantly identify and optimize').",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
+      "trend_score": 21,
+      "llm_score": 90,
+      "viral_score": 60,
+      "final_score": 60,
+      "rationale": "Compelling headline for a strategist, directly addresses iteration pain and ROI motivation, clear automation benefit. Strong CTA.\nThe tone is efficient and strategic, aligning with the persona. The hook 'Do Less, Convert More' is a clear benefit but lacks the disruptive novelty or provocative edge seen in viral exemplars. It's a solid message but not likely to spark widespread sharing.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "trend_score": 19,
+      "llm_score": 94,
+      "viral_score": 80,
+      "final_score": 65,
+      "rationale": "Empathetic, problem-aware headline. Directly targets resource inefficiency, missed growth, and scaling motivations. Excellent CTA.\nThe tone is empathetic yet direct, immediately addressing a key persona pain point. The hook 'Your Ad Team Is Overworked. Your Ads Aren't.' is highly novel and creates a strong paradox, sparking curiosity and resonance. It's less aggressive than exemplars but provides a compelling, relatable challenge.",
+      "scored_at": "2025-10-01T08:51:23.136Z"
+    },
+    {
+      "script_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "trend_score": 14,
+      "llm_score": 88,
+      "viral_score": 55,
+      "final_score": 56,
+      "rationale": "Addresses a critical pain point (proving ad value) and iteration speed. CTA is good, but slightly less action-oriented than others.\nThe tone is results-oriented and practical. The hook 'Prove Ad Value Faster. With Less Effort.' is a clear benefit statement but lacks the provocative nature or novelty required for viral engagement. 'Stop guessing' adds a touch of directness but isn't enough to make it stand out.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+      "trend_score": 22,
+      "llm_score": 95,
+      "viral_score": 90,
+      "final_score": 68,
+      "rationale": "Highly strategic, competitive, and quantifiable. Directly targets competitive advantage and rapid scaling, key for a Growth Strategist. Strong CTA.\nThe tone is bold, competitive, and highly results-driven, directly appealing to the persona's motivation for competitive advantage. The hook 'Outpace Competitors: Iterate Ads 10x Faster.' is exceptionally strong, offering a quantifiable, disruptive claim that provides significant novelty and immediately grabs attention, similar to the direct claims in viral exemplars.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+      "trend_score": 34,
+      "llm_score": 87,
+      "viral_score": 50,
+      "final_score": 61,
+      "rationale": "Good, empathetic headline addressing productivity and iteration cycles. CTA is relevant but less strategic for a Head of Performance Marketing.\nThe tone is motivational but less disruptive than viral content. The hook 'Stop Grinding. Start Growing.' is a well-worn phrase that, while positive, lacks the novelty or specific provocation needed to stand out in a crowded B2B feed and spark viral sharing.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "8a2b1c3d-4e5f-6789-0123-456789abcdef",
+      "trend_score": 18,
+      "llm_score": 95,
+      "viral_score": 85,
+      "final_score": 66,
+      "rationale": "Aggressive, competitive angle directly targets Olivia's motivation for gaining advantage and fear of missing out. High urgency and relevance.\nThe headline 'What Your Competitor Stole Today: Your Ad Advantage' is a strong, fear-based hook that immediately creates urgency and taps into a core motivation for 'Olivia, The Growth Strategist' (competitive advantage). The tone is urgent and slightly aggressive, aligning with the dramatic framing of viral exemplars like 'Your ad budget is a hostage.' The novelty comes from framing slow iteration as a direct loss caused by a competitor, offering a clear, actionable solution ('reclaim your market edge') that ties directly to the company's UVP of instant iteration.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "b3c4d5e6-f7a8-9012-3456-7890abcdef12",
+      "trend_score": 21,
+      "llm_score": 98,
+      "viral_score": 70,
+      "final_score": 65,
+      "rationale": "Directly addresses core pain points (slow iteration, ROI) and motivations (maximizing ROI, proving value). The 'Olivia' personalization adds a strong hook.\nThe headline 'Slow Ad Iteration Is Killing Your ROI. Fix It Now.' is direct and urgent, aligning with the results-oriented persona. The hook clearly states a major pain point ('Killing Your ROI') which resonates with the persona's motivations. However, while impactful, the phrasing isn't as novel or provocative as the viral exemplars ('Fired our agency,' 'CFO asks about CAC'). It's a solid problem-solution ad but lacks the counter-intuitive twist or dramatic metaphor often seen in highly viral content.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "d5e6f7a8-b9c0-1234-5678-90abcdef1234",
+      "trend_score": 28,
+      "llm_score": 92,
+      "viral_score": 55,
+      "final_score": 62,
+      "rationale": "Strong focus on proving value and scaling, key strategic motivations for Olivia. Aligns well with the company's UVP and persona's tone.\nThe headline 'Prove Ad Value. Scale Faster Than Ever.' is benefit-driven and strategic, aligning with the persona's motivations. However, the hook is aspirational rather than provocative or problem-focused in a dramatic way. The tone is positive but lacks the urgency or disruptive nature of the viral exemplars. There's low novelty; the language is quite standard B2B marketing, which makes it less likely to stand out and spark widespread sharing compared to ads that challenge norms or use strong metaphors.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "f7a8b9c0-d1e2-3456-7890-abcdef123456",
+      "trend_score": 18,
+      "llm_score": 94,
+      "viral_score": 78,
+      "final_score": 64,
+      "rationale": "Taps into a critical pain point: budget leakage and inefficient resource allocation. Offers a clear solution that aligns with efficiency motivations.\nThe headline 'Stop Leaking Budget. Instantly Optimize Performance Ads.' uses a strong, common metaphor ('leaking budget') that effectively highlights a critical pain point (inefficient resource allocation) for the persona. The tone is urgent and practical, aligning with the company's 'efficient' brand. This hook is impactful and directly addresses financial concerns, similar to the 'ad budget is a hostage' exemplar. While the metaphor isn't entirely novel, its directness and relevance make it highly effective, though perhaps slightly less dramatic than the top viral examples.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "1e2f3a4b-5c6d-7e8f-9012-34567890abcd",
+      "trend_score": 13,
+      "llm_score": 88,
+      "viral_score": 65,
+      "final_score": 57,
+      "rationale": "Addresses team productivity, a relevant motivation, but perhaps slightly less urgent than direct ROI or competitive threat for a Head of Performance. CTA is a bit softer.\nThe headline 'Unlock Your Team's Full Potential. Automate Ad Iteration.' offers a positive, empowering tone that resonates with improving team productivity, a key motivation for Olivia. The hook 'Free your Head of Performance from manual grind' is empathetic and addresses a real pain point. However, the overall message is more about internal team improvement and automation benefits rather than a dramatic market shift, financial crisis, or counter-intuitive solution. It lacks the high-stakes drama or disruptive novelty that typically drives viral B2B engagement.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "8a1b2c3d-4e5f-6789-0123-456789abcdef",
+      "trend_score": 16,
+      "llm_score": 95,
+      "viral_score": 60,
+      "final_score": 60,
+      "rationale": "Directly hits core pain of slow iteration with a quantifiable benefit ('weeks to minutes') and strong competitive outcome. Ruthless and results-oriented.\nThe tone is motivational but lacks the sharp, provocative edge of the viral exemplars. The hook 'Stop Waiting. Start Winning.' is generic. While 'weeks to minutes' offers a strong benefit, the overall presentation isn't as disruptive or novel as proven hits.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+      "trend_score": 13,
+      "llm_score": 92,
+      "viral_score": 85,
+      "final_score": 63,
+      "rationale": "Addresses a critical pain point around proving value and ROI. 'Tired of guessing?' is a powerful hook for a results-oriented strategist.\nThe tone is direct and results-oriented, aligning perfectly with the persona. The hook 'Prove Your Ad Value. Instantly.' directly addresses a critical pain point, similar to the exemplars' focus on CFOs or agencies. The body's 'Tired of guessing?' adds a relatable, slightly provocative element, and the promise of 'justify every dollar' offers clear, tangible value.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+      "trend_score": 20,
+      "llm_score": 94,
+      "viral_score": 75,
+      "final_score": 64,
+      "rationale": "Appeals directly to competitive advantage and rapid scaling, key motivations for a Growth Strategist. 'Dominate your market' is a strong, aggressive call.\nThe tone is ambitious and empowering. The hook 'Outpace Competitors' is strong for a growth strategist. 'Unprecedented speed' offers novelty by framing the solution as a significant competitive advantage. However, it lacks the specific, almost shocking claim or metaphor found in the highest-scoring viral ads.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+      "trend_score": 12,
+      "llm_score": 90,
+      "viral_score": 50,
+      "final_score": 55,
+      "rationale": "Focuses on team productivity and strategic work, a strong secondary motivation for a Head of Performance. Connects automation to higher-value tasks.\nThe tone is empathetic but the hook 'Reclaim Your Team's Time' is somewhat generic and less urgent than viral exemplars. While it addresses a valid pain point (productivity), the novelty of automating tasks isn't presented in a disruptive or unique way that would spark widespread engagement.",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-9abcdef01234",
+      "trend_score": 19,
+      "llm_score": 93,
+      "viral_score": 90,
+      "final_score": 67,
+      "rationale": "Tackles a major financial pain point ('ad waste') and promises immediate budget optimization and growth. Highly relevant for ROI-focused leaders.\nThe tone is urgent and problem-solution focused, mirroring the directness of viral ads. The hook 'Cut Ad Waste Now' is highly urgent and addresses a universal pain point for marketers. The body's 'Stop pouring budget into underperforming ads' is a strong, relatable call-out, akin to the 'hostage' metaphor, offering an immediate, tangible benefit and connecting directly to the company's UVP ('Instantly identify and optimize').",
+      "scored_at": "2025-10-01T08:51:23.137Z"
+    }
+  ],
+  "weights": {
+    "llm": 0.45,
+    "trend": 0.35,
+    "viral": 0.2
+  },
+  "prompt_versions": {
+    "predictive": "v1",
+    "viral": "v1"
+  }
+}

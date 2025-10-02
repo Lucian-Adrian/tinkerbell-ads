@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gemini Mini Demo</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #0f172a;
+        color: #e2e8f0;
+      }
+
+      body {
+        margin: 0;
+        padding: 2.5rem 1.5rem 4rem;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+        box-sizing: border-box;
+      }
+
+      main {
+        width: min(960px, 100%);
+        display: grid;
+        gap: 2.5rem;
+      }
+
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        margin-bottom: 0.5rem;
+        font-size: clamp(2rem, 5vw, 2.75rem);
+      }
+
+      p {
+        margin-top: 0.25rem;
+        color: #94a3b8;
+      }
+
+      section {
+        border: 1px solid rgba(148, 163, 184, 0.25);
+        border-radius: 18px;
+        padding: 1.8rem;
+        background: rgba(15, 23, 42, 0.65);
+        box-shadow: 0 20px 60px rgba(15, 23, 42, 0.35);
+        backdrop-filter: blur(12px);
+      }
+
+      h2 {
+        margin-top: 0;
+        font-size: 1.35rem;
+      }
+
+      form {
+        display: grid;
+        gap: 0.75rem;
+        margin-bottom: 1.25rem;
+      }
+
+      textarea,
+      input[type="text"],
+      input[type="number"] {
+        width: 100%;
+        border-radius: 14px;
+        border: 1px solid rgba(148, 163, 184, 0.25);
+        background: rgba(148, 163, 184, 0.1);
+        color: inherit;
+        padding: 0.9rem 1.1rem;
+        font-size: 1rem;
+        resize: vertical;
+        min-height: 3rem;
+      }
+
+      label {
+        font-weight: 600;
+        color: #cbd5f5;
+      }
+
+      button {
+        justify-self: start;
+        padding: 0.8rem 1.4rem;
+        border-radius: 12px;
+        border: none;
+        background: linear-gradient(135deg, #38bdf8, #6366f1);
+        color: white;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        box-shadow: 0 10px 30px rgba(99, 102, 241, 0.45);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 18px 35px rgba(99, 102, 241, 0.55);
+      }
+
+      .output {
+        border-radius: 14px;
+        border: 1px solid rgba(148, 163, 184, 0.2);
+        background: rgba(148, 163, 184, 0.08);
+        padding: 1.2rem;
+        white-space: pre-wrap;
+        min-height: 4rem;
+      }
+
+      img {
+        max-width: 100%;
+        border-radius: 16px;
+        border: 1px solid rgba(148, 163, 184, 0.25);
+        background: rgba(15, 23, 42, 0.4);
+      }
+
+      video {
+        width: 100%;
+        border-radius: 16px;
+        border: 1px solid rgba(148, 163, 184, 0.25);
+        background: rgba(15, 23, 42, 0.4);
+      }
+
+      .status {
+        margin-top: -0.4rem;
+        font-size: 0.9rem;
+        color: #60a5fa;
+      }
+
+      .error {
+        color: #fca5a5;
+      }
+
+      @media (max-width: 720px) {
+        body {
+          padding: 1.5rem 1rem 3rem;
+        }
+
+        section {
+          padding: 1.4rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Gemini Mini Demo</h1>
+        <p>Fire off quick smoke-tests for text, image, and video generation without touching the core pipelines.</p>
+      </header>
+
+      <section id="text-demo">
+        <h2>Text Generation (Gemini 2.5 Flash)</h2>
+        <form id="text-form">
+          <label for="text-prompt">Prompt</label>
+          <textarea id="text-prompt" rows="4" placeholder="Summarize why rapid ad iteration matters for performance marketers."></textarea>
+          <button type="submit">Generate Text</button>
+          <span class="status" id="text-status"></span>
+        </form>
+        <div class="output" id="text-output">Response will appear here.</div>
+      </section>
+
+      <section id="image-demo">
+        <h2>Image Generation (Imagen 4 Fast)</h2>
+        <form id="image-form">
+          <label for="image-prompt">Prompt</label>
+          <textarea id="image-prompt" rows="3" placeholder="A futuristic marketing dashboard glowing in neon blues."></textarea>
+          <button type="submit">Generate Image</button>
+          <span class="status" id="image-status"></span>
+        </form>
+        <div class="output" id="image-output">
+          <em>Image preview will render below.</em>
+          <div id="image-container" style="margin-top: 1rem;"></div>
+        </div>
+      </section>
+
+      <section id="video-demo">
+        <h2>Video Generation (Veo 3 Fast)</h2>
+        <form id="video-form">
+          <label for="video-prompt">Prompt</label>
+          <textarea id="video-prompt" rows="3" placeholder="A 6-second looping advert showing a marketer launching new creative in seconds."></textarea>
+          <label for="video-duration">Duration seconds (1-8)</label>
+          <input id="video-duration" type="number" min="1" max="8" value="6" />
+          <button type="submit">Generate Video</button>
+          <span class="status" id="video-status"></span>
+        </form>
+        <div class="output" id="video-output">
+          <em>Video preview will render below.</em>
+          <div id="video-container" style="margin-top: 1rem;"></div>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      async function handleSubmit(formId, statusId, onSubmit) {
+        const form = document.getElementById(formId);
+        const status = document.getElementById(statusId);
+        form.addEventListener("submit", async (event) => {
+          event.preventDefault();
+          status.classList.remove("error");
+          status.textContent = "Working...";
+          try {
+            await onSubmit();
+            status.textContent = "Done";
+          } catch (error) {
+            console.error(error);
+            status.textContent = error.message || "Something went wrong";
+            status.classList.add("error");
+          }
+        });
+      }
+
+      handleSubmit("text-form", "text-status", async () => {
+        const prompt = document.getElementById("text-prompt").value;
+        const response = await fetch("/api/text", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt }),
+        });
+        if (!response.ok) {
+          const error = await response.json();
+          throw new Error(error.error || "Text generation failed");
+        }
+        const data = await response.json();
+        const output = document.getElementById("text-output");
+        output.textContent = data.text || "No text returned.";
+      });
+
+      handleSubmit("image-form", "image-status", async () => {
+        const prompt = document.getElementById("image-prompt").value;
+        const response = await fetch("/api/image", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt }),
+        });
+        if (!response.ok) {
+          const error = await response.json();
+          throw new Error(error.error || "Image generation failed");
+        }
+        const data = await response.json();
+        const container = document.getElementById("image-container");
+        container.innerHTML = "";
+        const img = document.createElement("img");
+        img.alt = "Generated image";
+        img.src = `data:${data.mimeType};base64,${data.imageBase64}`;
+        container.appendChild(img);
+      });
+
+      handleSubmit("video-form", "video-status", async () => {
+        const prompt = document.getElementById("video-prompt").value;
+        const durationSeconds = Number(document.getElementById("video-duration").value || 6);
+        const response = await fetch("/api/video", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt, durationSeconds }),
+        });
+        if (!response.ok) {
+          const error = await response.json();
+          throw new Error(error.error || "Video generation failed");
+        }
+        const data = await response.json();
+        const container = document.getElementById("video-container");
+        container.innerHTML = "";
+        const video = document.createElement("video");
+        video.controls = true;
+        const source = document.createElement("source");
+        const byteCharacters = atob(data.videoBase64);
+        const byteNumbers = new Array(byteCharacters.length);
+        for (let i = 0; i < byteCharacters.length; i += 1) {
+          byteNumbers[i] = byteCharacters.charCodeAt(i);
+        }
+        const byteArray = new Uint8Array(byteNumbers);
+        const blob = new Blob([byteArray], { type: data.mimeType || "video/mp4" });
+        source.src = URL.createObjectURL(blob);
+        video.appendChild(source);
+        container.appendChild(video);
+      });
+    </script>
+  </body>
+</html>

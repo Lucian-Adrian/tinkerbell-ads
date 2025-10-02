@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+    "image_brief": "A dynamic composite image. On the left, a slightly desaturated digital dashboard displays slow, stagnant performance graphs (red/orange hues), symbolizing a lagging competitive position. A subtle, generic 'competitor' icon is visibly ahead. On the right, a vibrant, sharp, and modern digital interface dominates, showcasing multiple diverse ad creative mockups rapidly transforming and optimizing. Bright green, upward-trending graphs and real-time data visualizations indicate speed, growth, and innovation. A clear 'market leader' icon or a digital 'finish line' is prominently crossed. The overall aesthetic should be professional, high-tech, and convey urgency and competitive advantage. Focus on clean UI elements and abstract data visualization rather than specific product screenshots.",
+    "video_brief": {
+      "hook": "Losing the Ad Innovation Race?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A digital race simulation with multiple generic ad icons, one falling behind while others surge ahead. Overlay text: 'Losing the Ad Innovation Race?'"
+        },
+        {
+          "time": "3-7s",
+          "visual": "Close-up on a focused but slightly frustrated marketing executive (late 30s-40s, professional attire) staring at a computer screen displaying static, underperforming ad creatives and slow-to-update performance charts."
+        },
+        {
+          "time": "7-12s",
+          "visual": "A rapid, energetic transition to a sleek, modern digital dashboard. Show multiple ad creative mockups (generic, diverse styles) instantly transforming, testing, and optimizing in a visually engaging, fast-paced animation. Upward-trending green graphs and real-time data flow."
+        },
+        {
+          "time": "12-15s",
+          "visual": "The marketing executive now confidently smiling, looking at the screen which displays clear market leadership metrics (e.g., 'Market Leader: +25% growth'). The screen radiates success and vibrant ad creatives."
+        }
+      ],
+      "voiceover": "Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.",
+      "cta": "Innovate Now"
+    },
+    "generated_at": "2025-10-01T09:12:50.080Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic composite image. On the left, a slightly desaturated digital dashboard displays slow, stagnant performance graphs (red/orange hues), symbolizing a lagging competitive position. A subtle, generic 'competitor' icon is visibly ahead. On the right, a vibrant, sharp, and modern digital interface dominates, showcasing multiple diverse ad creative mockups rapidly transforming and optimizing. Bright green, upward-trending graphs and real-time data visualizations indicate speed, growth, and innovation. A clear 'market leader' icon or a digital 'finish line' is prominently crossed. The overall aesthetic should be professional, high-tech, and convey urgency and competitive advantage. Focus on clean UI elements and abstract data visualization rather than specific product screenshots.\",\n  \"video_brief\": {\n    \"hook\": \"Losing the Ad Innovation Race?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A digital race simulation with multiple generic ad icons, one falling behind while others surge ahead. Overlay text: 'Losing the Ad Innovation Race?'\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Close-up on a focused but slightly frustrated marketing executive (late 30s-40s, professional attire) staring at a computer screen displaying static, underperforming ad creatives and slow-to-update performance charts.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"A rapid, energetic transition to a sleek, modern digital dashboard. Show multiple ad creative mockups (generic, diverse styles) instantly transforming, testing, and optimizing in a visually engaging, fast-paced animation. Upward-trending green graphs and real-time data flow.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"The marketing executive now confidently smiling, looking at the screen which displays clear market leadership metrics (e.g., 'Market Leader: +25% growth'). The screen radiates success and vibrant ad creatives.\"\n      }\n    ],\n    \"voiceover\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n    \"cta\": \"Innovate Now\"\n  }\n}\n```"
+}

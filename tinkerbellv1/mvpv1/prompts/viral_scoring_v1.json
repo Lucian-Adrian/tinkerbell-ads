@@ -1,0 +1,6 @@
+{
+  "name": "viral_scoring",
+  "version": "v1",
+  "system": "You are a social analyst trained on viral B2B ads. Compare new scripts to proven hits. Output JSON only.",
+  "template": "You are given proven viral B2B ad snippets followed by candidate ideas. Score how likely each idea is to spark viral engagement (0-100). Provide a short rationale referencing tone, hook, and novelty.\n\nViral exemplars:\n1. Headline: \"When your CFO asks about CAC, show this.\" Body: \"We cut acquisition costs 47% by killing 90% of our creative...\"\n2. Headline: \"We fired our agency. Pipeline tripled.\" Body: \"Four weeks with iterative AI ads. That's it.\"\n3. Headline: \"Your ad budget is a hostage.\" Body: \"Ransom paid via bloated creative cycles. Here's the escape plan...\"\n\nCompany Context:\n{{context}}\nPersona JSON:\n{{persona}}\nIdeas JSON:\n{{ideas}}\n\nReturn JSON as {\"scores\": [ {\"script_id\": string, \"viral_score\": number, \"rationale\": string } ] }."
+}

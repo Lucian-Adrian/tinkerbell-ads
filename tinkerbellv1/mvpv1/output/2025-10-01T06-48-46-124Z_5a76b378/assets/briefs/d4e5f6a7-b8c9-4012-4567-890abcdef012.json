@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "d4e5f6a7-b8c9-4012-4567-890abcdef012",
+    "image_brief": "A split image or overlay: On one side, a stressed-looking Performance Marketing Manager (Alex Chen persona) at a desk, surrounded by messy charts and manually adjusting ad parameters, with a red 'struggle' overlay. On the other side, a confident, calm manager looking at a sleek, futuristic digital dashboard displaying rapidly iterating ad creatives and soaring performance metrics, with a green 'success' overlay. A subtle, glowing blue 'secret weapon' icon or abstract 'advantage' graphic connects the confident manager to the dashboard, implying a hidden tool. Use brand colors (blue, black, white) for the interface and overall aesthetic, emphasizing speed and competitive edge.",
+    "video_brief": {
+      "hook": "What if they're already winning?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a digital clock ticking rapidly, then a hand slowly dragging a slider on a complex, outdated ad platform interface. A frustrated marketer's face is visible in the background. Overlay text: 'Slow creative cycles?'"
+        },
+        {
+          "time": "3-7s",
+          "visual": "A dynamic transition: The outdated interface shatters into digital shards, revealing a sleek, modern, blue-themed dashboard with vibrant graphs and rapidly changing ad creatives. A hand effortlessly taps a button labeled 'Iterate.' Overlay text: 'Instantly iterate performance ads.'"
+        },
+        {
+          "time": "7-12s",
+          "visual": "Split screen: On one side, a competitor's ad performance graph flatlines (red). On the other, the user's ad performance graph rapidly ascends (blue), showing increasing ROI and market share. A subtle, glowing blue 'edge' effect surrounds the winning graph. Overlay text: 'Scale winners. Dominate your market.'"
+        },
+        {
+          "time": "12-15s",
+          "visual": "The sleek dashboard fills the screen, with the 'Discover Your Edge' CTA button prominently highlighted in blue. A subtle animation of various ad creatives quickly transforming and optimizing."
+        }
+      ],
+      "voiceover": "Are slow creative cycles holding you back? While you're still testing, your competitors could be scaling. Imagine instantly iterating performance ads, cutting testing time, and dominating your market. It's not a secret anymore.",
+      "cta": "Discover Your Edge"
+    },
+    "generated_at": "2025-10-01T07:03:03.364Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image or overlay: On one side, a stressed-looking Performance Marketing Manager (Alex Chen persona) at a desk, surrounded by messy charts and manually adjusting ad parameters, with a red 'struggle' overlay. On the other side, a confident, calm manager looking at a sleek, futuristic digital dashboard displaying rapidly iterating ad creatives and soaring performance metrics, with a green 'success' overlay. A subtle, glowing blue 'secret weapon' icon or abstract 'advantage' graphic connects the confident manager to the dashboard, implying a hidden tool. Use brand colors (blue, black, white) for the interface and overall aesthetic, emphasizing speed and competitive edge.\",\n  \"video_brief\": {\n    \"hook\": \"What if they're already winning?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a digital clock ticking rapidly, then a hand slowly dragging a slider on a complex, outdated ad platform interface. A frustrated marketer's face is visible in the background. Overlay text: 'Slow creative cycles?'\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"A dynamic transition: The outdated interface shatters into digital shards, revealing a sleek, modern, blue-themed dashboard with vibrant graphs and rapidly changing ad creatives. A hand effortlessly taps a button labeled 'Iterate.' Overlay text: 'Instantly iterate performance ads.'\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"Split screen: On one side, a competitor's ad performance graph flatlines (red). On the other, the user's ad performance graph rapidly ascends (blue), showing increasing ROI and market share. A subtle, glowing blue 'edge' effect surrounds the winning graph. Overlay text: 'Scale winners. Dominate your market.'\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"The sleek dashboard fills the screen, with the 'Discover Your Edge' CTA button prominently highlighted in blue. A subtle animation of various ad creatives quickly transforming and optimizing.\"\n      }\n    ],\n    \"voiceover\": \"Are slow creative cycles holding you back? While you're still testing, your competitors could be scaling. Imagine instantly iterating performance ads, cutting testing time, and dominating your market. It's not a secret anymore.\",\n    \"cta\": \"Discover Your Edge\"\n  }\n}\n```"
+}

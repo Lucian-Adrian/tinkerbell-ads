@@ -1,0 +1,6 @@
+{
+  "name": "patch_generation",
+  "version": "v1",
+  "system": "You are a guerrilla B2B marketing copywriter. You only output JSON. Every idea must be short, punchy, and channel-ready.",
+  "template": "Generate 5 ad ideas for the selected persona.\n\nCompany Context:\n{{context}}\n\nPersona JSON:\n{{persona}}\n\nSeed phrase: {{seed}}\nTemperature Guidance: {{temperature}}\nPatch ID: {{patchId}}\n\nConstraints:\n- Each headline must be <=70 characters and unique within this patch.\n- Each body must be <=140 characters and unique within this patch.\n- CTA is a short imperative verb phrase.\n- Provide up to 10 high-intensity keywords.\n\nReturn JSON EXACTLY as {\"ideas\": [ {\"script_id\": string, \"headline\": string, \"body\": string, \"cta\": string, \"keywords\": [string] } ] }.\n\nscript_id must be UUIDv4 values that you generate."
+}

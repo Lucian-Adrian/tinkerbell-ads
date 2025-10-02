@@ -1,0 +1,24 @@
+{
+  "company_id": "c69a773c-1675-4cff-96ab-38cc9610d04c",
+  "url": "https://example.com",
+  "uvp": "Instantly iterate performance ads",
+  "brand_headline": "Instantly iterate performance ads",
+  "brand_keywords": [
+    "performance ads",
+    "ad iteration",
+    "instant optimization",
+    "ad creative",
+    "marketing efficiency"
+  ],
+  "brand_colors": [],
+  "logo_urls": [],
+  "short_bullets": [
+    "Instant iteration for performance ads",
+    "Optimize ad creatives rapidly"
+  ],
+  "tone": "Direct",
+  "generated_at": "2024-07-30T12:00:00Z",
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"company_id\": \"c69a773c-1675-4cff-96ab-38cc9610d04c\",\n  \"url\": \"https://example.com\",\n  \"uvp\": \"Instantly iterate performance ads\",\n  \"brand_headline\": \"Instantly iterate performance ads\",\n  \"brand_keywords\": [\n    \"performance ads\",\n    \"ad iteration\",\n    \"instant optimization\",\n    \"ad creative\",\n    \"marketing efficiency\"\n  ],\n  \"brand_colors\": [],\n  \"logo_urls\": [],\n  \"short_bullets\": [\n    \"Instant iteration for performance ads\",\n    \"Optimize ad creatives rapidly\"\n  ],\n  \"tone\": \"Direct\",\n  \"generated_at\": \"2024-07-30T12:00:00Z\"\n}\n```",
+  "sample": "Instantly iterate performance ads"
+}

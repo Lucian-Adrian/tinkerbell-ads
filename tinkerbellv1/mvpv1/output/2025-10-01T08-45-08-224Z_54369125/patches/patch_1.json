@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+    "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+    "seed_phrase": "Problem-solution: Pain-first",
+    "temperature": 0.15,
+    "batch_index": 0,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T08:47:33.363Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Stop Losing Growth to Slow Ad Iteration.",
+      "body": "Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.",
+      "cta": "Accelerate Growth",
+      "keywords": [
+        "Performance Ads",
+        "Ad Optimization",
+        "Iteration",
+        "ROI",
+        "Efficiency",
+        "Scaling",
+        "Growth",
+        "Automation",
+        "Competitive Advantage",
+        "Ad Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:33.363Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+      "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Wasting Ad Spend on Manual Testing?",
+      "body": "Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.",
+      "cta": "Optimize Now",
+      "keywords": [
+        "Performance Ads",
+        "Ad Optimization",
+        "Iteration",
+        "ROI",
+        "Efficiency",
+        "Scaling",
+        "Growth",
+        "Automation",
+        "Competitive Advantage",
+        "Ad Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:33.363Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+      "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Prove Ad Value. Maximize ROI.",
+      "body": "Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.",
+      "cta": "Get Results",
+      "keywords": [
+        "Performance Ads",
+        "Ad Optimization",
+        "Iteration",
+        "ROI",
+        "Efficiency",
+        "Scaling",
+        "Growth",
+        "Automation",
+        "Competitive Advantage",
+        "Ad Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:33.363Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+      "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Scale Faster. Iterate Instantly.",
+      "body": "Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.",
+      "cta": "Scale Up",
+      "keywords": [
+        "Performance Ads",
+        "Ad Optimization",
+        "Iteration",
+        "ROI",
+        "Efficiency",
+        "Scaling",
+        "Growth",
+        "Automation",
+        "Competitive Advantage",
+        "Ad Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:33.363Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-9abcdef01234",
+      "patch_id": "5e72d129-4362-47e4-984b-c0869e4e8328",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Outpace Competitors. Instantly Iterate.",
+      "body": "The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.",
+      "cta": "Win More",
+      "keywords": [
+        "Performance Ads",
+        "Ad Optimization",
+        "Iteration",
+        "ROI",
+        "Efficiency",
+        "Scaling",
+        "Growth",
+        "Automation",
+        "Competitive Advantage",
+        "Ad Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:33.363Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"headline\": \"Stop Losing Growth to Slow Ad Iteration.\",\n      \"body\": \"Your competitors are iterating faster. Instantly optimize performance ads, seize opportunities, and scale rapidly. Maximize your ROI.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Wasting Ad Spend on Manual Testing?\",\n      \"body\": \"Automate performance ad iteration. Free up your team, boost ROI, and achieve peak efficiency without the manual grind. Get more from less.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Prove Ad Value. Maximize ROI.\",\n      \"body\": \"Struggling to show impact? Instantly iterate and optimize performance ads to clearly demonstrate value and drive superior results.\",\n      \"cta\": \"Get Results\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Scale Faster. Iterate Instantly.\",\n      \"body\": \"Manual ad testing bottlenecks your growth. Our platform lets you iterate performance ads at lightning speed to scale without limits.\",\n      \"cta\": \"Scale Up\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate.\",\n      \"body\": \"The market moves fast. Gain a decisive edge by accelerating your performance ad iteration cycles. Dominate your niche, secure growth.\",\n      \"cta\": \"Win More\",\n      \"keywords\": [\n        \"Performance Ads\",\n        \"Ad Optimization\",\n        \"Iteration\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Scaling\",\n        \"Growth\",\n        \"Automation\",\n        \"Competitive Advantage\",\n        \"Ad Testing\"\n      ]\n    }\n  ]\n}\n```"
+}

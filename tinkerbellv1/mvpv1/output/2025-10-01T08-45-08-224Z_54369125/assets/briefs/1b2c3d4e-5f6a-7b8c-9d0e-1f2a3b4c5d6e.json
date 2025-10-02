@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "image_brief": "A split image or visual juxtaposition. On the left (representing 'Overworked Team'): A person (Olivia-like persona, mid-career professional) looking stressed, surrounded by multiple open browser tabs, complex spreadsheets, and a cluttered desk, perhaps with a clock showing late hours. Visual cues of manual, tedious, and slow work. On the right (representing 'Efficient Ads'/'Solution'): The same person, now looking calm and confident, interacting with a clean, intuitive digital dashboard displaying clear, rapidly accelerating performance graphs (upward trends, positive ROI metrics). The dashboard should visually imply 'instant iteration' and 'automation'. The overall aesthetic should convey a shift from chaotic manual effort to streamlined, efficient, and results-driven automation. The ad headline 'Your Ad Team Is Overworked. Your Ads Aren't.' and CTA 'Scale Smarter' should be integrated clearly and prominently.",
+    "video_brief": {
+      "hook": "Is your ad team overworked, but ads underperforming?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a marketer's hands frantically typing on a keyboard, surrounded by multiple monitors displaying complex, static spreadsheets and ad campaign interfaces. A subtle visual cue of a clock ticking rapidly. The marketer's face briefly shown, looking stressed or frustrated, conveying the 'overworked' aspect."
+        },
+        {
+          "time": "3-7s",
+          "visual": "A dynamic transition (e.g., a digital swipe or dissolve) to a sleek, modern digital dashboard. Animated graphs show rapid, upward trends in performance metrics (ROI, conversions, efficiency). Data points are quickly updating, suggesting 'instant iteration' and 'optimization'. A clean, intuitive UI is visible, representing the automated solution."
+        },
+        {
+          "time": "7-12s",
+          "visual": "An Olivia-like persona (Head of Performance Marketing) confidently reviewing the positive results on a tablet or large screen, smiling subtly. She gestures towards the screen, perhaps sharing insights with a colleague (who looks impressed). The background is a modern, clean office environment, emphasizing productivity and 'captured growth'."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot: The company logo, the brand headline 'Instantly Iterate Your Performance Ads', and the ad headline 'Your Ad Team Is Overworked. Your Ads Aren't.' prominently displayed against a clean, brand-aligned background. The CTA 'Scale Smarter' is clearly visible."
+        }
+      ],
+      "voiceover": "Manual ad iteration drains your budget and talent. Stop the grind. Instantly optimize performance with intelligent automation. Capture missed growth opportunities and scale your campaigns efficiently.",
+      "cta": "Scale Smarter"
+    },
+    "generated_at": "2025-10-01T08:53:57.286Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image or visual juxtaposition. On the left (representing 'Overworked Team'): A person (Olivia-like persona, mid-career professional) looking stressed, surrounded by multiple open browser tabs, complex spreadsheets, and a cluttered desk, perhaps with a clock showing late hours. Visual cues of manual, tedious, and slow work. On the right (representing 'Efficient Ads'/'Solution'): The same person, now looking calm and confident, interacting with a clean, intuitive digital dashboard displaying clear, rapidly accelerating performance graphs (upward trends, positive ROI metrics). The dashboard should visually imply 'instant iteration' and 'automation'. The overall aesthetic should convey a shift from chaotic manual effort to streamlined, efficient, and results-driven automation. The ad headline 'Your Ad Team Is Overworked. Your Ads Aren't.' and CTA 'Scale Smarter' should be integrated clearly and prominently.\",\n  \"video_brief\": {\n    \"hook\": \"Is your ad team overworked, but ads underperforming?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a marketer's hands frantically typing on a keyboard, surrounded by multiple monitors displaying complex, static spreadsheets and ad campaign interfaces. A subtle visual cue of a clock ticking rapidly. The marketer's face briefly shown, looking stressed or frustrated, conveying the 'overworked' aspect.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"A dynamic transition (e.g., a digital swipe or dissolve) to a sleek, modern digital dashboard. Animated graphs show rapid, upward trends in performance metrics (ROI, conversions, efficiency). Data points are quickly updating, suggesting 'instant iteration' and 'optimization'. A clean, intuitive UI is visible, representing the automated solution.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"An Olivia-like persona (Head of Performance Marketing) confidently reviewing the positive results on a tablet or large screen, smiling subtly. She gestures towards the screen, perhaps sharing insights with a colleague (who looks impressed). The background is a modern, clean office environment, emphasizing productivity and 'captured growth'.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot: The company logo, the brand headline 'Instantly Iterate Your Performance Ads', and the ad headline 'Your Ad Team Is Overworked. Your Ads Aren't.' prominently displayed against a clean, brand-aligned background. The CTA 'Scale Smarter' is clearly visible.\"\n      }\n    ],\n    \"voiceover\": \"Manual ad iteration drains your budget and talent. Stop the grind. Instantly optimize performance with intelligent automation. Capture missed growth opportunities and scale your campaigns efficiently.\",\n    \"cta\": \"Scale Smarter\"\n  }\n}\n```"
+}

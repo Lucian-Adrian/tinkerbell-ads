@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e002",
+    "image_brief": "A dynamic split image or a single image with a clear visual contrast. On one side (representing 'slow ad cycles'), depict a frustrated marketing professional at a cluttered desk, surrounded by slow-loading screens, complex spreadsheets, or tangled wires, conveying manual, inefficient processes. Use muted, desaturated colors. On the other side (representing 'instant iteration'), show a confident professional interacting with a sleek, modern digital interface. This interface displays rapidly iterating ad creatives, real-time performance graphs with an upward trend, and a clean, intuitive dashboard. Use vibrant, bright colors with subtle motion lines or light trails to emphasize speed and efficiency. The overall image should convey a transformation from struggle to seamless, rapid optimization for performance ads.",
+    "video_brief": {
+      "hook": "Stop slow ad cycles.",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "Close-up of a digital clock ticking slowly, or a progress bar stuck at 70%. A hand impatiently tapping a desk. A cluttered ad platform interface with multiple manual steps."
+        },
+        {
+          "time": "2-5s",
+          "visual": "Quick cuts: a graph showing flat ad performance, a calendar with crossed-out deadlines, a subtle visual of competitors' ads gaining traction. A slightly stressed marketing professional."
+        },
+        {
+          "time": "5-8s",
+          "visual": "A seamless transition to a clean, modern UI. Multiple ad creative variations instantly populate, driven by data. Real-time performance metrics rapidly update, showing positive shifts."
+        },
+        {
+          "time": "8-12s",
+          "visual": "A confident marketing professional (Sarah Chen type) reviews a dashboard displaying sharply upward-trending performance graphs. Visuals of winning ad creatives being rapidly deployed and scaled across various digital channels."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Product logo subtly integrated. A bold, clear 'Speed Up' call to action text appears prominently on screen."
+        }
+      ],
+      "voiceover": "Tired of slow ad cycles? Your competitors aren't. Accelerate creative production and testing. Scale winning campaigns instantly. Drive growth.",
+      "cta": "Speed Up"
+    },
+    "generated_at": "2025-10-01T09:11:18.925Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic split image or a single image with a clear visual contrast. On one side (representing 'slow ad cycles'), depict a frustrated marketing professional at a cluttered desk, surrounded by slow-loading screens, complex spreadsheets, or tangled wires, conveying manual, inefficient processes. Use muted, desaturated colors. On the other side (representing 'instant iteration'), show a confident professional interacting with a sleek, modern digital interface. This interface displays rapidly iterating ad creatives, real-time performance graphs with an upward trend, and a clean, intuitive dashboard. Use vibrant, bright colors with subtle motion lines or light trails to emphasize speed and efficiency. The overall image should convey a transformation from struggle to seamless, rapid optimization for performance ads.\",\n  \"video_brief\": {\n    \"hook\": \"Stop slow ad cycles.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"Close-up of a digital clock ticking slowly, or a progress bar stuck at 70%. A hand impatiently tapping a desk. A cluttered ad platform interface with multiple manual steps.\"\n      },\n      {\n        \"time\": \"2-5s\",\n        \"visual\": \"Quick cuts: a graph showing flat ad performance, a calendar with crossed-out deadlines, a subtle visual of competitors' ads gaining traction. A slightly stressed marketing professional.\"\n      },\n      {\n        \"time\": \"5-8s\",\n        \"visual\": \"A seamless transition to a clean, modern UI. Multiple ad creative variations instantly populate, driven by data. Real-time performance metrics rapidly update, showing positive shifts.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"A confident marketing professional (Sarah Chen type) reviews a dashboard displaying sharply upward-trending performance graphs. Visuals of winning ad creatives being rapidly deployed and scaled across various digital channels.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Product logo subtly integrated. A bold, clear 'Speed Up' call to action text appears prominently on screen.\"\n      }\n    ],\n    \"voiceover\": \"Tired of slow ad cycles? Your competitors aren't. Accelerate creative production and testing. Scale winning campaigns instantly. Drive growth.\",\n    \"cta\": \"Speed Up\"\n  }\n}\n```"
+}

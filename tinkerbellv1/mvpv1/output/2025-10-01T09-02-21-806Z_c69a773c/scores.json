@@ -1,0 +1,193 @@
+{
+  "scores": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "trend_score": 18,
+      "llm_score": 95,
+      "viral_score": 20,
+      "final_score": 53,
+      "rationale": "Directly hits core pain points (slow cycles, wasted time, low ROI) and promises key motivations (scale, maximize spend). Strong, urgent CTA.\nThe tone is direct but lacks the provocative edge of viral ads. The hook 'Stop Wasting Time. Convert More.' is a generic command, not an intriguing challenge or a bold statement. It offers benefits but lacks novelty and doesn't evoke a strong emotional response like the exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdeff",
+      "trend_score": 11,
+      "llm_score": 92,
+      "viral_score": 25,
+      "final_score": 50,
+      "rationale": "Addresses critical pain points of scaling difficulty and inefficient budget allocation. The headline is concise and impactful, resonating with a performance marketer's goals.\nThe tone is direct and benefit-oriented. 'Scale Faster. Spend Smarter.' is a clear value proposition but lacks the dramatic hook or confrontational tone of viral content. While 'Eliminate creative bottlenecks' addresses a pain point, the overall message is functional rather than provocative or novel.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "trend_score": 17,
+      "llm_score": 80,
+      "viral_score": 20,
+      "final_score": 46,
+      "rationale": "Good, but 'less effort' might be slightly less compelling than direct ROI or competitive advantage for an enterprise head. CTA is softer.\nThe tone is direct and focuses on efficiency. The hook 'Less Creative Effort, More Performance.' is a common marketing promise, not a novel or challenging statement. It clearly states benefits but doesn't offer a fresh perspective or evoke the strong emotional reaction seen in viral exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "trend_score": 22,
+      "llm_score": 93,
+      "viral_score": 65,
+      "final_score": 63,
+      "rationale": "Strongly appeals to the motivation of maintaining a competitive edge and rapid innovation, directly addressing a key concern for enterprise leaders. Urgent CTA.\nThe tone is direct, competitive, and urgent, aligning well with the persona's motivation to maintain a competitive edge. The hook 'Outpace Competitors. Instantly Iterate Ads.' taps into a strong aspirational desire, and the body's 'Your rivals are stuck in slow cycles' creates an 'us vs. them' dynamic, implying insider knowledge and a clear advantage. This competitive framing adds novelty and a strong emotional driver compared to generic benefit statements.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "trend_score": 19,
+      "llm_score": 94,
+      "viral_score": 70,
+      "final_score": 63,
+      "rationale": "Directly targets the pain point of 'lack of real-time, actionable insights' and ties it to tangible results: ROI, conversions, and budget maximization. Very compelling.\nThe tone is highly direct, confident, and challenging. The hook 'Stop guessing.' immediately addresses a core pain point (lack of real-time insights, inefficient budget allocation) with a powerful, confrontational command. 'Real-Time Optimization. Real ROI.' is a concise, memorable, and confident promise. This direct challenge to inefficient practices, combined with a clear, tangible solution, offers novelty in its bold framing and aligns well with the problem-solution, status-quo-challenging nature of viral B2B ads.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "trend_score": 18,
+      "llm_score": 95,
+      "viral_score": 20,
+      "final_score": 53,
+      "rationale": "Directly hits core pain points (slow cycles, wasted time, low ROI) and promises key motivations (scale, maximize spend). Strong, urgent CTA.\nThe tone is direct but lacks the provocative edge of viral ads. The hook 'Stop Wasting Time. Convert More.' is a generic command, not an intriguing challenge or a bold statement. It offers benefits but lacks novelty and doesn't evoke a strong emotional response like the exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdeff",
+      "trend_score": 11,
+      "llm_score": 92,
+      "viral_score": 25,
+      "final_score": 50,
+      "rationale": "Addresses critical pain points of scaling difficulty and inefficient budget allocation. The headline is concise and impactful, resonating with a performance marketer's goals.\nThe tone is direct and benefit-oriented. 'Scale Faster. Spend Smarter.' is a clear value proposition but lacks the dramatic hook or confrontational tone of viral content. While 'Eliminate creative bottlenecks' addresses a pain point, the overall message is functional rather than provocative or novel.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "trend_score": 17,
+      "llm_score": 80,
+      "viral_score": 20,
+      "final_score": 46,
+      "rationale": "Good, but 'less effort' might be slightly less compelling than direct ROI or competitive advantage for an enterprise head. CTA is softer.\nThe tone is direct and focuses on efficiency. The hook 'Less Creative Effort, More Performance.' is a common marketing promise, not a novel or challenging statement. It clearly states benefits but doesn't offer a fresh perspective or evoke the strong emotional reaction seen in viral exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "trend_score": 22,
+      "llm_score": 93,
+      "viral_score": 65,
+      "final_score": 63,
+      "rationale": "Strongly appeals to the motivation of maintaining a competitive edge and rapid innovation, directly addressing a key concern for enterprise leaders. Urgent CTA.\nThe tone is direct, competitive, and urgent, aligning well with the persona's motivation to maintain a competitive edge. The hook 'Outpace Competitors. Instantly Iterate Ads.' taps into a strong aspirational desire, and the body's 'Your rivals are stuck in slow cycles' creates an 'us vs. them' dynamic, implying insider knowledge and a clear advantage. This competitive framing adds novelty and a strong emotional driver compared to generic benefit statements.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "trend_score": 19,
+      "llm_score": 94,
+      "viral_score": 70,
+      "final_score": 63,
+      "rationale": "Directly targets the pain point of 'lack of real-time, actionable insights' and ties it to tangible results: ROI, conversions, and budget maximization. Very compelling.\nThe tone is highly direct, confident, and challenging. The hook 'Stop guessing.' immediately addresses a core pain point (lack of real-time insights, inefficient budget allocation) with a powerful, confrontational command. 'Real-Time Optimization. Real ROI.' is a concise, memorable, and confident promise. This direct challenge to inefficient practices, combined with a clear, tangible solution, offers novelty in its bold framing and aligns well with the problem-solution, status-quo-challenging nature of viral B2B ads.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "e0a1b2c3-d4e5-4f67-890a-1234567890bc",
+      "trend_score": 18,
+      "llm_score": 93,
+      "viral_score": 90,
+      "final_score": 66,
+      "rationale": "Directly targets competitive fear and slow creative pain point. Strong urgency and clear solution. CTA is aggressive and effective.\nThe tone is direct and urgent, tapping into competitive fear, similar to the 'CFO asks about CAC' exemplar. The hook 'Your Competitor Just Out-Iterated You. Again.' is highly specific and novel, directly linking a common pain (losing to competitors) to the company's unique value proposition (iteration speed).",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "f1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "trend_score": 19,
+      "llm_score": 95,
+      "viral_score": 75,
+      "final_score": 64,
+      "rationale": "Hits hard on primary motivation (ROI) and critical pain point (competitor speed). Clear value prop and powerful, aligned CTA.\nThe tone is direct and problem-solution oriented. The hook 'Stop Losing ROI' addresses a core pain point but is less novel or provocative than the exemplars. While it mentions competitors, the phrasing 'Competitors Scale Faster' is less impactful than 'Out-Iterated' or 'Unfair Advantage'.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "0a1b2c3d-4e5f-4678-90ab-cdef12345678",
+      "trend_score": 6,
+      "llm_score": 88,
+      "viral_score": 85,
+      "final_score": 59,
+      "rationale": "Appeals to competitive drive and enterprise need for speed. Clearly offers solution for scaling. CTA is strong and aspirational.\nThe tone is direct and empowering, evoking a sense of urgency and competitive drive. The hook 'Don't Let Them Steal Your Next Big Win' is emotionally charged and creates a strong fear of missing out, similar to the 'ad budget is a hostage' metaphor in its impact, offering a clear path to protection.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "1b2c3d4e-5f67-4890-abcd-ef1234567890",
+      "trend_score": 16,
+      "llm_score": 90,
+      "viral_score": 92,
+      "final_score": 65,
+      "rationale": "Intriguing headline positions product as a competitive differentiator. Body clearly links rapid iteration to leaving competitors behind. Strong CTA.\nThe tone is confident and aspirational. The hook 'The Unfair Advantage Your Competitors Fear' is highly intriguing, promising a 'secret weapon' and directly addressing the persona's desire for a competitive edge, akin to the 'Pipeline tripled' exemplar's implied secret. The novelty lies in framing rapid iteration as this exclusive, feared advantage.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "2c3d4e5f-6789-40ab-cdef-1234567890ab",
+      "trend_score": 28,
+      "llm_score": 85,
+      "viral_score": 80,
+      "final_score": 64,
+      "rationale": "Directly addresses budget waste from slow creative, a key pain point. Clearly states the UVP. CTA is good but less impactful than others.\nThe tone is direct and questioning, immediately engaging the audience. The hook 'Is Slow Creative Stealing Your Ad Budget?' effectively highlights a major pain point (budget waste) with a strong verb, similar to the 'ad budget is a hostage' exemplar. However, 'slow creative' as the culprit is a less novel framing than 'bloated creative cycles' or 'killing 90% of creative'.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e001",
+      "trend_score": 30,
+      "llm_score": 90,
+      "viral_score": 30,
+      "final_score": 57,
+      "rationale": "Directly targets budget waste and ROI, core financial motivations for a Head of Performance Marketing. Strong alignment with UVP and pain points.\nTone is direct but lacks the aggressive, provocative edge of viral ads. The hook is generic, stating common benefits ('Cut Ad Waste,' 'Maximize ROI') without the dramatic framing or surprising claims seen in exemplars. Low novelty, as these are standard marketing claims.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e002",
+      "trend_score": 29,
+      "llm_score": 95,
+      "viral_score": 55,
+      "final_score": 64,
+      "rationale": "Perfectly addresses the primary pain point of 'slow creative cycles' and offers the core solution 'instant iteration' with a competitive urgency. High CTR and qualified leads.\nTone is direct and action-oriented ('Stop... Start...'). The hook directly addresses a core persona pain point ('Slow Ad Cycles') and immediately offers the company's unique solution ('Instant Iteration'), aligning well with the UVP. It offers moderate novelty by highlighting the 'instant' aspect, but lacks the extreme provocation or metaphor of the viral examples.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e003",
+      "trend_score": 30,
+      "llm_score": 92,
+      "viral_score": 60,
+      "final_score": 64,
+      "rationale": "Combines 'scaling winning ads' (major pain point/motivation) with 'instantly' and 'maximize ROI'. Hits key enterprise performance metrics directly.\nTone is direct and confident. The hook is strong, combining a key motivation ('Scale Winning Ads') with the company's core differentiator ('Instantly') and a major benefit ('Maximize ROI'). This clearly articulates a solution to a major pain point. It's benefit-driven and specific, offering moderate novelty by emphasizing speed, though still less provocative than the exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e004",
+      "trend_score": 30,
+      "llm_score": 80,
+      "viral_score": 45,
+      "final_score": 56,
+      "rationale": "Addresses 'real-time insights' and 'competitive edge', which are important. However, it focuses more on an enabler (insights) rather than the core action (iteration) or the most pressing pain points.\nTone is direct and assertive. The hook highlights a valuable feature ('Real-Time Ad Insights') and a strong outcome ('Unbeatable Competitive Edge'). While appealing to a key motivation, 'real-time insights' is a common claim, reducing novelty. It lacks the dramatic tension or radical solution implied by the viral exemplars.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e005",
+      "trend_score": 45,
+      "llm_score": 88,
+      "viral_score": 50,
+      "final_score": 65,
+      "rationale": "Targets 'team efficiency' and links it directly to 'iterate faster' and 'scale campaigns', hitting a key motivation and core product benefits. Strong for internal team impact.\nTone is direct and empowering. The hook connects a tangible internal benefit ('Boost Ad Team Efficiency') to a highly aspirational outcome ('Unlock Exponential Growth'). This appeals to both pain points (efficiency) and motivations (growth). It offers moderate novelty by framing efficiency as a direct path to exponential gains, but isn't as disruptive or shocking as the viral examples.",
+      "scored_at": "2025-10-01T09:06:37.279Z"
+    }
+  ],
+  "weights": {
+    "llm": 0.45,
+    "trend": 0.35,
+    "viral": 0.2
+  },
+  "prompt_versions": {
+    "predictive": "v1",
+    "viral": "v1"
+  }
+}

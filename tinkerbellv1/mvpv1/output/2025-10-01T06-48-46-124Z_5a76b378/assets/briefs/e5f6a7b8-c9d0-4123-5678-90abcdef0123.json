@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "e5f6a7b8-c9d0-4123-5678-90abcdef0123",
+    "image_brief": "A dynamic, high-contrast image using brand colors (blue, black, white). A confident, focused marketing professional (Alex Chen persona) is at a sleek, modern workstation, actively deploying digital ads. In the background, a blurred, slightly lagging shadow or abstract representation of a competitor struggles to catch up. The overall impression should be speed, efficiency, and competitive advantage, emphasizing 'instantly iterate performance ads' and 'secure your lead'.",
+    "video_brief": {
+      "hook": "Stop Rivals From Stealing Your Ad Wins.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a frustrated marketing manager (Alex Chen persona) staring at a complex, slow-loading dashboard with red negative trends. A subtle, blurred image of a competitor's logo or successful ad might appear briefly on another screen in the background, implying missed opportunities. Tone: Urgent, problem-focused."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Transition to a vibrant, clean user interface (representing the company's product). Data visualizations are rapidly updating, showing green positive trends, quick A/B test results, and a clear 'Deploy Winning Ad' button being clicked. Emphasize speed and automation. Use brand colors (blue, white, black)."
+        },
+        {
+          "time": "7-10s",
+          "visual": "The marketing manager from the first scene now looks confident and victorious, smiling at a screen displaying significant ROI growth and successful campaign metrics. A subtle visual element suggesting 'leaving competitors behind' could be a fast-forward animation of a rival's slower progress in the background. Tone: Empowered, successful."
+        },
+        {
+          "time": "10-12s",
+          "visual": "On-screen text: 'Future-proof your ad strategy.'"
+        }
+      ],
+      "voiceover": "Are slow ad cycles costing you crucial wins? While you test, rivals scale. But what if you could instantly iterate, optimize, and deploy? Secure your lead. Outpace the competition and dominate your market.",
+      "cta": "Secure Your Wins"
+    },
+    "generated_at": "2025-10-01T07:04:36.084Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, high-contrast image using brand colors (blue, black, white). A confident, focused marketing professional (Alex Chen persona) is at a sleek, modern workstation, actively deploying digital ads. In the background, a blurred, slightly lagging shadow or abstract representation of a competitor struggles to catch up. The overall impression should be speed, efficiency, and competitive advantage, emphasizing 'instantly iterate performance ads' and 'secure your lead'.\",\n  \"video_brief\": {\n    \"hook\": \"Stop Rivals From Stealing Your Ad Wins.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a frustrated marketing manager (Alex Chen persona) staring at a complex, slow-loading dashboard with red negative trends. A subtle, blurred image of a competitor's logo or successful ad might appear briefly on another screen in the background, implying missed opportunities. Tone: Urgent, problem-focused.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Transition to a vibrant, clean user interface (representing the company's product). Data visualizations are rapidly updating, showing green positive trends, quick A/B test results, and a clear 'Deploy Winning Ad' button being clicked. Emphasize speed and automation. Use brand colors (blue, white, black).\"\n      },\n      {\n        \"time\": \"7-10s\",\n        \"visual\": \"The marketing manager from the first scene now looks confident and victorious, smiling at a screen displaying significant ROI growth and successful campaign metrics. A subtle visual element suggesting 'leaving competitors behind' could be a fast-forward animation of a rival's slower progress in the background. Tone: Empowered, successful.\"\n      },\n      {\n        \"time\": \"10-12s\",\n        \"visual\": \"On-screen text: 'Future-proof your ad strategy.'\"\n      }\n    ],\n    \"voiceover\": \"Are slow ad cycles costing you crucial wins? While you test, rivals scale. But what if you could instantly iterate, optimize, and deploy? Secure your lead. Outpace the competition and dominate your market.\",\n    \"cta\": \"Secure Your Wins\"\n  }\n}\n```"
+}

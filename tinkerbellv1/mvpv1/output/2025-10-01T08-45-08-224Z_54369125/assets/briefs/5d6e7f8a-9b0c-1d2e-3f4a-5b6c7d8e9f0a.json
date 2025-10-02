@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+    "image_brief": "A dynamic, high-tech visual representing accelerated ad iteration and competitive advantage. The left side depicts a slow, manual process: a blurred, overwhelmed marketing professional sifting through stacks of physical papers or a sluggish, outdated computer screen with complex spreadsheets. The right side showcases a sharp, vibrant, and futuristic digital dashboard with real-time performance ad metrics, rapidly updating graphs showing steep upward trends, and flowing data streams. A prominent digital overlay or graphic indicates '10x Faster' or 'Accelerated Iteration'. The overall impression should be one of efficiency, speed, and decisive market dominance, with subtle integration of brand colors. The visual should evoke the feeling of winning a critical race in the digital marketing landscape.",
+    "video_brief": {
+      "hook": "Outpace Competitors: Iterate Ads 10x Faster.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A split screen. Left side: A frustrated marketing professional (Olivia persona) looking overwhelmed, surrounded by stacks of paper or numerous open, complex spreadsheets, symbolizing manual iteration. Right side: A blurred, slow-moving digital clock or a progress bar stuck at a low percentage, emphasizing delay."
+        },
+        {
+          "time": "3-8s",
+          "visual": "Transition to a sleek, modern, animated UI dashboard. Data points, graphs, and performance metrics rapidly refresh and optimize, showing a clear upward trend. Digital lines and arrows illustrate fast data flow and automation. A '10x Faster' speed effect or text overlay appears prominently, indicating rapid iteration."
+        },
+        {
+          "time": "8-12s",
+          "visual": "A confident, smiling marketing professional (Olivia persona) looking at a large screen displaying impressive growth charts, a 'Market Leader' status, or a finish line graphic, implying victory and market dominance. The background is clean and professional, suggesting a high-performing team."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Company logo appears. Text overlay: 'Outpace Competitors: Iterate Ads 10x Faster.' followed by the Call to Action 'Accelerate Growth'."
+        }
+      ],
+      "voiceover": "Manual ad iteration is a bottleneck. It's slowing your growth. Our platform automates testing, allowing you to iterate performance ads ten times faster. Unlock rapid scaling, outpace competitors, and dominate your market.",
+      "cta": "Accelerate Growth"
+    },
+    "generated_at": "2025-10-01T08:51:35.344Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, high-tech visual representing accelerated ad iteration and competitive advantage. The left side depicts a slow, manual process: a blurred, overwhelmed marketing professional sifting through stacks of physical papers or a sluggish, outdated computer screen with complex spreadsheets. The right side showcases a sharp, vibrant, and futuristic digital dashboard with real-time performance ad metrics, rapidly updating graphs showing steep upward trends, and flowing data streams. A prominent digital overlay or graphic indicates '10x Faster' or 'Accelerated Iteration'. The overall impression should be one of efficiency, speed, and decisive market dominance, with subtle integration of brand colors. The visual should evoke the feeling of winning a critical race in the digital marketing landscape.\",\n  \"video_brief\": {\n    \"hook\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A split screen. Left side: A frustrated marketing professional (Olivia persona) looking overwhelmed, surrounded by stacks of paper or numerous open, complex spreadsheets, symbolizing manual iteration. Right side: A blurred, slow-moving digital clock or a progress bar stuck at a low percentage, emphasizing delay.\"\n      },\n      {\n        \"time\": \"3-8s\",\n        \"visual\": \"Transition to a sleek, modern, animated UI dashboard. Data points, graphs, and performance metrics rapidly refresh and optimize, showing a clear upward trend. Digital lines and arrows illustrate fast data flow and automation. A '10x Faster' speed effect or text overlay appears prominently, indicating rapid iteration.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"A confident, smiling marketing professional (Olivia persona) looking at a large screen displaying impressive growth charts, a 'Market Leader' status, or a finish line graphic, implying victory and market dominance. The background is clean and professional, suggesting a high-performing team.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Company logo appears. Text overlay: 'Outpace Competitors: Iterate Ads 10x Faster.' followed by the Call to Action 'Accelerate Growth'.\"\n      }\n    ],\n    \"voiceover\": \"Manual ad iteration is a bottleneck. It's slowing your growth. Our platform automates testing, allowing you to iterate performance ads ten times faster. Unlock rapid scaling, outpace competitors, and dominate your market.\",\n    \"cta\": \"Accelerate Growth\"\n  }\n}\n```"
+}

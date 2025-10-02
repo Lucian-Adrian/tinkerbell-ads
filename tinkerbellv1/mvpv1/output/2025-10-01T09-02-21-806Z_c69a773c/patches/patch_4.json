@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+    "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+    "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+    "temperature": 0.8,
+    "batch_index": 3,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T09:03:47.754Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e001",
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Cut Ad Waste Now. Maximize ROI.",
+      "body": "Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.",
+      "cta": "Reduce Waste",
+      "keywords": [
+        "Ad Waste",
+        "ROI",
+        "Optimize",
+        "Performance",
+        "Efficiency",
+        "Budget",
+        "Iterate",
+        "Creative",
+        "Scale"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:47.754Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e002",
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Stop Slow Ad Cycles. Start Instant Iteration.",
+      "body": "Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.",
+      "cta": "Speed Up",
+      "keywords": [
+        "Ad Cycles",
+        "Iteration",
+        "Creative",
+        "Scale",
+        "Growth",
+        "Performance",
+        "Efficiency",
+        "Optimize",
+        "Rapid",
+        "Win"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:47.754Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e003",
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Scale Winning Ads. Instantly. Maximize ROI.",
+      "body": "Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.",
+      "cta": "Scale Now",
+      "keywords": [
+        "Scale",
+        "Winning Ads",
+        "ROI",
+        "Optimize",
+        "Performance",
+        "Growth",
+        "Creative",
+        "Iterate",
+        "Channels",
+        "Maximize"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:47.754Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e004",
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Real-Time Ad Insights. Unbeatable Competitive Edge.",
+      "body": "Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.",
+      "cta": "Get Insights",
+      "keywords": [
+        "Real-Time",
+        "Insights",
+        "Competitive Edge",
+        "Optimize",
+        "Performance",
+        "Data",
+        "Growth",
+        "Innovation",
+        "Actionable"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:47.754Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e005",
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Boost Ad Team Efficiency. Unlock Exponential Growth.",
+      "body": "Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.",
+      "cta": "Boost Efficiency",
+      "keywords": [
+        "Team Efficiency",
+        "Growth",
+        "Performance",
+        "Iterate",
+        "Scale",
+        "Optimize",
+        "Creative",
+        "Production",
+        "Maximize",
+        "Unlock"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:47.754Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e001\",\n      \"headline\": \"Cut Ad Waste Now. Maximize ROI.\",\n      \"body\": \"Stop burning budget on underperforming ads. Instantly iterate and optimize creatives to maximize ROI. Get real-time insights.\",\n      \"cta\": \"Reduce Waste\",\n      \"keywords\": [\n        \"Ad Waste\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Budget\",\n        \"Iterate\",\n        \"Creative\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e002\",\n      \"headline\": \"Stop Slow Ad Cycles. Start Instant Iteration.\",\n      \"body\": \"Your competitors are moving faster. Accelerate creative production & testing to scale winning campaigns instantly. Drive growth.\",\n      \"cta\": \"Speed Up\",\n      \"keywords\": [\n        \"Ad Cycles\",\n        \"Iteration\",\n        \"Creative\",\n        \"Scale\",\n        \"Growth\",\n        \"Performance\",\n        \"Efficiency\",\n        \"Optimize\",\n        \"Rapid\",\n        \"Win\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e003\",\n      \"headline\": \"Scale Winning Ads. Instantly. Maximize ROI.\",\n      \"body\": \"Don't let delays kill your momentum. Rapidly deploy and optimize top-performing ad creatives across all channels for max ROI.\",\n      \"cta\": \"Scale Now\",\n      \"keywords\": [\n        \"Scale\",\n        \"Winning Ads\",\n        \"ROI\",\n        \"Optimize\",\n        \"Performance\",\n        \"Growth\",\n        \"Creative\",\n        \"Iterate\",\n        \"Channels\",\n        \"Maximize\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e004\",\n      \"headline\": \"Real-Time Ad Insights. Unbeatable Competitive Edge.\",\n      \"body\": \"Gain the competitive advantage. Access instant, actionable data to optimize performance ads & outpace your market. Drive growth.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-Time\",\n        \"Insights\",\n        \"Competitive Edge\",\n        \"Optimize\",\n        \"Performance\",\n        \"Data\",\n        \"Growth\",\n        \"Innovation\",\n        \"Actionable\"\n      ]\n    },\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890e005\",\n      \"headline\": \"Boost Ad Team Efficiency. Unlock Exponential Growth.\",\n      \"body\": \"Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains.\",\n      \"cta\": \"Boost Efficiency\",\n      \"keywords\": [\n        \"Team Efficiency\",\n        \"Growth\",\n        \"Performance\",\n        \"Iterate\",\n        \"Scale\",\n        \"Optimize\",\n        \"Creative\",\n        \"Production\",\n        \"Maximize\",\n        \"Unlock\"\n      ]\n    }\n  ]\n}\n```"
+}

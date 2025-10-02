@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# TypeScript
+dist/
+
+# Env
+.env
+.env.*
+
+# Editor
+.vscode/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+
+# Misc
+*.local

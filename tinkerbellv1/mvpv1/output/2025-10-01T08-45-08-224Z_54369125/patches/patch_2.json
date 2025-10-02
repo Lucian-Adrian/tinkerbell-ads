@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+    "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+    "seed_phrase": "Contrarian: 'Do less, convert more'",
+    "temperature": 0.35,
+    "batch_index": 1,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T08:47:46.886Z"
+  },
+  "ideas": [
+    {
+      "script_id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
+      "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Do Less, Convert More: The New Growth Rule.",
+      "body": "Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.",
+      "cta": "Automate Now",
+      "keywords": [
+        "Ad Automation",
+        "Performance ROI",
+        "Growth Strategy",
+        "Efficiency",
+        "Iteration Speed",
+        "Marketing Scale",
+        "Competitive Edge"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:46.886Z"
+    },
+    {
+      "script_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Your Ad Team Is Overworked. Your Ads Aren't.",
+      "body": "Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.",
+      "cta": "Scale Smarter",
+      "keywords": [
+        "Resource Optimization",
+        "Ad Efficiency",
+        "Growth Opportunities",
+        "Performance Marketing",
+        "Campaign Automation",
+        "ROI Maximization"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:46.886Z"
+    },
+    {
+      "script_id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Prove Ad Value Faster. With Less Effort.",
+      "body": "Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.",
+      "cta": "Get Insights",
+      "keywords": [
+        "Ad Value",
+        "ROI Proof",
+        "Rapid Iteration",
+        "Performance Insights",
+        "Marketing Automation",
+        "Efficiency Gains"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:46.886Z"
+    },
+    {
+      "script_id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+      "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Outpace Competitors: Iterate Ads 10x Faster.",
+      "body": "Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.",
+      "cta": "Accelerate Growth",
+      "keywords": [
+        "Competitive Advantage",
+        "Ad Scaling",
+        "Fast Iteration",
+        "Performance Ads",
+        "Market Domination",
+        "Automation",
+        "Growth Hacking"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:46.886Z"
+    },
+    {
+      "script_id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+      "patch_id": "3d172b0f-81f0-4889-b815-5aa13015c120",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Stop Grinding. Start Growing.",
+      "body": "Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.",
+      "cta": "Boost Productivity",
+      "keywords": [
+        "Team Productivity",
+        "Ad Optimization",
+        "Growth Drive",
+        "Efficiency",
+        "Performance Marketing",
+        "Automation",
+        "Results-Oriented"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:47:46.886Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d\",\n      \"headline\": \"Do Less, Convert More: The New Growth Rule.\",\n      \"body\": \"Stop endless manual ad iterations. Our platform automates testing, freeing your team to focus on strategy. Maximize ROI, effortlessly.\",\n      \"cta\": \"Automate Now\",\n      \"keywords\": [\n        \"Ad Automation\",\n        \"Performance ROI\",\n        \"Growth Strategy\",\n        \"Efficiency\",\n        \"Iteration Speed\",\n        \"Marketing Scale\",\n        \"Competitive Edge\"\n      ]\n    },\n    {\n      \"script_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"headline\": \"Your Ad Team Is Overworked. Your Ads Aren't.\",\n      \"body\": \"Manual ad iteration wastes budget & talent. Instantly optimize performance, capture missed growth, and scale efficiently.\",\n      \"cta\": \"Scale Smarter\",\n      \"keywords\": [\n        \"Resource Optimization\",\n        \"Ad Efficiency\",\n        \"Growth Opportunities\",\n        \"Performance Marketing\",\n        \"Campaign Automation\",\n        \"ROI Maximization\"\n      ]\n    },\n    {\n      \"script_id\": \"3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f\",\n      \"headline\": \"Prove Ad Value Faster. With Less Effort.\",\n      \"body\": \"Stop guessing. Our platform delivers rapid ad iteration and clear performance insights, boosting ROI without the manual grind.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Ad Value\",\n        \"ROI Proof\",\n        \"Rapid Iteration\",\n        \"Performance Insights\",\n        \"Marketing Automation\",\n        \"Efficiency Gains\"\n      ]\n    },\n    {\n      \"script_id\": \"5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a\",\n      \"headline\": \"Outpace Competitors: Iterate Ads 10x Faster.\",\n      \"body\": \"Manual iteration is a bottleneck. Automate your performance ad testing to unlock rapid scaling and dominate your market.\",\n      \"cta\": \"Accelerate Growth\",\n      \"keywords\": [\n        \"Competitive Advantage\",\n        \"Ad Scaling\",\n        \"Fast Iteration\",\n        \"Performance Ads\",\n        \"Market Domination\",\n        \"Automation\",\n        \"Growth Hacking\"\n      ]\n    },\n    {\n      \"script_id\": \"7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b\",\n      \"headline\": \"Stop Grinding. Start Growing.\",\n      \"body\": \"Your team's time is precious. Eliminate slow ad iteration cycles. Automate optimization, boost productivity, and drive results.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Team Productivity\",\n        \"Ad Optimization\",\n        \"Growth Drive\",\n        \"Efficiency\",\n        \"Performance Marketing\",\n        \"Automation\",\n        \"Results-Oriented\"\n      ]\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "asset_brief",
+  "version": "v1",
+  "system": "You are a creative director who prepares production-ready briefs. Output JSON only.",
+  "template": "Create an image and video brief for the following winning ad idea. Keep directions clear, grounded in the brand context, and ready for automated generators.\n\nCompany Context:\n{{context}}\nPersona JSON:\n{{persona}}\nIdea JSON:\n{{idea}}\n\nReturn JSON exactly as {\"image_brief\": string, \"video_brief\": {\"hook\": string, \"scenes\": [ {\"time\": string, \"visual\": string } ], \"voiceover\": string, \"cta\": string } }. Keep hook <= 10 words. Scenes should cover a 10-15 second concept. Voiceover may be empty if not needed."
+}

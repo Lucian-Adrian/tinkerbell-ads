@@ -1,0 +1,34 @@
+{
+  "version": "mvp_config_v1",
+  "ideasPerPatch": 5,
+  "patchCount": 4,
+  "topIdeaCount": 10,
+  "topVideoCount": 3,
+  "maxPromptRetries": 2,
+  "scoringWeights": {
+    "llm": 0.45,
+    "trend": 0.35,
+    "viral": 0.2
+  },
+  "trend": {
+    "lookbackDays": 30,
+    "keywordsPerIdea": 3
+  },
+  "batching": {
+    "predictiveBatchSize": 5,
+    "viralBatchSize": 5
+  },
+  "models": {
+    "text": "gemini-2.5-flash",
+    "image": "imagen-4.0-fast-generate-001",
+    "video": "veo-3.0-fast-generate-001"
+  },
+  "prompts": {
+    "context": "prompts/context_extraction_v1.json",
+    "persona": "prompts/persona_generation_v1.json",
+    "patch": "prompts/patch_generation_v1.json",
+    "predictive": "prompts/predictive_scoring_v1.json",
+    "viral": "prompts/viral_scoring_v1.json",
+    "asset": "prompts/asset_brief_v1.json"
+  }
+}

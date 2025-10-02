@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+    "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+    "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+    "temperature": 0.8,
+    "batch_index": 3,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T08:48:12.095Z"
+  },
+  "ideas": [
+    {
+      "script_id": "8a1b2c3d-4e5f-6789-0123-456789abcdef",
+      "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Stop Waiting. Start Winning.",
+      "body": "Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.",
+      "cta": "Iterate Faster",
+      "keywords": [
+        "Ad iteration",
+        "Performance marketing",
+        "Rapid growth",
+        "Ad optimization",
+        "Competitive advantage",
+        "Scale"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:48:12.095Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-6789abcdef01",
+      "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Prove Your Ad Value. Instantly.",
+      "body": "Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.",
+      "cta": "Maximize ROI",
+      "keywords": [
+        "Ad ROI",
+        "Performance analytics",
+        "Marketing efficiency",
+        "Ad spend",
+        "Value proof",
+        "Optimization"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:48:12.095Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+      "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Outpace Competitors. Scale Smarter.",
+      "body": "Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.",
+      "cta": "Gain Edge",
+      "keywords": [
+        "Competitive edge",
+        "Scale marketing",
+        "Ad testing",
+        "Campaign optimization",
+        "Rapid scaling",
+        "Growth strategy"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:48:12.095Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+      "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Reclaim Your Team's Time.",
+      "body": "Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.",
+      "cta": "Boost Productivity",
+      "keywords": [
+        "Marketing automation",
+        "Team efficiency",
+        "Resource optimization",
+        "Productivity boost",
+        "Ad management",
+        "Streamline"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:48:12.095Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-9abcdef01234",
+      "patch_id": "ae597b44-a0b4-48d2-af31-d63c007b934d",
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "headline": "Cut Ad Waste Now. Drive Real Growth.",
+      "body": "Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.",
+      "cta": "Optimize Spend",
+      "keywords": [
+        "Ad waste",
+        "Cost efficiency",
+        "Budget optimization",
+        "Ad performance",
+        "Campaign ROI",
+        "Growth opportunities"
+      ],
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T08:48:12.095Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"8a1b2c3d-4e5f-6789-0123-456789abcdef\",\n      \"headline\": \"Stop Waiting. Start Winning.\",\n      \"body\": \"Your competitors aren't. Accelerate performance ad iteration from weeks to minutes. Unlock rapid growth and gain a critical edge.\",\n      \"cta\": \"Iterate Faster\",\n      \"keywords\": [\n        \"Ad iteration\",\n        \"Performance marketing\",\n        \"Rapid growth\",\n        \"Ad optimization\",\n        \"Competitive advantage\",\n        \"Scale\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-6789abcdef01\",\n      \"headline\": \"Prove Your Ad Value. Instantly.\",\n      \"body\": \"Tired of guessing? Get clear ROI insights and optimize spend in real-time. Maximize efficiency, justify every dollar, every campaign.\",\n      \"cta\": \"Maximize ROI\",\n      \"keywords\": [\n        \"Ad ROI\",\n        \"Performance analytics\",\n        \"Marketing efficiency\",\n        \"Ad spend\",\n        \"Value proof\",\n        \"Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-789abcdef012\",\n      \"headline\": \"Outpace Competitors. Scale Smarter.\",\n      \"body\": \"Leave slow ad cycles behind. Our platform empowers you to iterate, test, and scale performance campaigns at unprecedented speed. Dominate your market.\",\n      \"cta\": \"Gain Edge\",\n      \"keywords\": [\n        \"Competitive edge\",\n        \"Scale marketing\",\n        \"Ad testing\",\n        \"Campaign optimization\",\n        \"Rapid scaling\",\n        \"Growth strategy\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-89abcdef0123\",\n      \"headline\": \"Reclaim Your Team's Time.\",\n      \"body\": \"Manual ad iteration kills productivity. Automate repetitive tasks and free your performance team to strategize, not just execute. Boost output now.\",\n      \"cta\": \"Boost Productivity\",\n      \"keywords\": [\n        \"Marketing automation\",\n        \"Team efficiency\",\n        \"Resource optimization\",\n        \"Productivity boost\",\n        \"Ad management\",\n        \"Streamline\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-9abcdef01234\",\n      \"headline\": \"Cut Ad Waste Now. Drive Real Growth.\",\n      \"body\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize underperforming campaigns to maximize every dollar. Unlock full potential.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Ad waste\",\n        \"Cost efficiency\",\n        \"Budget optimization\",\n        \"Ad performance\",\n        \"Campaign ROI\",\n        \"Growth opportunities\"\n      ]\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,304 @@
+{
+  "briefs": [
+    {
+      "script_id": "e0a1b2c3-d4e5-4f67-890a-1234567890bc",
+      "image_brief": "A professional, enterprise-level performance marketer (mid-30s to 40s, diverse, sharp business attire) looks stressed, observing a digital dashboard on a large monitor displaying a competitor's rapidly increasing market share graph and a declining trend for their own company. The screen is partially obscured by a transparent overlay or a thought bubble showing a sleek, modern ad creative platform interface with a 'Success: Ad Iterated' notification and a fast-moving progress bar. The background is a modern, clean office environment. The overall tone is urgent, highlighting competitive pressure and the promise of rapid solution. High contrast, professional aesthetic.",
+      "video_brief": {
+        "hook": "Competitors are winning. Again.",
+        "scenes": [
+          {
+            "time": "0-2s",
+            "visual": "Fast-paced montage: A digital graph showing a sharp upward trend for 'Competitor X Market Share'. Quick cuts of competitive product ads succeeding. A digital clock rapidly advancing, emphasizing lost time. Professional, high-tech aesthetic."
+          },
+          {
+            "time": "2-6s",
+            "visual": "A Head of Performance Marketing (Sarah Chen persona, mid-30s/40s, diverse, sharp business attire) looking frustrated at a computer screen displaying a complex, slow-loading creative approval workflow. Multiple email notifications for 'Creative Revisions' pop up. A calendar app shows 'Creative Freeze' for several days. Emphasize the pain of waiting."
+          },
+          {
+            "time": "6-11s",
+            "visual": "Transformative transition: The screen instantly clears to reveal a sleek, modern, AI-powered ad iteration platform. Show a user rapidly inputting parameters, selecting variations, and a 'Generate Ad' button being clicked, leading to instant, diverse ad creative outputs. Progress bars fill instantly. Focus on speed and ease of use. Clean, futuristic UI."
+          },
+          {
+            "time": "11-15s",
+            "visual": "The Head of Performance Marketing now confident and empowered, observing a large digital dashboard where their company's market share graph is now rapidly ascending, clearly surpassing the competitor's. A subtle, satisfied smile. The company logo (placeholder) subtly visible on the dashboard. Professional, successful ambiance."
+          }
+        ],
+        "voiceover": "While you wait for creative, your competitors are scaling. Losing market share, losing momentum. Stop the delays. Instantly iterate performance ads. Reclaim your competitive edge. Dominate.",
+        "cta": "Beat Them Now"
+      },
+      "generated_at": "2025-10-01T09:06:54.534Z"
+    },
+    {
+      "script_id": "1b2c3d4e-5f67-4890-abcd-ef1234567890",
+      "image_brief": "A dynamic, high-contrast image. On one side, a blurred, struggling competitor (represented by a generic business person looking frustrated at a slow-loading screen or complex spreadsheet). On the other, a sharp, confident professional (representing the user, aligned with Sarah Chen persona) effortlessly interacting with a sleek, modern performance marketing dashboard displaying rapidly ascending green graphs and real-time data. A subtle visual element of speed or acceleration (e.g., light trails, motion lines) emanates from the dashboard, symbolizing 'rapid iteration' and 'leaving competitors in the dust'. The overall impression is one of competitive dominance and efficiency.",
+      "video_brief": {
+        "hook": "Competitors struggling? Get your unfair ad advantage.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up of a digital clock ticking slowly, overlaid with a graph showing flat or declining ad performance metrics. Blurred background of frustrated business people in an office setting."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Dynamic shot of a sleek, modern UI (representing the product). A professional hand rapidly adjusting elements of an ad creative (e.g., text, image selection) with instant visual updates. A 'Deploy' or 'Iterate' button is pressed with a satisfying click."
+          },
+          {
+            "time": "7-12s",
+            "visual": "The performance graph from 0-3s now rapidly accelerates upwards, showing significant growth and green positive indicators. A confident, professional individual (aligned with Sarah Chen persona) smiles, looking at the screen with satisfaction."
+          },
+          {
+            "time": "12-15s",
+            "visual": "Product logo appears prominently against a clean, modern background. Text overlay: 'The Unfair Advantage Your Competitors Fear.'"
+          }
+        ],
+        "voiceover": "Stop waiting. Instantly iterate performance ads. Scale winning campaigns, and leave competitors in your dust.",
+        "cta": "Get Your Edge"
+      },
+      "generated_at": "2025-10-01T09:08:27.582Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e005",
+      "image_brief": "A dynamic, modern marketing team (2-3 diverse individuals) collaborating around a large, interactive screen displaying a sleek performance ad dashboard. The dashboard shows rapidly updating graphs with significant upward trends and positive metrics, symbolizing 'growth' and 'performance.' One team member points confidently at a section of the screen showing 'instant iteration' results, while another quickly types on a laptop, and a third observes with a satisfied, focused expression. The overall atmosphere is one of high efficiency, innovation, and rapid success. The background is a bright, contemporary office space, suggesting a high-tech environment. Use clean lines and a professional aesthetic.",
+      "video_brief": {
+        "hook": "Stop slow ad cycles. Unlock exponential growth.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "A split screen. Left side: A close-up on a frustrated marketing manager (Sarah Chen archetype) looking stressed at a cluttered desktop with multiple open browser tabs, charts showing flat or declining ad performance, and a persistent 'loading' spinner. Right side: A clock hand barely moving, emphasizing slow progress. Desaturated colors and a sense of stagnation."
+          },
+          {
+            "time": "3-7s",
+            "visual": "A rapid transition to a vibrant, dynamic UI of a performance ad platform. Data points and metrics instantly update, showing green arrows pointing upwards. A hand quickly drags and drops various creative elements (images, headlines, CTAs) into a template, then clicks a prominent 'Iterate Instantly' button. A ripple effect or flash across the screen symbolizes the speed of iteration."
+          },
+          {
+            "time": "7-12s",
+            "visual": "A diverse marketing team (3-4 people) in a bright, modern, collaborative workspace. They are gathered around a large monitor displaying the same sleek performance ad dashboard, now showing significant, consistent upward trends, high ROI, and positive engagement metrics. They are smiling, high-fiving, and pointing at the screen, conveying success, efficiency, and empowerment."
+          },
+          {
+            "time": "12-15s",
+            "visual": "The company logo (placeholder) appears prominently on screen, with the headline 'Boost Ad Team Efficiency. Unlock Exponential Growth.' The performance ad dashboard continues to show growth in the background. A clear, animated call-to-action button 'Boost Efficiency' slides into view, inviting interaction. Final shot holds on logo and CTA."
+          }
+        ],
+        "voiceover": "Slow creative cycles? Inefficient ad production? It's time to unlock your team's full potential. Empower your team to iterate faster, test smarter, and scale campaigns with unprecedented speed. Unlock massive performance gains and drive exponential growth. Transform your ad strategy now.",
+        "cta": "Boost Efficiency"
+      },
+      "generated_at": "2025-10-01T09:09:50.492Z"
+    },
+    {
+      "script_id": "f1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "image_brief": "A visually striking split-screen or overlay image. On one side (representing 'losing ROI' and 'slow cycles'), depict a dimly lit, complex digital dashboard with downward-trending red graphs, a visible 'budget drain' meter, and static, outdated ad creatives. A subtle, frustrated human hand might be visible. On the other side (representing 'instant optimization' and 'wins'), show a brightly lit, modern, and intuitive digital platform with rapidly updating green, upward-trending ROI graphs, dynamic ad creatives iterating in real-time, and a confident hand engaging with the interface. The overall impression should be a clear contrast between inefficiency/loss and speed/gain in performance advertising, emphasizing data visualization and a professional, enterprise-level aesthetic.",
+      "video_brief": {
+        "hook": "Competitors scaling faster? Stop losing ROI.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up on a digital dashboard displaying downward-trending red graphs for ROI and conversion rates. A subtle animation of a budget bar visibly draining. Overlay text: 'Slow Creative Cycles' or 'Budget Bleed'."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Split screen: On one side, a professional (Sarah Chen persona) looking frustrated at the declining metrics. On the other, a stylized, abstract representation of a competitor's dashboard with rapidly rising green graphs and dynamic ad creatives, implying rapid scaling."
+          },
+          {
+            "time": "7-12s",
+            "visual": "Transition to a sleek, modern software interface. Show rapid, seamless iteration of ad creatives (different headlines, images, CTAs dynamically changing). Green graphs instantly react, showing upward trends. A confident hand interacts with the platform, making quick decisions."
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final shot of the optimized dashboard, all green and upward-trending, with a clear 'ROI Maximized' indicator. A confident, satisfied marketing professional. Overlay text: 'Insights into Wins, Not Delays'."
+          }
+        ],
+        "voiceover": "Is slow creative bleeding your ad budget? While you wait, competitors are scaling, stealing your ROI. Instantly optimize performance ads. Turn insights into wins, not delays. Maximize every dollar. Reclaim your competitive edge.",
+        "cta": "Maximize ROI"
+      },
+      "generated_at": "2025-10-01T09:10:20.747Z"
+    },
+    {
+      "script_id": "2c3d4e5f-6789-40ab-cdef-1234567890ab",
+      "image_brief": "A visual metaphor depicting money (represented by dollar bills or coins) being siphoned or drained away from a budget bar by a slow, clunky, old-fashioned gear mechanism or a slowly ticking clock. The background should be modern and clean, with a subtle hint of a digital marketing dashboard. The overall impression should be one of inefficiency costing money.",
+      "video_brief": {
+        "hook": "Is slow creative stealing your ad budget?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "A split screen or quick cuts. On one side, a stressed marketing professional (Sarah Chen persona) looking at a computer screen with multiple open tabs, cluttered design software, and a calendar showing overdue creative deadlines. On the other, a digital representation of a clock ticking slowly, with dollar signs subtly fading away."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Transition to a visual metaphor: a digital ad campaign dashboard with a 'Budget Remaining' bar rapidly decreasing, alongside a 'Creative Iteration Speed' gauge stuck on 'Slow.' Emphasize the 'wasting resources' aspect."
+          },
+          {
+            "time": "7-12s",
+            "visual": "A dynamic, fast-paced transition. The screen clears to show a sleek, modern interface (representing the product) where ad creatives are rapidly generated, tested, and optimized with a single click. Green checkmarks appear, and graphs show upward trends. The marketer now looks confident and in control."
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final shot: The marketer smiling, looking at a dashboard showing 'ROI: +XX%' and 'Ad Efficiency: High.' A subtle animation of money flowing *into* a budget bar. The company logo appears clearly."
+          }
+        ],
+        "voiceover": "Is slow creative stealing your ad budget? Enterprise ad spend demands instant results, but slow cycles drain resources. Stop wasting time. Instantly iterate performance ads. Boost efficiency, maximize ROI, and stay ahead.",
+        "cta": "Boost Efficiency"
+      },
+      "generated_at": "2025-10-01T09:10:51.241Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e002",
+      "image_brief": "A dynamic split image or a single image with a clear visual contrast. On one side (representing 'slow ad cycles'), depict a frustrated marketing professional at a cluttered desk, surrounded by slow-loading screens, complex spreadsheets, or tangled wires, conveying manual, inefficient processes. Use muted, desaturated colors. On the other side (representing 'instant iteration'), show a confident professional interacting with a sleek, modern digital interface. This interface displays rapidly iterating ad creatives, real-time performance graphs with an upward trend, and a clean, intuitive dashboard. Use vibrant, bright colors with subtle motion lines or light trails to emphasize speed and efficiency. The overall image should convey a transformation from struggle to seamless, rapid optimization for performance ads.",
+      "video_brief": {
+        "hook": "Stop slow ad cycles.",
+        "scenes": [
+          {
+            "time": "0-2s",
+            "visual": "Close-up of a digital clock ticking slowly, or a progress bar stuck at 70%. A hand impatiently tapping a desk. A cluttered ad platform interface with multiple manual steps."
+          },
+          {
+            "time": "2-5s",
+            "visual": "Quick cuts: a graph showing flat ad performance, a calendar with crossed-out deadlines, a subtle visual of competitors' ads gaining traction. A slightly stressed marketing professional."
+          },
+          {
+            "time": "5-8s",
+            "visual": "A seamless transition to a clean, modern UI. Multiple ad creative variations instantly populate, driven by data. Real-time performance metrics rapidly update, showing positive shifts."
+          },
+          {
+            "time": "8-12s",
+            "visual": "A confident marketing professional (Sarah Chen type) reviews a dashboard displaying sharply upward-trending performance graphs. Visuals of winning ad creatives being rapidly deployed and scaled across various digital channels."
+          },
+          {
+            "time": "12-15s",
+            "visual": "Product logo subtly integrated. A bold, clear 'Speed Up' call to action text appears prominently on screen."
+          }
+        ],
+        "voiceover": "Tired of slow ad cycles? Your competitors aren't. Accelerate creative production and testing. Scale winning campaigns instantly. Drive growth.",
+        "cta": "Speed Up"
+      },
+      "generated_at": "2025-10-01T09:11:18.925Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e003",
+      "image_brief": "A dynamic, high-tech visual representing rapid ad iteration and scaling. Imagine a sleek, modern dashboard interface with multiple ad creatives (thumbnails) rapidly deploying across various digital channel icons (e.g., social media, search, display). An upward-trending performance graph or ROI chart is prominently integrated, symbolizing maximized returns. The overall aesthetic should be clean, professional, and convey speed and efficiency. Emphasize digital elements and data visualization, with a focus on growth and instant action.",
+      "video_brief": {
+        "hook": "Stop slow ad cycles. Scale instantly.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up of a professional (Head of Performance Marketing archetype) looking frustrated at a complex, slow-loading ad platform interface on a monitor. Multiple browser tabs open, indicating manual, cumbersome work. Overlay text: 'Delays killing your ad momentum?'"
+          },
+          {
+            "time": "3-8s",
+            "visual": "Transition to a sleek, modern SaaS dashboard. A hand (representing the user) rapidly interacts with the interface, and in fast-forward, multiple ad creative variations (thumbnails) are generated and optimized in real-time. Upward-trending green performance graphs appear, showing increasing metrics. Sound: Upbeat, modern tech sound effects."
+          },
+          {
+            "time": "8-12s",
+            "visual": "The optimized ad creatives (now looking polished and effective) are shown deploying instantaneously across a grid of digital channel icons (e.g., Facebook, Google Ads, LinkedIn, TikTok). The professional from 0-3s is now smiling confidently, reviewing the dashboard with positive results. Overlay text: 'Scale Winning Ads. Instantly.'"
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final shot of the company logo with the headline 'Scale Winning Ads. Instantly. Maximize ROI.' prominently displayed. The CTA button 'Scale Now' animates and glows."
+          }
+        ],
+        "voiceover": "Tired of slow ad cycles and missed opportunities? Instantly iterate and optimize your top-performing ad creatives. Rapidly deploy across all channels, maximizing your ROI. Scale Winning Ads. Instantly. Maximize ROI.",
+        "cta": "Scale Now"
+      },
+      "generated_at": "2025-10-01T09:11:51.629Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "image_brief": "A sophisticated digital dashboard displaying performance marketing metrics. A specific section of the dashboard, showing key data points like ROI or conversion rates, is subtly obscured by a hazy, dark, or blurry overlay, symbolizing 'blind spots' in ad performance. In contrast, other sections of the dashboard are brightly illuminated and crystal clear, showing positive trends (e.g., rising graphs, green indicators). The overall aesthetic should be clean, modern, and data-focused, conveying both a problem (lack of visibility) and the potential for clear insight. Use professional tech blues, greens, and grays for the interface.",
+      "video_brief": {
+        "hook": "Blind spots costing you ad performance?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "A sleek, modern digital dashboard. Focus on a section displaying ad performance metrics (e.g., ROI, conversion rates). This section is partially obscured by a subtle, dark, translucent overlay or a 'glitch' effect, symbolizing 'blind spots.' The overall mood is questioning/problematic."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Transition to dynamic, fast-paced data visualization. Abstract lines, nodes, and graphs rapidly connect and process, representing 'real-time data' and 'instant iteration.' A subtle glow emanates from the data as it processes, indicating intelligence and clarity emerging from complexity."
+          },
+          {
+            "time": "7-12s",
+            "visual": "Return to the dashboard from Scene 1. The dark overlay/glitch is completely gone. All metrics are now crystal clear, brightly illuminated, and show positive, upward trends (e.g., green arrows, higher percentages). A clear, optimized view, conveying control and success."
+          },
+          {
+            "time": "12-15s",
+            "visual": "The company logo (example.com) appears prominently. The ad headline 'Blind Spots in Your Ad Performance?' fades in, then transitions to 'Instantly iterate performance ads.' The CTA button 'Get Insights' appears clearly and centrally."
+          }
+        ],
+        "voiceover": "Blind spots in your ad performance? Stop guessing. Get instant, data-driven insights. Optimize every ad dollar.",
+        "cta": "Get Insights"
+      },
+      "generated_at": "2025-10-01T09:12:21.677Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "image_brief": "A dynamic composite image. On the left, a slightly desaturated digital dashboard displays slow, stagnant performance graphs (red/orange hues), symbolizing a lagging competitive position. A subtle, generic 'competitor' icon is visibly ahead. On the right, a vibrant, sharp, and modern digital interface dominates, showcasing multiple diverse ad creative mockups rapidly transforming and optimizing. Bright green, upward-trending graphs and real-time data visualizations indicate speed, growth, and innovation. A clear 'market leader' icon or a digital 'finish line' is prominently crossed. The overall aesthetic should be professional, high-tech, and convey urgency and competitive advantage. Focus on clean UI elements and abstract data visualization rather than specific product screenshots.",
+      "video_brief": {
+        "hook": "Losing the Ad Innovation Race?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "A digital race simulation with multiple generic ad icons, one falling behind while others surge ahead. Overlay text: 'Losing the Ad Innovation Race?'"
+          },
+          {
+            "time": "3-7s",
+            "visual": "Close-up on a focused but slightly frustrated marketing executive (late 30s-40s, professional attire) staring at a computer screen displaying static, underperforming ad creatives and slow-to-update performance charts."
+          },
+          {
+            "time": "7-12s",
+            "visual": "A rapid, energetic transition to a sleek, modern digital dashboard. Show multiple ad creative mockups (generic, diverse styles) instantly transforming, testing, and optimizing in a visually engaging, fast-paced animation. Upward-trending green graphs and real-time data flow."
+          },
+          {
+            "time": "12-15s",
+            "visual": "The marketing executive now confidently smiling, looking at the screen which displays clear market leadership metrics (e.g., 'Market Leader: +25% growth'). The screen radiates success and vibrant ad creatives."
+          }
+        ],
+        "voiceover": "Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.",
+        "cta": "Innovate Now"
+      },
+      "generated_at": "2025-10-01T09:12:50.080Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "image_brief": "A dynamic split-screen image. On the left, a frustrated marketing professional (30s-40s, business casual, diverse ethnicity) looking stressed at a desk cluttered with sticky notes and a slow-loading, outdated ad platform interface, symbolizing 'slow cycles'. A visible clock shows time dragging. On the right, the same professional, now confident and empowered, smiling slightly while interacting with a sleek, futuristic, and fast-moving digital dashboard displaying rapidly iterating ad creatives and real-time performance metrics. The right side should convey speed, efficiency, and competitive advantage, with subtle visual cues of exponential growth (e.g., upward trending graphs, accelerating data points). The overall aesthetic should be clean, professional, and high-tech, emphasizing the stark contrast between outdated methods and instant iteration. Use brand-aligned colors if available, otherwise, a modern blue/green palette. Focus on crisp UI elements and a sense of rapid progress.",
+      "video_brief": {
+        "hook": "Outpace competitors. Instantly iterate ads.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Opening shot: A close-up of a digital clock ticking slowly, then a quick pan to a marketing professional (30s-40s, diverse, business casual) looking visibly frustrated at a slow-loading ad creative platform on their monitor. The screen shows a 'loading' spinner or a static, unoptimized ad creative. Text overlay: 'Stuck in slow ad cycles?'"
+          },
+          {
+            "time": "3-7s",
+            "visual": "Dynamic transition: A swift, modern swipe animation reveals a sleek, intuitive digital dashboard. A hand quickly navigates through the interface, demonstrating rapid, almost instantaneous, generation and modification of multiple ad creatives. Visuals of ad variations (different headlines, images, CTAs) flashing quickly on screen. Text overlay: 'Instantly iterate performance ads.'"
+          },
+          {
+            "time": "7-12s",
+            "visual": "Impact shot: Split screen or quick cuts showing: 1) The same marketing professional, now confident and smiling, reviewing a vibrant dashboard with upward-trending performance graphs and real-time data. 2) A subtle visual of competitors falling behind (e.g., a blurred background of a traditional office struggling, or a graph showing a competitor's flat line). Text overlay: 'Gain the competitive edge. Drive rapid growth.'"
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final shot: The brand's logo appears prominently against a clean, modern background. The headline 'Outpace Competitors. Instantly Iterate Ads.' is displayed clearly, followed by the CTA button. The background subtly animates with abstract data streams or light trails to convey speed and innovation."
+          }
+        ],
+        "voiceover": "Stuck in slow ad cycles? While competitors lag, you can instantly iterate performance ads. Drive rapid growth, gain the edge, and outpace the market.",
+        "cta": "Get The Edge"
+      },
+      "generated_at": "2025-10-01T09:13:21.928Z"
+    }
+  ],
+  "images": {
+    "e0a1b2c3-d4e5-4f67-890a-1234567890bc": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\e0a1b2c3-d4e5-4f67-890a-1234567890bc.png",
+    "1b2c3d4e-5f67-4890-abcd-ef1234567890": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\1b2c3d4e-5f67-4890-abcd-ef1234567890.png",
+    "a1b2c3d4-e5f6-4789-a012-34567890e005": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\a1b2c3d4-e5f6-4789-a012-34567890e005.png",
+    "f1b2c3d4-e5f6-4789-a012-34567890abcd": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\f1b2c3d4-e5f6-4789-a012-34567890abcd.png",
+    "2c3d4e5f-6789-40ab-cdef-1234567890ab": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\2c3d4e5f-6789-40ab-cdef-1234567890ab.png",
+    "a1b2c3d4-e5f6-4789-a012-34567890e002": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\a1b2c3d4-e5f6-4789-a012-34567890e002.png",
+    "a1b2c3d4-e5f6-4789-a012-34567890e003": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\a1b2c3d4-e5f6-4789-a012-34567890e003.png",
+    "d4e5f6a7-b8c9-0123-4567-890abcdef012": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\d4e5f6a7-b8c9-0123-4567-890abcdef012.png",
+    "e5f6a7b8-c9d0-1234-5678-90abcdef0123": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\images\\e5f6a7b8-c9d0-1234-5678-90abcdef0123.png"
+  },
+  "videos": {
+    "e0a1b2c3-d4e5-4f67-890a-1234567890bc": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\videos\\e0a1b2c3-d4e5-4f67-890a-1234567890bc.mp4",
+    "1b2c3d4e-5f67-4890-abcd-ef1234567890": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\videos\\1b2c3d4e-5f67-4890-abcd-ef1234567890.mp4",
+    "a1b2c3d4-e5f6-4789-a012-34567890e005": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T09-02-21-806Z_c69a773c\\assets\\videos\\a1b2c3d4-e5f6-4789-a012-34567890e005.mp4"
+  }
+}

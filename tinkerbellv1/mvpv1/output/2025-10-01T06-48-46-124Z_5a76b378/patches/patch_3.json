@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+    "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+    "seed_phrase": "Social proof: 'What your competitor stole'",
+    "temperature": 0.6,
+    "batch_index": 2,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T06:58:45.737Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-1234-567890abcdef",
+      "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Your Competitors Are Iterating Faster.",
+      "body": "While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.",
+      "cta": "Outpace Them",
+      "keywords": [
+        "performance ads",
+        "ad iteration",
+        "creative testing",
+        "competitive advantage",
+        "scale ads",
+        "marketing automation",
+        "rapid deployment"
+      ],
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:45.737Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-4890-2345-67890abcdef0",
+      "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Is Your Competitor Stealing Your Ad ROI?",
+      "body": "Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.",
+      "cta": "Boost ROI",
+      "keywords": [
+        "campaign ROI",
+        "ad optimization",
+        "performance marketing",
+        "budget allocation",
+        "ad efficiency",
+        "competitive advantage"
+      ],
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:45.737Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-4901-3456-7890abcdef01",
+      "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Don't Let Rivals Steal Your Ad Insights.",
+      "body": "Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.",
+      "cta": "Get Real-time Insights",
+      "keywords": [
+        "ad insights",
+        "creative insights",
+        "data analysis",
+        "real-time optimization",
+        "performance ads",
+        "competitive intelligence"
+      ],
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:45.737Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-4012-4567-890abcdef012",
+      "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "What If Your Competitor Has This Secret Ad Weapon?",
+      "body": "Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.",
+      "cta": "Discover Your Edge",
+      "keywords": [
+        "secret weapon",
+        "ad advantage",
+        "market dominance",
+        "creative optimization",
+        "rapid iteration",
+        "competitive edge"
+      ],
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:45.737Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-4123-5678-90abcdef0123",
+      "patch_id": "3f78ef9b-55de-42c6-acde-ee1f1905e426",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Stop Rivals From Stealing Your Next Ad Win.",
+      "body": "Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.",
+      "cta": "Secure Your Wins",
+      "keywords": [
+        "ad strategy",
+        "future-proof",
+        "win campaigns",
+        "competitive threat",
+        "performance marketing",
+        "ad deployment"
+      ],
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:45.737Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-1234-567890abcdef\",\n      \"headline\": \"Your Competitors Are Iterating Faster.\",\n      \"body\": \"While you test, they scale. Stop slow creative cycles from costing you market share. Instantly iterate performance ads & win.\",\n      \"cta\": \"Outpace Them\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"creative testing\",\n        \"competitive advantage\",\n        \"scale ads\",\n        \"marketing automation\",\n        \"rapid deployment\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-4890-2345-67890abcdef0\",\n      \"headline\": \"Is Your Competitor Stealing Your Ad ROI?\",\n      \"body\": \"Inefficient ad spend and slow iterations mean lost revenue. Optimize budgets & scale winning ads instantly. Reclaim your campaign ROI.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"campaign ROI\",\n        \"ad optimization\",\n        \"performance marketing\",\n        \"budget allocation\",\n        \"ad efficiency\",\n        \"competitive advantage\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-4901-3456-7890abcdef01\",\n      \"headline\": \"Don't Let Rivals Steal Your Ad Insights.\",\n      \"body\": \"Manual analysis kills speed. Gain deep, instant creative insights to outmaneuver rivals. Iterate performance ads in real-time.\",\n      \"cta\": \"Get Real-time Insights\",\n      \"keywords\": [\n        \"ad insights\",\n        \"creative insights\",\n        \"data analysis\",\n        \"real-time optimization\",\n        \"performance ads\",\n        \"competitive intelligence\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-4012-4567-890abcdef012\",\n      \"headline\": \"What If Your Competitor Has This Secret Ad Weapon?\",\n      \"body\": \"Don't get left behind. Instantly iterate performance ads, scale winners faster, and dominate your market. Cut creative testing time.\",\n      \"cta\": \"Discover Your Edge\",\n      \"keywords\": [\n        \"secret weapon\",\n        \"ad advantage\",\n        \"market dominance\",\n        \"creative optimization\",\n        \"rapid iteration\",\n        \"competitive edge\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-4123-5678-90abcdef0123\",\n      \"headline\": \"Stop Rivals From Stealing Your Next Ad Win.\",\n      \"body\": \"Future-proof your ad strategy. Rapidly iterate, optimize, and deploy winning creative before rivals finish testing. Secure your lead.\",\n      \"cta\": \"Secure Your Wins\",\n      \"keywords\": [\n        \"ad strategy\",\n        \"future-proof\",\n        \"win campaigns\",\n        \"competitive threat\",\n        \"performance marketing\",\n        \"ad deployment\"\n      ]\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,81 @@
+{
+  "personas": [
+    {
+      "persona_id": "a1b2c3d4-e5f6-4789-0123-456789abcdef",
+      "name": "Olivia, The Growth Strategist",
+      "role": "Head of Performance Marketing",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Maximize ad ROI and efficiency",
+        "Scale marketing efforts rapidly",
+        "Improve team productivity",
+        "Gain competitive advantage"
+      ],
+      "pain_points": [
+        "Slow campaign iteration cycles",
+        "Difficulty proving ad value",
+        "Inefficient resource allocation",
+        "Missing growth opportunities"
+      ],
+      "preferred_channels": [
+        "Industry reports",
+        "Webinars",
+        "LinkedIn",
+        "Executive summaries"
+      ],
+      "tone": "Strategic, Results-oriented"
+    },
+    {
+      "persona_id": "f1e2d3c4-b5a6-40ea-8901-234567890abc",
+      "name": "Mark, The Ad Optimizer",
+      "role": "Performance Marketing Manager",
+      "company_size": "SMB to Enterprise",
+      "motivations": [
+        "Improve campaign performance",
+        "Reduce manual ad tasks",
+        "Quickly test new ad creatives",
+        "Hit performance targets"
+      ],
+      "pain_points": [
+        "Time-consuming ad testing",
+        "Manual iteration processes",
+        "Difficulty scaling winning ads",
+        "Missed optimization windows"
+      ],
+      "preferred_channels": [
+        "Marketing blogs",
+        "Tool reviews",
+        "Online communities",
+        "Product demos"
+      ],
+      "tone": "Practical, Data-driven"
+    },
+    {
+      "persona_id": "1a2b3c4d-5e6f-4789-abcd-ef0123456789",
+      "name": "Sarah, The Client Success Driver",
+      "role": "Agency Owner / Senior Account Manager",
+      "company_size": "Small to Mid-sized Agencies",
+      "motivations": [
+        "Deliver superior client results",
+        "Increase agency profitability",
+        "Attract new clients",
+        "Differentiate agency services"
+      ],
+      "pain_points": [
+        "Managing multiple client campaigns efficiently",
+        "Proving ROI to clients",
+        "High operational costs",
+        "Client churn due to slow results"
+      ],
+      "preferred_channels": [
+        "Industry conferences",
+        "Agency-focused publications",
+        "Case studies",
+        "Partner programs"
+      ],
+      "tone": "Client-focused, Scalable"
+    }
+  ],
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"personas\": [\n    {\n      \"persona_id\": \"a1b2c3d4-e5f6-4789-0123-456789abcdef\",\n      \"name\": \"Olivia, The Growth Strategist\",\n      \"role\": \"Head of Performance Marketing\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Maximize ad ROI and efficiency\",\n        \"Scale marketing efforts rapidly\",\n        \"Improve team productivity\",\n        \"Gain competitive advantage\"\n      ],\n      \"pain_points\": [\n        \"Slow campaign iteration cycles\",\n        \"Difficulty proving ad value\",\n        \"Inefficient resource allocation\",\n        \"Missing growth opportunities\"\n      ],\n      \"preferred_channels\": [\n        \"Industry reports\",\n        \"Webinars\",\n        \"LinkedIn\",\n        \"Executive summaries\"\n      ],\n      \"tone\": \"Strategic, Results-oriented\"\n    },\n    {\n      \"persona_id\": \"f1e2d3c4-b5a6-40ea-8901-234567890abc\",\n      \"name\": \"Mark, The Ad Optimizer\",\n      \"role\": \"Performance Marketing Manager\",\n      \"company_size\": \"SMB to Enterprise\",\n      \"motivations\": [\n        \"Improve campaign performance\",\n        \"Reduce manual ad tasks\",\n        \"Quickly test new ad creatives\",\n        \"Hit performance targets\"\n      ],\n      \"pain_points\": [\n        \"Time-consuming ad testing\",\n        \"Manual iteration processes\",\n        \"Difficulty scaling winning ads\",\n        \"Missed optimization windows\"\n      ],\n      \"preferred_channels\": [\n        \"Marketing blogs\",\n        \"Tool reviews\",\n        \"Online communities\",\n        \"Product demos\"\n      ],\n      \"tone\": \"Practical, Data-driven\"\n    },\n    {\n      \"persona_id\": \"1a2b3c4d-5e6f-4789-abcd-ef0123456789\",\n      \"name\": \"Sarah, The Client Success Driver\",\n      \"role\": \"Agency Owner / Senior Account Manager\",\n      \"company_size\": \"Small to Mid-sized Agencies\",\n      \"motivations\": [\n        \"Deliver superior client results\",\n        \"Increase agency profitability\",\n        \"Attract new clients\",\n        \"Differentiate agency services\"\n      ],\n      \"pain_points\": [\n        \"Managing multiple client campaigns efficiently\",\n        \"Proving ROI to clients\",\n        \"High operational costs\",\n        \"Client churn due to slow results\"\n      ],\n      \"preferred_channels\": [\n        \"Industry conferences\",\n        \"Agency-focused publications\",\n        \"Case studies\",\n        \"Partner programs\"\n      ],\n      \"tone\": \"Client-focused, Scalable\"\n    }\n  ]\n}\n```"
+}

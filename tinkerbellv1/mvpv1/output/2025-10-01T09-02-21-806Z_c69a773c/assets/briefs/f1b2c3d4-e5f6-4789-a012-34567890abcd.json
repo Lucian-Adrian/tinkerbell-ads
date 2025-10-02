@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "f1b2c3d4-e5f6-4789-a012-34567890abcd",
+    "image_brief": "A visually striking split-screen or overlay image. On one side (representing 'losing ROI' and 'slow cycles'), depict a dimly lit, complex digital dashboard with downward-trending red graphs, a visible 'budget drain' meter, and static, outdated ad creatives. A subtle, frustrated human hand might be visible. On the other side (representing 'instant optimization' and 'wins'), show a brightly lit, modern, and intuitive digital platform with rapidly updating green, upward-trending ROI graphs, dynamic ad creatives iterating in real-time, and a confident hand engaging with the interface. The overall impression should be a clear contrast between inefficiency/loss and speed/gain in performance advertising, emphasizing data visualization and a professional, enterprise-level aesthetic.",
+    "video_brief": {
+      "hook": "Competitors scaling faster? Stop losing ROI.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a digital dashboard displaying downward-trending red graphs for ROI and conversion rates. A subtle animation of a budget bar visibly draining. Overlay text: 'Slow Creative Cycles' or 'Budget Bleed'."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Split screen: On one side, a professional (Sarah Chen persona) looking frustrated at the declining metrics. On the other, a stylized, abstract representation of a competitor's dashboard with rapidly rising green graphs and dynamic ad creatives, implying rapid scaling."
+        },
+        {
+          "time": "7-12s",
+          "visual": "Transition to a sleek, modern software interface. Show rapid, seamless iteration of ad creatives (different headlines, images, CTAs dynamically changing). Green graphs instantly react, showing upward trends. A confident hand interacts with the platform, making quick decisions."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot of the optimized dashboard, all green and upward-trending, with a clear 'ROI Maximized' indicator. A confident, satisfied marketing professional. Overlay text: 'Insights into Wins, Not Delays'."
+        }
+      ],
+      "voiceover": "Is slow creative bleeding your ad budget? While you wait, competitors are scaling, stealing your ROI. Instantly optimize performance ads. Turn insights into wins, not delays. Maximize every dollar. Reclaim your competitive edge.",
+      "cta": "Maximize ROI"
+    },
+    "generated_at": "2025-10-01T09:10:20.747Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A visually striking split-screen or overlay image. On one side (representing 'losing ROI' and 'slow cycles'), depict a dimly lit, complex digital dashboard with downward-trending red graphs, a visible 'budget drain' meter, and static, outdated ad creatives. A subtle, frustrated human hand might be visible. On the other side (representing 'instant optimization' and 'wins'), show a brightly lit, modern, and intuitive digital platform with rapidly updating green, upward-trending ROI graphs, dynamic ad creatives iterating in real-time, and a confident hand engaging with the interface. The overall impression should be a clear contrast between inefficiency/loss and speed/gain in performance advertising, emphasizing data visualization and a professional, enterprise-level aesthetic.\",\n  \"video_brief\": {\n    \"hook\": \"Competitors scaling faster? Stop losing ROI.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a digital dashboard displaying downward-trending red graphs for ROI and conversion rates. A subtle animation of a budget bar visibly draining. Overlay text: 'Slow Creative Cycles' or 'Budget Bleed'.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Split screen: On one side, a professional (Sarah Chen persona) looking frustrated at the declining metrics. On the other, a stylized, abstract representation of a competitor's dashboard with rapidly rising green graphs and dynamic ad creatives, implying rapid scaling.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"Transition to a sleek, modern software interface. Show rapid, seamless iteration of ad creatives (different headlines, images, CTAs dynamically changing). Green graphs instantly react, showing upward trends. A confident hand interacts with the platform, making quick decisions.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot of the optimized dashboard, all green and upward-trending, with a clear 'ROI Maximized' indicator. A confident, satisfied marketing professional. Overlay text: 'Insights into Wins, Not Delays'.\"\n      }\n    ],\n    \"voiceover\": \"Is slow creative bleeding your ad budget? While you wait, competitors are scaling, stealing your ROI. Instantly optimize performance ads. Turn insights into wins, not delays. Maximize every dollar. Reclaim your competitive edge.\",\n    \"cta\": \"Maximize ROI\"\n  }\n}\n```"
+}

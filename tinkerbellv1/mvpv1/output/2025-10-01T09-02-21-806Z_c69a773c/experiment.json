@@ -1,0 +1,71 @@
+{
+  "experiment_id": "c69a773c-1675-4cff-96ab-38cc9610d04c",
+  "started_at": "2025-10-01T09:02:21.784Z",
+  "completed_at": "2025-10-01T09:13:40.831Z",
+  "input_url": "https://example.com",
+  "uvp": "Instantly iterate performance ads",
+  "persona_choice": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+  "prompt_files": {
+    "context": "prompts/context_extraction_v1.json",
+    "persona": "prompts/persona_generation_v1.json",
+    "patch": "prompts/patch_generation_v1.json",
+    "predictive": "prompts/predictive_scoring_v1.json",
+    "viral": "prompts/viral_scoring_v1.json",
+    "asset": "prompts/asset_brief_v1.json"
+  },
+  "model_versions": {
+    "text": "gemini-2.5-flash",
+    "image": "imagen-4.0-generate-001",
+    "video": "veo-3.0-fast-generate-001"
+  },
+  "temperature_schedule": [
+    0.15,
+    0.35,
+    0.6,
+    0.8,
+    0.2,
+    0.45,
+    0.7,
+    0.85
+  ],
+  "seeds_version": "guerrilla_seeds_v1",
+  "config_version": "mvp_config_v1",
+  "patch_metadata": [
+    {
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "batch_index": 0,
+      "prompt_version": "v1",
+      "generated_at": "2025-10-01T09:03:00.587Z"
+    },
+    {
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "batch_index": 1,
+      "prompt_version": "v1",
+      "generated_at": "2025-10-01T09:03:17.597Z"
+    },
+    {
+      "patch_id": "78fd0655-dbf1-4f5c-a435-006c7f19127a",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "seed_phrase": "Social proof: 'What your competitor stole'",
+      "temperature": 0.6,
+      "batch_index": 2,
+      "prompt_version": "v1",
+      "generated_at": "2025-10-01T09:03:34.558Z"
+    },
+    {
+      "patch_id": "1097d755-e0df-4862-b29d-95f88b641f27",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "seed_phrase": "Cost-saving: 'Cut ad waste now'",
+      "temperature": 0.8,
+      "batch_index": 3,
+      "prompt_version": "v1",
+      "generated_at": "2025-10-01T09:03:47.754Z"
+    }
+  ]
+}

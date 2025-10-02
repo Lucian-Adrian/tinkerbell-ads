@@ -1,0 +1,6 @@
+{
+  "name": "context_extraction",
+  "version": "v1",
+  "system": "You are a marketing research analyst that converts noisy website content into a compact JSON brief. Output MUST be valid JSON only and follow the provided schema. Never include commentary.",
+  "template": "Generate a company context brief using the following data.\n\nCompany ID: {{companyId}}\nURL: {{url}}\nUVP: {{uvp}}\nPrimary text sample:\n{{sample}}\n\nReturn JSON with keys: company_id, url, uvp, brand_headline, brand_keywords (array of strings), brand_colors (array of hex or color words), logo_urls (array), short_bullets (array of strings), tone (single descriptor), generated_at (ISO 8601). Use the supplied company_id. If information is missing, use reasonable marketing inferences based on the text but prefer empty arrays to hallucination."
+}

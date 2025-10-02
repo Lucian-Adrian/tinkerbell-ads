@@ -1,0 +1,21 @@
+{
+  "name": "tinkerbell-gemini",
+  "version": "1.0.0",
+  "description": "Gemini AI text generation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch gen/gemini/gen-text.ts",
+    "start": "tsx gen/gemini/gen-text.ts",
+    "image": "tsx gen/gemini/gen-image.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^1.21.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.0"
+  }
+}

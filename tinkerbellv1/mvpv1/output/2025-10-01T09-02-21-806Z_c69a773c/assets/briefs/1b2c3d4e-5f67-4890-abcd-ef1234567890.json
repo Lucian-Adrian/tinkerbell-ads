@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "1b2c3d4e-5f67-4890-abcd-ef1234567890",
+    "image_brief": "A dynamic, high-contrast image. On one side, a blurred, struggling competitor (represented by a generic business person looking frustrated at a slow-loading screen or complex spreadsheet). On the other, a sharp, confident professional (representing the user, aligned with Sarah Chen persona) effortlessly interacting with a sleek, modern performance marketing dashboard displaying rapidly ascending green graphs and real-time data. A subtle visual element of speed or acceleration (e.g., light trails, motion lines) emanates from the dashboard, symbolizing 'rapid iteration' and 'leaving competitors in the dust'. The overall impression is one of competitive dominance and efficiency.",
+    "video_brief": {
+      "hook": "Competitors struggling? Get your unfair ad advantage.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up of a digital clock ticking slowly, overlaid with a graph showing flat or declining ad performance metrics. Blurred background of frustrated business people in an office setting."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Dynamic shot of a sleek, modern UI (representing the product). A professional hand rapidly adjusting elements of an ad creative (e.g., text, image selection) with instant visual updates. A 'Deploy' or 'Iterate' button is pressed with a satisfying click."
+        },
+        {
+          "time": "7-12s",
+          "visual": "The performance graph from 0-3s now rapidly accelerates upwards, showing significant growth and green positive indicators. A confident, professional individual (aligned with Sarah Chen persona) smiles, looking at the screen with satisfaction."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Product logo appears prominently against a clean, modern background. Text overlay: 'The Unfair Advantage Your Competitors Fear.'"
+        }
+      ],
+      "voiceover": "Stop waiting. Instantly iterate performance ads. Scale winning campaigns, and leave competitors in your dust.",
+      "cta": "Get Your Edge"
+    },
+    "generated_at": "2025-10-01T09:08:27.582Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, high-contrast image. On one side, a blurred, struggling competitor (represented by a generic business person looking frustrated at a slow-loading screen or complex spreadsheet). On the other, a sharp, confident professional (representing the user, aligned with Sarah Chen persona) effortlessly interacting with a sleek, modern performance marketing dashboard displaying rapidly ascending green graphs and real-time data. A subtle visual element of speed or acceleration (e.g., light trails, motion lines) emanates from the dashboard, symbolizing 'rapid iteration' and 'leaving competitors in the dust'. The overall impression is one of competitive dominance and efficiency.\",\n  \"video_brief\": {\n    \"hook\": \"Competitors struggling? Get your unfair ad advantage.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up of a digital clock ticking slowly, overlaid with a graph showing flat or declining ad performance metrics. Blurred background of frustrated business people in an office setting.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Dynamic shot of a sleek, modern UI (representing the product). A professional hand rapidly adjusting elements of an ad creative (e.g., text, image selection) with instant visual updates. A 'Deploy' or 'Iterate' button is pressed with a satisfying click.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"The performance graph from 0-3s now rapidly accelerates upwards, showing significant growth and green positive indicators. A confident, professional individual (aligned with Sarah Chen persona) smiles, looking at the screen with satisfaction.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Product logo appears prominently against a clean, modern background. Text overlay: 'The Unfair Advantage Your Competitors Fear.'\"\n      }\n    ],\n    \"voiceover\": \"Stop waiting. Instantly iterate performance ads. Scale winning campaigns, and leave competitors in your dust.\",\n    \"cta\": \"Get Your Edge\"\n  }\n}\n```"
+}

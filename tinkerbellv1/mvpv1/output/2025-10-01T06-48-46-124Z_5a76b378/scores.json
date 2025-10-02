@@ -1,0 +1,193 @@
+{
+  "scores": [
+    {
+      "script_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "trend_score": 22,
+      "llm_score": 95,
+      "viral_score": 30,
+      "final_score": 56,
+      "rationale": "Directly addresses top persona motivations (ROI, budget) and pain points (slow testing) with the core UVP ('Instantly'). Strong, action-oriented.\nThe tone is informative and benefit-driven, but lacks the bold, provocative edge of viral exemplars like 'Your ad budget is a hostage.' The hook is clear but generic, offering common marketing promises rather than a novel or surprising angle to grab attention.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+      "trend_score": 33,
+      "llm_score": 88,
+      "viral_score": 25,
+      "final_score": 56,
+      "rationale": "Clearly targets slow creative cycles and iteration speed, a key pain point and UVP. CTA is a bit generic compared to others.\nThis script's tone is purely informative and functional, similar to a product description rather than a viral ad. The hook ('Stuck in slow creative cycles?') directly addresses a pain point but lacks the dramatic or counter-intuitive novelty seen in viral headlines like 'We fired our agency.'",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+      "trend_score": 18,
+      "llm_score": 94,
+      "viral_score": 55,
+      "final_score": 60,
+      "rationale": "Hits a major pain point (wasted ad spend) and motivation (budget optimization), clearly linking the UVP's iteration capability to tangible financial benefits.\nThe hook 'Wasting Ad Spend...' is a highly resonant and universal pain point for performance marketers, making it quite effective. While the tone is direct and impactful, it lacks the metaphorical creativity or disruptive claim of the viral exemplars, which would elevate its novelty and virality.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef234",
+      "trend_score": 19,
+      "llm_score": 90,
+      "viral_score": 65,
+      "final_score": 60,
+      "rationale": "Tackles the time-consuming manual data analysis pain point by promising automated insights, which directly supports the UVP's ability to drive smarter, faster iteration.\nThe headline's hook 'Drowning in Manual Ad Data Analysis?' uses a vivid metaphor ('drowning') that evokes a strong emotional response, similar to the 'ad budget is a hostage' exemplar. This adds a layer of novelty and a more engaging tone, making it the most impactful among the candidates for viral potential.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef3456",
+      "trend_score": 11,
+      "llm_score": 88,
+      "viral_score": 35,
+      "final_score": 50,
+      "rationale": "Addresses a general but significant fear (stalling performance) and a primary motivation (boosting ROI), positioning instant iteration as the clear solution. Slightly less specific than others.\nThe hook 'Ad Performance Stalling?' is generic and lacks any distinctive tone or novelty. The script is purely informative and problem-solution, without the provocative, dramatic, or counter-intuitive elements that characterize the provided viral B2B ad exemplars.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "8c5e9f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+      "trend_score": 18,
+      "llm_score": 90,
+      "viral_score": 25,
+      "final_score": 52,
+      "rationale": "Directly addresses core pain points (manual testing, slow ROI) and offers a clear solution (faster iteration, conversions).\nThe tone is direct and informative, but lacks the provocative edge or dramatic flair of the viral exemplars. The hook 'Stop Guessing' addresses a pain point but isn't novel or intriguing enough to spark widespread engagement. The language is standard marketing copy, offering no counter-intuitive claims or specific, shocking results.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "trend_score": 11,
+      "llm_score": 96,
+      "viral_score": 30,
+      "final_score": 53,
+      "rationale": "Sharp headline and body speak directly to Alex's need to reduce manual work, scale faster, and improve ROI, hitting key motivations.\nThe tone is practical and empathetic, appealing to the persona's desire to 'Do Less Manual Work.' While this is a clear benefit, the hook lacks the disruptive or dramatic impact seen in the exemplars (e.g., 'Fired our agency'). The novelty is low, as it's a straightforward statement of value without a unique angle or surprising claim.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+      "trend_score": 14,
+      "llm_score": 82,
+      "viral_score": 55,
+      "final_score": 53,
+      "rationale": "Strong body addressing efficiency and strategic focus, but the headline's 'contrarian' angle might be less direct than ideal for this persona.\nThis script makes the strongest attempt at virality among the candidates. The tone is intriguing due to 'The Contrarian Path,' which hints at a disruptive approach, aligning with the spirit of the exemplars that challenge norms. The hook suggests a novel way of thinking ('Do Less, Convert More'), creating curiosity. While it lacks the specific, shocking numbers or dramatic actions of the top viral ads, the explicit mention of a 'Contrarian Path' provides a degree of novelty that sets it apart from the other candidates.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+      "trend_score": 20,
+      "llm_score": 94,
+      "viral_score": 25,
+      "final_score": 54,
+      "rationale": "Directly targets the pain point of inefficient budget allocation and promises maximum ROI, a critical driver for performance marketers.\nThe tone is practical and solution-oriented, addressing a key pain point ('Maximize Ad Spend'). However, the hook 'Iterate Smarter, Not Harder' is a common idiom, significantly reducing its novelty and viral potential. It's a clear benefit statement but lacks the dramatic language, specific results, or counter-intuitive claims that drive viral engagement.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "trend_score": 27,
+      "llm_score": 92,
+      "viral_score": 35,
+      "final_score": 58,
+      "rationale": "Leverages competitive advantage and directly links instant iteration to faster performance and ROI, addressing key pain points.\nThe tone is ambitious and competitive, with 'Outpace Competitors' serving as a strong motivator for the persona. The hook is clear, but the overall message is a direct benefit statement. It lacks the dramatic tension, shocking specifics, or disruptive claims that characterize truly viral ads. The novelty is low, as it presents a desirable outcome without a unique or surprising path to achieve it.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-1234-567890abcdef",
+      "trend_score": 13,
+      "llm_score": 92,
+      "viral_score": 65,
+      "final_score": 59,
+      "rationale": "Directly addresses the pain of slow iteration and the motivation to scale faster, leveraging competitive fear. Strong alignment with persona's core needs.\nThe tone is urgent and competitive, directly addressing a persona pain point (slow creative cycles). The hook is clear and relevant but lacks the provocative shock or novel metaphor of the viral exemplars. It's a strong direct marketing headline, but less likely to spark widespread sharing.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-4890-2345-67890abcdef0",
+      "trend_score": 11,
+      "llm_score": 95,
+      "viral_score": 85,
+      "final_score": 64,
+      "rationale": "Hits the ultimate performance marketing metric: ROI. Directly links competitor actions to lost revenue, offering a clear solution to a primary pain point.\nThe tone is accusatory and urgent, using a strong, emotionally charged word ('Stealing'). The hook, 'Is Your Competitor Stealing Your Ad ROI?', is highly effective as it directly targets a core motivation (ROI) and pain point (inefficient spend) with a provocative question. The novelty comes from framing competitive advantage as an active threat, similar to the 'ad budget is a hostage' exemplar.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-4901-3456-7890abcdef01",
+      "trend_score": 15,
+      "llm_score": 88,
+      "viral_score": 80,
+      "final_score": 61,
+      "rationale": "Focuses on creative insights and manual analysis pain, which is relevant. However, 'insights' might be perceived as a step removed from direct ROI compared to other ads.\nThe tone is a warning, empowering the reader to act. The hook, 'Don't Let Rivals Steal Your Ad Insights,' uses the impactful 'stealing' metaphor, making the problem feel immediate and personal. While strong, 'Ad Insights' might have slightly less universal appeal than 'ROI' or a more general 'secret weapon,' reducing its viral potential compared to the top ideas.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-4012-4567-890abcdef012",
+      "trend_score": 23,
+      "llm_score": 93,
+      "viral_score": 90,
+      "final_score": 68,
+      "rationale": "Excellent use of FOMO and competitive intrigue ('secret weapon'). Directly speaks to the desire for an edge and faster scaling, which resonates strongly.\nThe tone is intriguing and taps into FOMO. The hook, 'What If Your Competitor Has This Secret Ad Weapon?', is highly novel and creates immediate curiosity, akin to the 'iterative AI ads' hint in the exemplar. It frames the solution as a powerful, almost unfair advantage, making it highly shareable and likely to generate discussion among performance marketers.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-4123-5678-90abcdef0123",
+      "trend_score": 15,
+      "llm_score": 91,
+      "viral_score": 82,
+      "final_score": 63,
+      "rationale": "Strong competitive angle focused on future-proofing and securing wins. Appeals to the strategic side of a performance marketer, addressing proactive defense against rivals.\nThe tone is urgent and protective, focusing on future success. The hook, 'Stop Rivals From Stealing Your Next Ad Win,' effectively uses the 'stealing' metaphor to highlight a competitive threat. It's a strong, actionable headline, but slightly less novel or curiosity-inducing than the 'secret ad weapon' concept, placing it just below the highest-scoring ideas.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "trend_score": 22,
+      "llm_score": 95,
+      "viral_score": 30,
+      "final_score": 56,
+      "rationale": "Directly addresses top persona motivations (ROI, budget) and pain points (slow testing) with the core UVP ('Instantly'). Strong, action-oriented.\nThe tone is informative and benefit-driven, but lacks the bold, provocative edge of viral exemplars like 'Your ad budget is a hostage.' The hook is clear but generic, offering common marketing promises rather than a novel or surprising angle to grab attention.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+      "trend_score": 33,
+      "llm_score": 88,
+      "viral_score": 25,
+      "final_score": 56,
+      "rationale": "Clearly targets slow creative cycles and iteration speed, a key pain point and UVP. CTA is a bit generic compared to others.\nThis script's tone is purely informative and functional, similar to a product description rather than a viral ad. The hook ('Stuck in slow creative cycles?') directly addresses a pain point but lacks the dramatic or counter-intuitive novelty seen in viral headlines like 'We fired our agency.'",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "trend_score": 27,
+      "llm_score": 92,
+      "viral_score": 45,
+      "final_score": 60,
+      "rationale": "Strong focus on deeper insights and ROI, directly appealing to a PMM's need for data-driven decisions and performance improvement. Leverages 'instantly iterate'.\nWhile the tone is aspirational and the hook ('Unlock True Ad Performance') is stronger than previous candidates, it still lacks the provocative or surprising novelty of the viral exemplars. 'Beyond surface-level data' adds some intrigue, but the overall message remains within conventional marketing language.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "trend_score": 28,
+      "llm_score": 93,
+      "viral_score": 60,
+      "final_score": 64,
+      "rationale": "Excellent for addressing the pain point of manual data analysis and the motivation to reduce time, offering automation and strategic focus. AI mention is a plus.\nThe tone is empathetic and empowering, with a strong personal benefit hook ('Reclaim Time') that resonates deeply with the persona's pain points. While not as overtly provocative as the exemplars, the novelty lies in framing AI automation as a means to free up strategic focus, offering a clear and desirable transformation.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "trend_score": 45,
+      "llm_score": 96,
+      "viral_score": 75,
+      "final_score": 74,
+      "rationale": "Hits the critical motivation of 'Scale winning ads faster' and the UVP 'Instantly' perfectly. Addresses 'No More Waiting' (pain point) for high impact.\nThis script has the strongest viral potential among the candidates. The tone is urgent and empowering, and the hook 'No More Waiting' directly challenges a major pain point with a decisive, rebellious edge, similar to the directness of 'We fired our agency.' The novelty comes from framing instant iteration as an end to a pervasive frustration, promising immediate relief and significant scale.",
+      "scored_at": "2025-10-01T07:02:16.269Z"
+    }
+  ],
+  "weights": {
+    "llm": 0.45,
+    "trend": 0.35,
+    "viral": 0.2
+  },
+  "prompt_versions": {
+    "predictive": "v1",
+    "viral": "v1"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "personas": [
+    {
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "name": "Alex Chen",
+      "role": "Performance Marketing Manager",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Improve campaign ROI",
+        "Scale winning ads faster",
+        "Reduce manual optimization time",
+        "Gain deeper creative insights"
+      ],
+      "pain_points": [
+        "Slow creative testing cycles",
+        "Difficulty in rapid ad iteration",
+        "Inefficient budget allocation",
+        "Manual data analysis is time-consuming"
+      ],
+      "preferred_channels": [
+        "Marketing blogs (e.g., Search Engine Journal)",
+        "LinkedIn groups",
+        "Industry webinars",
+        "SaaS review sites"
+      ],
+      "tone": "Informative"
+    },
+    {
+      "persona_id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+      "name": "Sarah Miller",
+      "role": "Head of Growth",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Accelerate overall business growth",
+        "Maximize marketing budget efficiency",
+        "Empower team with cutting-edge tools",
+        "Gain competitive advantage"
+      ],
+      "pain_points": [
+        "Underperforming ad spend",
+        "Slow time-to-market for new strategies",
+        "Lack of holistic performance view",
+        "Difficulty in scaling successful initiatives"
+      ],
+      "preferred_channels": [
+        "Industry leadership reports",
+        "Executive networking events",
+        "LinkedIn",
+        "Strategic consulting firms"
+      ],
+      "tone": "Informative"
+    },
+    {
+      "persona_id": "b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e",
+      "name": "David Lee",
+      "role": "Creative Director",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Understand creative performance drivers",
+        "Quickly test new ad concepts",
+        "Reduce creative production waste",
+        "Prove the impact of design on ROI"
+      ],
+      "pain_points": [
+        "Lack of data on specific creative elements",
+        "Long feedback loops for ad iterations",
+        "Pressure to produce high-performing visuals quickly",
+        "Disconnect between creative and performance teams"
+      ],
+      "preferred_channels": [
+        "Creative design communities (e.g., Behance)",
+        "Marketing tech blogs",
+        "Design-focused webinars",
+        "Industry conferences"
+      ],
+      "tone": "Informative"
+    }
+  ],
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"personas\": [\n    {\n      \"persona_id\": \"f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b\",\n      \"name\": \"Alex Chen\",\n      \"role\": \"Performance Marketing Manager\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Improve campaign ROI\",\n        \"Scale winning ads faster\",\n        \"Reduce manual optimization time\",\n        \"Gain deeper creative insights\"\n      ],\n      \"pain_points\": [\n        \"Slow creative testing cycles\",\n        \"Difficulty in rapid ad iteration\",\n        \"Inefficient budget allocation\",\n        \"Manual data analysis is time-consuming\"\n      ],\n      \"preferred_channels\": [\n        \"Marketing blogs (e.g., Search Engine Journal)\",\n        \"LinkedIn groups\",\n        \"Industry webinars\",\n        \"SaaS review sites\"\n      ],\n      \"tone\": \"Informative\"\n    },\n    {\n      \"persona_id\": \"a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d\",\n      \"name\": \"Sarah Miller\",\n      \"role\": \"Head of Growth\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Accelerate overall business growth\",\n        \"Maximize marketing budget efficiency\",\n        \"Empower team with cutting-edge tools\",\n        \"Gain competitive advantage\"\n      ],\n      \"pain_points\": [\n        \"Underperforming ad spend\",\n        \"Slow time-to-market for new strategies\",\n        \"Lack of holistic performance view\",\n        \"Difficulty in scaling successful initiatives\"\n      ],\n      \"preferred_channels\": [\n        \"Industry leadership reports\",\n        \"Executive networking events\",\n        \"LinkedIn\",\n        \"Strategic consulting firms\"\n      ],\n      \"tone\": \"Informative\"\n    },\n    {\n      \"persona_id\": \"b2c3d4e5-f6a7-8b9c-0d1e-2f3a4b5c6d7e\",\n      \"name\": \"David Lee\",\n      \"role\": \"Creative Director\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Understand creative performance drivers\",\n        \"Quickly test new ad concepts\",\n        \"Reduce creative production waste\",\n        \"Prove the impact of design on ROI\"\n      ],\n      \"pain_points\": [\n        \"Lack of data on specific creative elements\",\n        \"Long feedback loops for ad iterations\",\n        \"Pressure to produce high-performing visuals quickly\",\n        \"Disconnect between creative and performance teams\"\n      ],\n      \"preferred_channels\": [\n        \"Creative design communities (e.g., Behance)\",\n        \"Marketing tech blogs\",\n        \"Design-focused webinars\",\n        \"Industry conferences\"\n      ],\n      \"tone\": \"Informative\"\n    }\n  ]\n}\n```"
+}

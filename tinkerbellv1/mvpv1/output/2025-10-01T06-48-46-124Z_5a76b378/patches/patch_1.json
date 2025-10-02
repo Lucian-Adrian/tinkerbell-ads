@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+    "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+    "seed_phrase": "Problem-solution: Pain-first",
+    "temperature": 0.15,
+    "batch_index": 0,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T06:58:12.741Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Slow Ad Creative Testing Killing Your ROI?",
+      "body": "Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.",
+      "cta": "Accelerate Testing",
+      "keywords": [
+        "Creative Testing",
+        "Ad Iteration",
+        "Performance Ads",
+        "Campaign Velocity",
+        "Marketing ROI",
+        "Ad Optimization"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:12.741Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+      "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Stuck on Manual Ad Iteration? Scale Faster.",
+      "body": "Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.",
+      "cta": "Scale Ads Now",
+      "keywords": [
+        "Ad Iteration",
+        "Rapid Scaling",
+        "Performance Marketing",
+        "Ad Optimization",
+        "Campaign Management",
+        "Creative Scaling"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:12.741Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+      "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Wasting Ad Spend on Underperforming Creatives?",
+      "body": "Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.",
+      "cta": "Optimize Spend",
+      "keywords": [
+        "Budget Allocation",
+        "Ad Spend",
+        "ROI",
+        "Creative Optimization",
+        "Performance Ads",
+        "Marketing Efficiency"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:12.741Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef234",
+      "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Drowning in Manual Ad Data Analysis?",
+      "body": "Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.",
+      "cta": "Automate Insights",
+      "keywords": [
+        "Data Analysis",
+        "Ad Insights",
+        "Marketing Automation",
+        "Performance Data",
+        "Creative Strategy",
+        "Time-Saving"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:12.741Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef3456",
+      "patch_id": "bbd703b8-3ced-45c0-8453-af5a16a6c342",
+      "persona_id": "f0e1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "headline": "Is Your Ad Performance Stalling? Boost ROI.",
+      "body": "Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.",
+      "cta": "Boost ROI",
+      "keywords": [
+        "Ad Performance",
+        "Campaign Optimization",
+        "ROI Improvement",
+        "Marketing Efficiency",
+        "Ad Scaling",
+        "Performance Growth"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T06:58:12.741Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"headline\": \"Slow Ad Creative Testing Killing Your ROI?\",\n      \"body\": \"Stop waiting weeks. Instantly iterate performance ads to get winning creatives live faster. Boost your campaign velocity and ROI.\",\n      \"cta\": \"Accelerate Testing\",\n      \"keywords\": [\n        \"Creative Testing\",\n        \"Ad Iteration\",\n        \"Performance Ads\",\n        \"Campaign Velocity\",\n        \"Marketing ROI\",\n        \"Ad Optimization\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdef0\",\n      \"headline\": \"Stuck on Manual Ad Iteration? Scale Faster.\",\n      \"body\": \"Manual processes kill momentum. Instantly iterate performance ads, scaling winners in minutes, not days. Drive rapid growth.\",\n      \"cta\": \"Scale Ads Now\",\n      \"keywords\": [\n        \"Ad Iteration\",\n        \"Rapid Scaling\",\n        \"Performance Marketing\",\n        \"Ad Optimization\",\n        \"Campaign Management\",\n        \"Creative Scaling\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef12\",\n      \"headline\": \"Wasting Ad Spend on Underperforming Creatives?\",\n      \"body\": \"Optimize your budget. Instantly iterate performance ads to quickly identify and scale high-ROI creatives, cutting wasted spend.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Allocation\",\n        \"Ad Spend\",\n        \"ROI\",\n        \"Creative Optimization\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef234\",\n      \"headline\": \"Drowning in Manual Ad Data Analysis?\",\n      \"body\": \"Automate insights. Instantly iterate performance ads with data-driven creative insights, freeing your team for strategic work.\",\n      \"cta\": \"Automate Insights\",\n      \"keywords\": [\n        \"Data Analysis\",\n        \"Ad Insights\",\n        \"Marketing Automation\",\n        \"Performance Data\",\n        \"Creative Strategy\",\n        \"Time-Saving\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef3456\",\n      \"headline\": \"Is Your Ad Performance Stalling? Boost ROI.\",\n      \"body\": \"Don't let slow optimization kill your ROI. Instantly iterate performance ads to continuously improve and scale your campaigns.\",\n      \"cta\": \"Boost ROI\",\n      \"keywords\": [\n        \"Ad Performance\",\n        \"Campaign Optimization\",\n        \"ROI Improvement\",\n        \"Marketing Efficiency\",\n        \"Ad Scaling\",\n        \"Performance Growth\"\n      ]\n    }\n  ]\n}\n```"
+}

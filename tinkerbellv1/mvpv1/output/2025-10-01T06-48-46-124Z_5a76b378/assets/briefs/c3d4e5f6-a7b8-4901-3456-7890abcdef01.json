@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "c3d4e5f6-a7b8-4901-3456-7890abcdef01",
+    "image_brief": "A split-screen composition. On the left, a cluttered, dimly lit desk with overflowing spreadsheets and a slightly overwhelmed performance marketing manager (mid-30s, professional attire, diverse ethnicity, representing Alex Chen persona) struggling with manual data analysis. Subtle red/orange hues in this section to denote struggle. On the right, a bright, clean, and modern digital dashboard displaying clear, actionable performance ad insights with dynamic graphs and charts, predominantly in brand blue and white. A confident, focused marketer (same person as left, now empowered) is interacting with this screen. A subtle, transparent overlay of a 'rival' icon or a rising competitive graph element is visible on the right side, implying outmaneuvering. The overall aesthetic should be professional, clean, and convey a clear transition from chaos to clarity and competitive advantage. Use brand colors: blue, white, black.",
+    "video_brief": {
+      "hook": "Is manual analysis costing you campaign wins?",
+      "scenes": [
+        {
+          "time": "0:00-0:03",
+          "visual": "Close-up on a desk cluttered with printouts, spreadsheets, and a laptop displaying complex, static data. Hands (representing Alex Chen) are frantically scrolling, looking overwhelmed. Dim, slightly desaturated lighting, emphasizing frustration."
+        },
+        {
+          "time": "0:03-0:06",
+          "visual": "Transition to a split screen. On one side, the previous cluttered desk, now with a faint, almost ghost-like rival company logo subtly appearing over it. On the other side, a rapidly updating digital dashboard showing a competitor's performance line sharply rising, while the user's line is flat."
+        },
+        {
+          "time": "0:06-0:12",
+          "visual": "Full screen transition to a sleek, modern digital performance marketing dashboard (predominantly brand blue and white). Dynamic graphs and charts animate, showing 'Your Performance' line rapidly accelerating upwards. Key metrics like 'Creative Insights' and 'Real-time Optimization' are highlighted with glowing blue accents. A hand confidently interacts with the screen, making a swift, decisive gesture."
+        },
+        {
+          "time": "0:12-0:15",
+          "visual": "The dashboard minimizes to reveal the 'Example Domain' brand headline and the CTA button 'Get Real-time Insights' prominently displayed against a clean blue and white background. Company URL example.com subtly visible."
+        }
+      ],
+      "voiceover": "Manual analysis kills speed. While you're digging, rivals are scaling, stealing your ad insights. Gain deep, instant creative insights to outmaneuver them. Iterate performance ads in real-time. Stop losing. Start winning.",
+      "cta": "Get Real-time Insights"
+    },
+    "generated_at": "2025-10-01T07:05:07.170Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split-screen composition. On the left, a cluttered, dimly lit desk with overflowing spreadsheets and a slightly overwhelmed performance marketing manager (mid-30s, professional attire, diverse ethnicity, representing Alex Chen persona) struggling with manual data analysis. Subtle red/orange hues in this section to denote struggle. On the right, a bright, clean, and modern digital dashboard displaying clear, actionable performance ad insights with dynamic graphs and charts, predominantly in brand blue and white. A confident, focused marketer (same person as left, now empowered) is interacting with this screen. A subtle, transparent overlay of a 'rival' icon or a rising competitive graph element is visible on the right side, implying outmaneuvering. The overall aesthetic should be professional, clean, and convey a clear transition from chaos to clarity and competitive advantage. Use brand colors: blue, white, black.\",\n  \"video_brief\": {\n    \"hook\": \"Is manual analysis costing you campaign wins?\",\n    \"scenes\": [\n      {\n        \"time\": \"0:00-0:03\",\n        \"visual\": \"Close-up on a desk cluttered with printouts, spreadsheets, and a laptop displaying complex, static data. Hands (representing Alex Chen) are frantically scrolling, looking overwhelmed. Dim, slightly desaturated lighting, emphasizing frustration.\"\n      },\n      {\n        \"time\": \"0:03-0:06\",\n        \"visual\": \"Transition to a split screen. On one side, the previous cluttered desk, now with a faint, almost ghost-like rival company logo subtly appearing over it. On the other side, a rapidly updating digital dashboard showing a competitor's performance line sharply rising, while the user's line is flat.\"\n      },\n      {\n        \"time\": \"0:06-0:12\",\n        \"visual\": \"Full screen transition to a sleek, modern digital performance marketing dashboard (predominantly brand blue and white). Dynamic graphs and charts animate, showing 'Your Performance' line rapidly accelerating upwards. Key metrics like 'Creative Insights' and 'Real-time Optimization' are highlighted with glowing blue accents. A hand confidently interacts with the screen, making a swift, decisive gesture.\"\n      },\n      {\n        \"time\": \"0:12-0:15\",\n        \"visual\": \"The dashboard minimizes to reveal the 'Example Domain' brand headline and the CTA button 'Get Real-time Insights' prominently displayed against a clean blue and white background. Company URL example.com subtly visible.\"\n      }\n    ],\n    \"voiceover\": \"Manual analysis kills speed. While you're digging, rivals are scaling, stealing your ad insights. Gain deep, instant creative insights to outmaneuver them. Iterate performance ads in real-time. Stop losing. Start winning.\",\n    \"cta\": \"Get Real-time Insights\"\n  }\n}\n```"
+}

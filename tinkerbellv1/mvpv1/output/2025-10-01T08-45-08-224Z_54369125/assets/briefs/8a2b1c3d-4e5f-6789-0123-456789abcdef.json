@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "8a2b1c3d-4e5f-6789-0123-456789abcdef",
+    "image_brief": "A split-screen or juxtaposed image. On the left/foreground: A frustrated Head of Performance Marketing (Olivia-type persona) looking stressed at a screen displaying slow-loading ad campaign data, complex spreadsheets, and a 'pending' status. The environment is slightly cluttered, suggesting inefficiency. On the right/background: A sleek, dynamic digital interface showing rapidly iterating ad variations and accelerating performance graphs. A blurred, confident silhouette of a 'competitor' is subtly visible in the background of the fast side, with a visual metaphor like a small digital trophy or a piece of a pie chart being pulled from the left side towards the right. Emphasize the contrast between slow, manual struggle and fast, automated success. Tone: Urgent, competitive, strategic.",
+    "video_brief": {
+      "hook": "Competitors stealing your ad advantage? Stop waiting. Start winning.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A stressed Head of Performance Marketing (Olivia-type persona) sits at a desk, looking frustrated at a computer screen filled with static ad performance reports and slow-loading analytics. A clock ticks audibly in the background, emphasizing lost time."
+        },
+        {
+          "time": "3-6s",
+          "visual": "Split screen. Left side: The stressed marketer's screen shows a 'campaign iteration' progress bar barely moving. Right side: A sleek, dynamic interface with rapidly updating ad creatives and performance graphs, representing a competitor's swift iteration. A subtle visual of a 'market share' pie chart on the left screen visibly shrinking."
+        },
+        {
+          "time": "6-9s",
+          "visual": "Transition to a clean, modern UI of the product. Ad variations are instantly generated and tested, represented by a rapid, fluid visual flow of creative elements and performance metrics. The marketer's expression shifts from frustration to curiosity, then understanding and relief."
+        },
+        {
+          "time": "9-12s",
+          "visual": "The marketer (now confident and smiling) quickly reviews optimized ad campaigns on the product's dashboard, showing clear positive ROI and growth charts. The 'market share' pie chart on their screen is now visibly growing, reclaiming lost ground."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot: Brand logo and headline 'Instantly Iterate Your Performance Ads' displayed prominently on screen, with a subtle animation suggesting speed and growth."
+        }
+      ],
+      "voiceover": "Is your ad advantage slipping away? While you're waiting for results... your competitors are rapidly iterating, seizing market share. It's time to reclaim your edge. Instantly accelerate your ad cycles. Optimize with speed, prove value, and outpace rivals.",
+      "cta": "Outpace Rivals"
+    },
+    "generated_at": "2025-10-01T08:53:18.915Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split-screen or juxtaposed image. On the left/foreground: A frustrated Head of Performance Marketing (Olivia-type persona) looking stressed at a screen displaying slow-loading ad campaign data, complex spreadsheets, and a 'pending' status. The environment is slightly cluttered, suggesting inefficiency. On the right/background: A sleek, dynamic digital interface showing rapidly iterating ad variations and accelerating performance graphs. A blurred, confident silhouette of a 'competitor' is subtly visible in the background of the fast side, with a visual metaphor like a small digital trophy or a piece of a pie chart being pulled from the left side towards the right. Emphasize the contrast between slow, manual struggle and fast, automated success. Tone: Urgent, competitive, strategic.\",\n  \"video_brief\": {\n    \"hook\": \"Competitors stealing your ad advantage? Stop waiting. Start winning.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A stressed Head of Performance Marketing (Olivia-type persona) sits at a desk, looking frustrated at a computer screen filled with static ad performance reports and slow-loading analytics. A clock ticks audibly in the background, emphasizing lost time.\"\n      },\n      {\n        \"time\": \"3-6s\",\n        \"visual\": \"Split screen. Left side: The stressed marketer's screen shows a 'campaign iteration' progress bar barely moving. Right side: A sleek, dynamic interface with rapidly updating ad creatives and performance graphs, representing a competitor's swift iteration. A subtle visual of a 'market share' pie chart on the left screen visibly shrinking.\"\n      },\n      {\n        \"time\": \"6-9s\",\n        \"visual\": \"Transition to a clean, modern UI of the product. Ad variations are instantly generated and tested, represented by a rapid, fluid visual flow of creative elements and performance metrics. The marketer's expression shifts from frustration to curiosity, then understanding and relief.\"\n      },\n      {\n        \"time\": \"9-12s\",\n        \"visual\": \"The marketer (now confident and smiling) quickly reviews optimized ad campaigns on the product's dashboard, showing clear positive ROI and growth charts. The 'market share' pie chart on their screen is now visibly growing, reclaiming lost ground.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot: Brand logo and headline 'Instantly Iterate Your Performance Ads' displayed prominently on screen, with a subtle animation suggesting speed and growth.\"\n      }\n    ],\n    \"voiceover\": \"Is your ad advantage slipping away? While you're waiting for results... your competitors are rapidly iterating, seizing market share. It's time to reclaim your edge. Instantly accelerate your ad cycles. Optimize with speed, prove value, and outpace rivals.\",\n    \"cta\": \"Outpace Rivals\"\n  }\n}\n```"
+}

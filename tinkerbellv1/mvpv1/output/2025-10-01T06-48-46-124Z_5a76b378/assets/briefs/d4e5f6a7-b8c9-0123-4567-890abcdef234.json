@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef234",
+    "image_brief": "A professional-looking marketing manager (mid-30s, diverse, representing Alex Chen persona) at a modern desk. The image should be split or clearly transition between two states. On the left/problem side: The manager appears overwhelmed and stressed, surrounded by multiple computer screens displaying dense, chaotic, and complex performance marketing data (e.g., cluttered spreadsheets, confusing graphs, raw numbers). The color palette here should lean towards desaturated tones with hints of red or orange to convey stress. On the right/solution side: The same manager now appears calm, focused, and empowered. They are interacting with a single, clean, and intuitive digital dashboard (representing the 'Example Domain' tool) displaying clear, actionable data-driven insights (e.g., simplified graphs, key metrics highlighted in blue or green). The background is clean, modern, and predominantly uses brand colors (blue, white, black). A subtle upward trend arrow or a 'lightbulb' icon could appear over the solution side, symbolizing clarity and efficiency. The overall tone is informative, showing a clear problem-solution narrative.",
+    "video_brief": {
+      "hook": "Drowning in manual ad data analysis?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up on a stressed performance marketing manager (Alex Chen persona) at a modern desk. Multiple monitors surround them, displaying dense, chaotic performance marketing data, complex spreadsheets, and confusing graphs. Quick cuts between screens emphasize the overwhelming data. Use desaturated colors with hints of red."
+        },
+        {
+          "time": "3-6s",
+          "visual": "A close-up shot of a hand frantically scrolling through an endless spreadsheet on a screen, or pointing at a confusing chart with a frustrated gesture. Overlays of question marks or 'X' icons appear briefly over the data, highlighting the difficulty in finding insights."
+        },
+        {
+          "time": "6-9s",
+          "visual": "A smooth transition to a sleek, modern, and intuitive digital dashboard (representing the Example Domain platform). Data is presented clearly with actionable insights highlighted in brand blue and green. Clean UI animations show data being processed and simplified. The manager's hand confidently interacts with the screen."
+        },
+        {
+          "time": "9-12s",
+          "visual": "The marketing manager (now calm, confident, and focused) is shown interacting with the clean dashboard, perhaps nodding in approval or making a strategic gesture. A subtle visual of an upward trend graph or a 'lightbulb' moment appears, signifying clear insights and strategic thinking. Brand colors (blue, white, black) are prominent in the interface."
+        },
+        {
+          "time": "12-15s",
+          "visual": "A clear, concise display of the Call to Action: 'Automate Insights' against a clean, brand-colored background (blue and white). The Example Domain logo appears prominently at the end."
+        }
+      ],
+      "voiceover": "Is manual ad data analysis slowing you down? Drowning in numbers, missing insights? Automate insights with Example Domain. Instantly iterate ads. Free your team for strategy. Automate insights today.",
+      "cta": "Automate Insights"
+    },
+    "generated_at": "2025-10-01T07:06:10.033Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A professional-looking marketing manager (mid-30s, diverse, representing Alex Chen persona) at a modern desk. The image should be split or clearly transition between two states. On the left/problem side: The manager appears overwhelmed and stressed, surrounded by multiple computer screens displaying dense, chaotic, and complex performance marketing data (e.g., cluttered spreadsheets, confusing graphs, raw numbers). The color palette here should lean towards desaturated tones with hints of red or orange to convey stress. On the right/solution side: The same manager now appears calm, focused, and empowered. They are interacting with a single, clean, and intuitive digital dashboard (representing the 'Example Domain' tool) displaying clear, actionable data-driven insights (e.g., simplified graphs, key metrics highlighted in blue or green). The background is clean, modern, and predominantly uses brand colors (blue, white, black). A subtle upward trend arrow or a 'lightbulb' icon could appear over the solution side, symbolizing clarity and efficiency. The overall tone is informative, showing a clear problem-solution narrative.\",\n  \"video_brief\": {\n    \"hook\": \"Drowning in manual ad data analysis?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up on a stressed performance marketing manager (Alex Chen persona) at a modern desk. Multiple monitors surround them, displaying dense, chaotic performance marketing data, complex spreadsheets, and confusing graphs. Quick cuts between screens emphasize the overwhelming data. Use desaturated colors with hints of red.\"\n      },\n      {\n        \"time\": \"3-6s\",\n        \"visual\": \"A close-up shot of a hand frantically scrolling through an endless spreadsheet on a screen, or pointing at a confusing chart with a frustrated gesture. Overlays of question marks or 'X' icons appear briefly over the data, highlighting the difficulty in finding insights.\"\n      },\n      {\n        \"time\": \"6-9s\",\n        \"visual\": \"A smooth transition to a sleek, modern, and intuitive digital dashboard (representing the Example Domain platform). Data is presented clearly with actionable insights highlighted in brand blue and green. Clean UI animations show data being processed and simplified. The manager's hand confidently interacts with the screen.\"\n      },\n      {\n        \"time\": \"9-12s\",\n        \"visual\": \"The marketing manager (now calm, confident, and focused) is shown interacting with the clean dashboard, perhaps nodding in approval or making a strategic gesture. A subtle visual of an upward trend graph or a 'lightbulb' moment appears, signifying clear insights and strategic thinking. Brand colors (blue, white, black) are prominent in the interface.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"A clear, concise display of the Call to Action: 'Automate Insights' against a clean, brand-colored background (blue and white). The Example Domain logo appears prominently at the end.\"\n      }\n    ],\n    \"voiceover\": \"Is manual ad data analysis slowing you down? Drowning in numbers, missing insights? Automate insights with Example Domain. Instantly iterate ads. Free your team for strategy. Automate insights today.\",\n    \"cta\": \"Automate Insights\"\n  }\n}\n```"
+}

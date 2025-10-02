@@ -1,0 +1,25 @@
+{
+  "company_id": "ad5a8fc5-c1c6-45bb-abf8-b1b21cfceb31",
+  "url": "https://example.com",
+  "uvp": "Instantly iterate performance ads",
+  "brand_headline": "Example Domain",
+  "brand_keywords": [
+    "performance ads",
+    "ad iteration",
+    "marketing optimization",
+    "advertising technology",
+    "ad testing"
+  ],
+  "brand_colors": [],
+  "logo_urls": [],
+  "short_bullets": [
+    "Accelerate ad testing cycles",
+    "Optimize campaign performance rapidly",
+    "Simplify ad iteration workflows"
+  ],
+  "tone": "Direct",
+  "generated_at": "2024-07-30T12:00:00Z",
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"company_id\": \"ad5a8fc5-c1c6-45bb-abf8-b1b21cfceb31\",\n  \"url\": \"https://example.com\",\n  \"uvp\": \"Instantly iterate performance ads\",\n  \"brand_headline\": \"Example Domain\",\n  \"brand_keywords\": [\n    \"performance ads\",\n    \"ad iteration\",\n    \"marketing optimization\",\n    \"advertising technology\",\n    \"ad testing\"\n  ],\n  \"brand_colors\": [],\n  \"logo_urls\": [],\n  \"short_bullets\": [\n    \"Accelerate ad testing cycles\",\n    \"Optimize campaign performance rapidly\",\n    \"Simplify ad iteration workflows\"\n  ],\n  \"tone\": \"Direct\",\n  \"generated_at\": \"2024-07-30T12:00:00Z\"\n}\n```",
+  "sample": "Example Domain\nExample Domain\nThis domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission."
+}

@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+    "image_brief": "A dynamic split-screen image. On the left, a frustrated marketing professional (30s-40s, business casual, diverse ethnicity) looking stressed at a desk cluttered with sticky notes and a slow-loading, outdated ad platform interface, symbolizing 'slow cycles'. A visible clock shows time dragging. On the right, the same professional, now confident and empowered, smiling slightly while interacting with a sleek, futuristic, and fast-moving digital dashboard displaying rapidly iterating ad creatives and real-time performance metrics. The right side should convey speed, efficiency, and competitive advantage, with subtle visual cues of exponential growth (e.g., upward trending graphs, accelerating data points). The overall aesthetic should be clean, professional, and high-tech, emphasizing the stark contrast between outdated methods and instant iteration. Use brand-aligned colors if available, otherwise, a modern blue/green palette. Focus on crisp UI elements and a sense of rapid progress.",
+    "video_brief": {
+      "hook": "Outpace competitors. Instantly iterate ads.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Opening shot: A close-up of a digital clock ticking slowly, then a quick pan to a marketing professional (30s-40s, diverse, business casual) looking visibly frustrated at a slow-loading ad creative platform on their monitor. The screen shows a 'loading' spinner or a static, unoptimized ad creative. Text overlay: 'Stuck in slow ad cycles?'"
+        },
+        {
+          "time": "3-7s",
+          "visual": "Dynamic transition: A swift, modern swipe animation reveals a sleek, intuitive digital dashboard. A hand quickly navigates through the interface, demonstrating rapid, almost instantaneous, generation and modification of multiple ad creatives. Visuals of ad variations (different headlines, images, CTAs) flashing quickly on screen. Text overlay: 'Instantly iterate performance ads.'"
+        },
+        {
+          "time": "7-12s",
+          "visual": "Impact shot: Split screen or quick cuts showing: 1) The same marketing professional, now confident and smiling, reviewing a vibrant dashboard with upward-trending performance graphs and real-time data. 2) A subtle visual of competitors falling behind (e.g., a blurred background of a traditional office struggling, or a graph showing a competitor's flat line). Text overlay: 'Gain the competitive edge. Drive rapid growth.'"
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot: The brand's logo appears prominently against a clean, modern background. The headline 'Outpace Competitors. Instantly Iterate Ads.' is displayed clearly, followed by the CTA button. The background subtly animates with abstract data streams or light trails to convey speed and innovation."
+        }
+      ],
+      "voiceover": "Stuck in slow ad cycles? While competitors lag, you can instantly iterate performance ads. Drive rapid growth, gain the edge, and outpace the market.",
+      "cta": "Get The Edge"
+    },
+    "generated_at": "2025-10-01T09:13:21.928Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic split-screen image. On the left, a frustrated marketing professional (30s-40s, business casual, diverse ethnicity) looking stressed at a desk cluttered with sticky notes and a slow-loading, outdated ad platform interface, symbolizing 'slow cycles'. A visible clock shows time dragging. On the right, the same professional, now confident and empowered, smiling slightly while interacting with a sleek, futuristic, and fast-moving digital dashboard displaying rapidly iterating ad creatives and real-time performance metrics. The right side should convey speed, efficiency, and competitive advantage, with subtle visual cues of exponential growth (e.g., upward trending graphs, accelerating data points). The overall aesthetic should be clean, professional, and high-tech, emphasizing the stark contrast between outdated methods and instant iteration. Use brand-aligned colors if available, otherwise, a modern blue/green palette. Focus on crisp UI elements and a sense of rapid progress.\",\n  \"video_brief\": {\n    \"hook\": \"Outpace competitors. Instantly iterate ads.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Opening shot: A close-up of a digital clock ticking slowly, then a quick pan to a marketing professional (30s-40s, diverse, business casual) looking visibly frustrated at a slow-loading ad creative platform on their monitor. The screen shows a 'loading' spinner or a static, unoptimized ad creative. Text overlay: 'Stuck in slow ad cycles?'\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Dynamic transition: A swift, modern swipe animation reveals a sleek, intuitive digital dashboard. A hand quickly navigates through the interface, demonstrating rapid, almost instantaneous, generation and modification of multiple ad creatives. Visuals of ad variations (different headlines, images, CTAs) flashing quickly on screen. Text overlay: 'Instantly iterate performance ads.'\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"Impact shot: Split screen or quick cuts showing: 1) The same marketing professional, now confident and smiling, reviewing a vibrant dashboard with upward-trending performance graphs and real-time data. 2) A subtle visual of competitors falling behind (e.g., a blurred background of a traditional office struggling, or a graph showing a competitor's flat line). Text overlay: 'Gain the competitive edge. Drive rapid growth.'\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot: The brand's logo appears prominently against a clean, modern background. The headline 'Outpace Competitors. Instantly Iterate Ads.' is displayed clearly, followed by the CTA button. The background subtly animates with abstract data streams or light trails to convey speed and innovation.\"\n      }\n    ],\n    \"voiceover\": \"Stuck in slow ad cycles? While competitors lag, you can instantly iterate performance ads. Drive rapid growth, gain the edge, and outpace the market.\",\n    \"cta\": \"Get The Edge\"\n  }\n}\n```"
+}

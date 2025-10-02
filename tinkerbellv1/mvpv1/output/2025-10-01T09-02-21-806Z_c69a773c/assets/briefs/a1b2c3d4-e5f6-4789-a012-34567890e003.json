@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "a1b2c3d4-e5f6-4789-a012-34567890e003",
+    "image_brief": "A dynamic, high-tech visual representing rapid ad iteration and scaling. Imagine a sleek, modern dashboard interface with multiple ad creatives (thumbnails) rapidly deploying across various digital channel icons (e.g., social media, search, display). An upward-trending performance graph or ROI chart is prominently integrated, symbolizing maximized returns. The overall aesthetic should be clean, professional, and convey speed and efficiency. Emphasize digital elements and data visualization, with a focus on growth and instant action.",
+    "video_brief": {
+      "hook": "Stop slow ad cycles. Scale instantly.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up of a professional (Head of Performance Marketing archetype) looking frustrated at a complex, slow-loading ad platform interface on a monitor. Multiple browser tabs open, indicating manual, cumbersome work. Overlay text: 'Delays killing your ad momentum?'"
+        },
+        {
+          "time": "3-8s",
+          "visual": "Transition to a sleek, modern SaaS dashboard. A hand (representing the user) rapidly interacts with the interface, and in fast-forward, multiple ad creative variations (thumbnails) are generated and optimized in real-time. Upward-trending green performance graphs appear, showing increasing metrics. Sound: Upbeat, modern tech sound effects."
+        },
+        {
+          "time": "8-12s",
+          "visual": "The optimized ad creatives (now looking polished and effective) are shown deploying instantaneously across a grid of digital channel icons (e.g., Facebook, Google Ads, LinkedIn, TikTok). The professional from 0-3s is now smiling confidently, reviewing the dashboard with positive results. Overlay text: 'Scale Winning Ads. Instantly.'"
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot of the company logo with the headline 'Scale Winning Ads. Instantly. Maximize ROI.' prominently displayed. The CTA button 'Scale Now' animates and glows."
+        }
+      ],
+      "voiceover": "Tired of slow ad cycles and missed opportunities? Instantly iterate and optimize your top-performing ad creatives. Rapidly deploy across all channels, maximizing your ROI. Scale Winning Ads. Instantly. Maximize ROI.",
+      "cta": "Scale Now"
+    },
+    "generated_at": "2025-10-01T09:11:51.629Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, high-tech visual representing rapid ad iteration and scaling. Imagine a sleek, modern dashboard interface with multiple ad creatives (thumbnails) rapidly deploying across various digital channel icons (e.g., social media, search, display). An upward-trending performance graph or ROI chart is prominently integrated, symbolizing maximized returns. The overall aesthetic should be clean, professional, and convey speed and efficiency. Emphasize digital elements and data visualization, with a focus on growth and instant action.\",\n  \"video_brief\": {\n    \"hook\": \"Stop slow ad cycles. Scale instantly.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up of a professional (Head of Performance Marketing archetype) looking frustrated at a complex, slow-loading ad platform interface on a monitor. Multiple browser tabs open, indicating manual, cumbersome work. Overlay text: 'Delays killing your ad momentum?'\"\n      },\n      {\n        \"time\": \"3-8s\",\n        \"visual\": \"Transition to a sleek, modern SaaS dashboard. A hand (representing the user) rapidly interacts with the interface, and in fast-forward, multiple ad creative variations (thumbnails) are generated and optimized in real-time. Upward-trending green performance graphs appear, showing increasing metrics. Sound: Upbeat, modern tech sound effects.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"The optimized ad creatives (now looking polished and effective) are shown deploying instantaneously across a grid of digital channel icons (e.g., Facebook, Google Ads, LinkedIn, TikTok). The professional from 0-3s is now smiling confidently, reviewing the dashboard with positive results. Overlay text: 'Scale Winning Ads. Instantly.'\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot of the company logo with the headline 'Scale Winning Ads. Instantly. Maximize ROI.' prominently displayed. The CTA button 'Scale Now' animates and glows.\"\n      }\n    ],\n    \"voiceover\": \"Tired of slow ad cycles and missed opportunities? Instantly iterate and optimize your top-performing ad creatives. Rapidly deploy across all channels, maximizing your ROI. Scale Winning Ads. Instantly. Maximize ROI.\",\n    \"cta\": \"Scale Now\"\n  }\n}\n```"
+}

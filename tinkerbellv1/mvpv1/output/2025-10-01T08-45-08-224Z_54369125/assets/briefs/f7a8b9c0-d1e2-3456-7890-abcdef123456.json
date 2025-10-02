@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "f7a8b9c0-d1e2-3456-7890-abcdef123456",
+    "image_brief": "A split image or visual transition. On one side, a digital ad dashboard with red, downward-trending graphs and digital coins/bills visibly 'leaking' or falling off the screen, symbolizing wasted budget and slow processes. On the other side, the same dashboard is optimized, displaying vibrant green, upward-trending performance metrics, fast-forward icons, and a streamlined, efficient interface. The overall aesthetic should be clean, modern, and professional, conveying rapid, instant optimization and financial efficiency. Focus on digital screens and data visualization, appealing to a Head of Performance Marketing.",
+    "video_brief": {
+      "hook": "Is your ad budget leaking?",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "Close-up on a digital screen displaying a performance ad dashboard. A prominent red graph is visibly declining, and subtle animation shows digital coins/bills 'dripping' or falling away from the screen's edge. Sound: subtle dripping."
+        },
+        {
+          "time": "2-5s",
+          "visual": "A professional (Olivia-like persona) at a modern desk, looking slightly frustrated. They are surrounded by multiple open browser tabs or complex spreadsheets, appearing to manually adjust ad settings. A clock on the wall ticks rapidly, emphasizing time pressure."
+        },
+        {
+          "time": "5-8s",
+          "visual": "A swift, almost magical visual transition. The cluttered screens and manual work dissolve into a single, sleek, modern platform interface. Data points on the screen rapidly animate, transforming from red to vibrant green, showing strong upward trends. A 'speedometer' or 'iteration cycle' graphic spins rapidly and lands on 'Optimized' or 'Instant'."
+        },
+        {
+          "time": "8-12s",
+          "visual": "The professional now smiles confidently, observing the optimized dashboard with ease. A progress bar quickly fills, indicating 'Campaign Optimized' or 'Iteration Complete.' Text overlay: 'Instantly Optimize Performance Ads.'"
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final shot of the clean, efficient dashboard, with the company logo subtly integrated. The CTA text appears clearly and prominently on screen."
+        }
+      ],
+      "voiceover": "Is your ad budget draining away? Stop slow testing and inefficient allocation. Instantly streamline ad campaigns for unprecedented results.",
+      "cta": "Optimize Spend"
+    },
+    "generated_at": "2025-10-01T08:55:35.648Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image or visual transition. On one side, a digital ad dashboard with red, downward-trending graphs and digital coins/bills visibly 'leaking' or falling off the screen, symbolizing wasted budget and slow processes. On the other side, the same dashboard is optimized, displaying vibrant green, upward-trending performance metrics, fast-forward icons, and a streamlined, efficient interface. The overall aesthetic should be clean, modern, and professional, conveying rapid, instant optimization and financial efficiency. Focus on digital screens and data visualization, appealing to a Head of Performance Marketing.\",\n  \"video_brief\": {\n    \"hook\": \"Is your ad budget leaking?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"Close-up on a digital screen displaying a performance ad dashboard. A prominent red graph is visibly declining, and subtle animation shows digital coins/bills 'dripping' or falling away from the screen's edge. Sound: subtle dripping.\"\n      },\n      {\n        \"time\": \"2-5s\",\n        \"visual\": \"A professional (Olivia-like persona) at a modern desk, looking slightly frustrated. They are surrounded by multiple open browser tabs or complex spreadsheets, appearing to manually adjust ad settings. A clock on the wall ticks rapidly, emphasizing time pressure.\"\n      },\n      {\n        \"time\": \"5-8s\",\n        \"visual\": \"A swift, almost magical visual transition. The cluttered screens and manual work dissolve into a single, sleek, modern platform interface. Data points on the screen rapidly animate, transforming from red to vibrant green, showing strong upward trends. A 'speedometer' or 'iteration cycle' graphic spins rapidly and lands on 'Optimized' or 'Instant'.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"The professional now smiles confidently, observing the optimized dashboard with ease. A progress bar quickly fills, indicating 'Campaign Optimized' or 'Iteration Complete.' Text overlay: 'Instantly Optimize Performance Ads.'\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final shot of the clean, efficient dashboard, with the company logo subtly integrated. The CTA text appears clearly and prominently on screen.\"\n      }\n    ],\n    \"voiceover\": \"Is your ad budget draining away? Stop slow testing and inefficient allocation. Instantly streamline ad campaigns for unprecedented results.\",\n    \"cta\": \"Optimize Spend\"\n  }\n}\n```"
+}

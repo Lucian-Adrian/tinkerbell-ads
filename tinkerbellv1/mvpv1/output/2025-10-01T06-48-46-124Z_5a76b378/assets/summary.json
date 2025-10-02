@@ -1,0 +1,305 @@
+{
+  "briefs": [
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "image_brief": "A clean, modern digital dashboard interface, primarily using shades of blue and white with subtle black accents. The central focus is a prominent, upward-trending line graph or multiple rapidly increasing performance metrics, visually representing 'scaling winning ads' and 'growth.' Integrate subtle visual cues for 'instantly' and 'real-time,' such as a fast-forward icon or a digital clock accelerating. The overall aesthetic should be professional, data-driven, and convey efficiency and rapid progress in performance marketing. Avoid literal human figures or complex real-world objects; focus on abstract data visualization and digital elements.",
+      "video_brief": {
+        "hook": "Scale winning ads, instantly. No more waiting.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "A digital interface showing a cluttered, complex spreadsheet or a slow-loading analytics report with stagnant or slightly declining performance metrics. A subtle, digital hourglass icon or a 'processing...' spinner is visible, emphasizing delay."
+          },
+          {
+            "time": "3-7s",
+            "visual": "A rapid, dynamic transition. The cluttered interface dissolves or transforms into a sleek, modern, and intuitive performance marketing dashboard. Data points and graphs begin to animate, showing an immediate and clear upward trend. A prominent 'Scale Campaign' button is highlighted, glowing in a brand blue."
+          },
+          {
+            "time": "7-12s",
+            "visual": "A digital cursor or finger quickly clicks the 'Scale Campaign' button. Immediately, multiple performance graphs (e.g., ROI, conversions, reach) surge upwards with animated lines. A progress bar quickly fills, indicating rapid deployment and amplification across various digital channels. A brief, positive notification appears: 'Campaign scaled successfully!'"
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final screen: Display the 'Example Domain' logo. The headline 'Scale Winning Ads, Instantly. No More Waiting.' appears prominently. Below it, the call to action 'Scale Campaigns' is clearly visible, against a clean, professional background using brand colors (blue, white, black)."
+          }
+        ],
+        "voiceover": "Tired of slow ad cycles? Waiting for results is costing you growth. Imagine finding your top performers and amplifying them instantly. Our platform empowers you to scale winning ads in real-time, maximizing your spend and accelerating your growth. Stop waiting. Start winning.",
+        "cta": "Scale Campaigns"
+      },
+      "generated_at": "2025-10-01T07:02:31.089Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-4012-4567-890abcdef012",
+      "image_brief": "A split image or overlay: On one side, a stressed-looking Performance Marketing Manager (Alex Chen persona) at a desk, surrounded by messy charts and manually adjusting ad parameters, with a red 'struggle' overlay. On the other side, a confident, calm manager looking at a sleek, futuristic digital dashboard displaying rapidly iterating ad creatives and soaring performance metrics, with a green 'success' overlay. A subtle, glowing blue 'secret weapon' icon or abstract 'advantage' graphic connects the confident manager to the dashboard, implying a hidden tool. Use brand colors (blue, black, white) for the interface and overall aesthetic, emphasizing speed and competitive edge.",
+      "video_brief": {
+        "hook": "What if they're already winning?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up on a digital clock ticking rapidly, then a hand slowly dragging a slider on a complex, outdated ad platform interface. A frustrated marketer's face is visible in the background. Overlay text: 'Slow creative cycles?'"
+          },
+          {
+            "time": "3-7s",
+            "visual": "A dynamic transition: The outdated interface shatters into digital shards, revealing a sleek, modern, blue-themed dashboard with vibrant graphs and rapidly changing ad creatives. A hand effortlessly taps a button labeled 'Iterate.' Overlay text: 'Instantly iterate performance ads.'"
+          },
+          {
+            "time": "7-12s",
+            "visual": "Split screen: On one side, a competitor's ad performance graph flatlines (red). On the other, the user's ad performance graph rapidly ascends (blue), showing increasing ROI and market share. A subtle, glowing blue 'edge' effect surrounds the winning graph. Overlay text: 'Scale winners. Dominate your market.'"
+          },
+          {
+            "time": "12-15s",
+            "visual": "The sleek dashboard fills the screen, with the 'Discover Your Edge' CTA button prominently highlighted in blue. A subtle animation of various ad creatives quickly transforming and optimizing."
+          }
+        ],
+        "voiceover": "Are slow creative cycles holding you back? While you're still testing, your competitors could be scaling. Imagine instantly iterating performance ads, cutting testing time, and dominating your market. It's not a secret anymore.",
+        "cta": "Discover Your Edge"
+      },
+      "generated_at": "2025-10-01T07:03:03.364Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-4890-2345-67890abcdef0",
+      "image_brief": "A dynamic, split-screen or overlaid composition. On the left/background, a digital dashboard with downward-trending red graphs and a 'slow' progress bar, subtly implying 'lost revenue' or 'inefficient ad spend.' On the right/foreground, a sleek, upward-trending blue bar graph or a stylized arrow accelerating upwards, representing 'optimized budgets' and 'scaling winning ads.' A subtle, blurred background element could suggest a competitor's shadow or a slightly ahead figure. The overall visual should convey a shift from inefficiency to rapid, successful optimization. Use brand colors: prominent blue, with white and black for contrast and text. Clean, modern, and professional digital aesthetic, suitable for a performance marketing context.",
+      "video_brief": {
+        "hook": "Competitors stealing your ad ROI? Not anymore.",
+        "scenes": [
+          {
+            "time": "0-2s",
+            "visual": "A close-up of a digital screen displaying complex, cluttered performance marketing dashboards with several red, downward-trending arrows and slow-loading indicators. The overall impression is stagnation and inefficiency. Use muted colors, hinting at frustration."
+          },
+          {
+            "time": "2-5s",
+            "visual": "A split screen. On one side, a calendar view with many manual tasks and delays highlighted in red. On the other, a stylized, abstract animation of a competitor's progress bar rapidly filling up with green, symbolizing swift iteration and market gain."
+          },
+          {
+            "time": "5-8s",
+            "visual": "A dynamic transition. The cluttered screen dissolves into a sleek, modern, blue-themed interface. Upward-trending blue graphs animate quickly, and a progress bar instantly snaps to 100%. Digital data streams flow smoothly, representing 'instant iteration'."
+          },
+          {
+            "time": "8-12s",
+            "visual": "Abstract representation of 'scaling winning ads.' Multiple ad creative thumbnails rapidly generate and optimize themselves, then a single, highly effective ad creative launches forward like a digital projectile, leaving a blue trail. This conveys speed and precision."
+          },
+          {
+            "time": "12-15s",
+            "visual": "A bold, clear display of 'ROI' or 'Campaign ROI' metric prominently increasing on a screen, surrounded by positive, green-lit data points. The screen glows with a confident blue light. The brand logo (Example Domain, if available, or a generic placeholder for the product) appears subtly in the corner."
+          }
+        ],
+        "voiceover": "Is slow ad iteration costing you? While you're testing, competitors are winning. Stop inefficient spend. Instantly optimize budgets, scale winning ads, and reclaim your ROI.",
+        "cta": "Boost ROI"
+      },
+      "generated_at": "2025-10-01T07:03:38.127Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "image_brief": "A split visual, contrasting manual inefficiency with automated clarity. On the left (or background, subtly fading), depict a performance marketing manager (Alex Chen persona, mid-30s, professional attire) looking overwhelmed, surrounded by chaotic, physical spreadsheets, cluttered data charts, and a ticking clock. The color palette here should be muted, perhaps sepia or desaturated. On the right (or foreground, brightly lit), the same manager, now calm and focused, interacts with a sleek, modern digital dashboard displaying clear, concise performance metrics and an AI icon, rendered in clean blues and whites (brand colors). The overall impression should be a transition from manual drudgery to intelligent, time-saving automation. The image should convey 'reclaiming time' and 'focusing on strategy' through visual metaphors.",
+      "video_brief": {
+        "hook": "Tired of endless manual ad data analysis?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up of a performance marketing manager's hands (Alex Chen persona) frantically scrolling through an overwhelming, cluttered spreadsheet on a laptop screen. Visual cues of stress: quick eye movements, a half-empty coffee cup, a stack of physical reports nearby. The screen displays complex, unorganized data. Muted, slightly desaturated colors."
+          },
+          {
+            "time": "3-8s",
+            "visual": "A rapid visual transition: the cluttered screen is suddenly enveloped by a clean, vibrant blue light (brand color). As the light recedes, it reveals a sleek, modern digital dashboard. The dashboard displays clear, concise performance metrics, dynamic graphs, and subtle AI-driven elements indicating instant ad iteration. The interface is predominantly blue, white, and black, reflecting brand colors."
+          },
+          {
+            "time": "8-12s",
+            "visual": "The manager from the opening scene is now relaxed and confident, interacting smoothly with the new, clean dashboard. They are seen making strategic decisions, perhaps gesturing towards a clean whiteboard with strategic notes, rather than being bogged down in data entry. The background is a clean, modern office environment, emphasizing focus and productivity."
+          },
+          {
+            "time": "12-15s",
+            "visual": "The dashboard screen fills the frame, transforming into a branded splash screen. It prominently displays the headline: 'Automate Your Ad Optimization. Reclaim Time.' in a clean, informative font, with a clear call-to-action button: 'Automate Smarter' in brand blue. The company logo (Example Domain) is subtly visible."
+          }
+        ],
+        "voiceover": "Tired of endless manual ad data analysis? Our AI instantly iterates performance ads, freeing your team. Focus on strategy, not spreadsheets. Automate smarter.",
+        "cta": "Automate Smarter"
+      },
+      "generated_at": "2025-10-01T07:04:09.910Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-4123-5678-90abcdef0123",
+      "image_brief": "A dynamic, high-contrast image using brand colors (blue, black, white). A confident, focused marketing professional (Alex Chen persona) is at a sleek, modern workstation, actively deploying digital ads. In the background, a blurred, slightly lagging shadow or abstract representation of a competitor struggles to catch up. The overall impression should be speed, efficiency, and competitive advantage, emphasizing 'instantly iterate performance ads' and 'secure your lead'.",
+      "video_brief": {
+        "hook": "Stop Rivals From Stealing Your Ad Wins.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up on a frustrated marketing manager (Alex Chen persona) staring at a complex, slow-loading dashboard with red negative trends. A subtle, blurred image of a competitor's logo or successful ad might appear briefly on another screen in the background, implying missed opportunities. Tone: Urgent, problem-focused."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Transition to a vibrant, clean user interface (representing the company's product). Data visualizations are rapidly updating, showing green positive trends, quick A/B test results, and a clear 'Deploy Winning Ad' button being clicked. Emphasize speed and automation. Use brand colors (blue, white, black)."
+          },
+          {
+            "time": "7-10s",
+            "visual": "The marketing manager from the first scene now looks confident and victorious, smiling at a screen displaying significant ROI growth and successful campaign metrics. A subtle visual element suggesting 'leaving competitors behind' could be a fast-forward animation of a rival's slower progress in the background. Tone: Empowered, successful."
+          },
+          {
+            "time": "10-12s",
+            "visual": "On-screen text: 'Future-proof your ad strategy.'"
+          }
+        ],
+        "voiceover": "Are slow ad cycles costing you crucial wins? While you test, rivals scale. But what if you could instantly iterate, optimize, and deploy? Secure your lead. Outpace the competition and dominate your market.",
+        "cta": "Secure Your Wins"
+      },
+      "generated_at": "2025-10-01T07:04:36.084Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-4901-3456-7890abcdef01",
+      "image_brief": "A split-screen composition. On the left, a cluttered, dimly lit desk with overflowing spreadsheets and a slightly overwhelmed performance marketing manager (mid-30s, professional attire, diverse ethnicity, representing Alex Chen persona) struggling with manual data analysis. Subtle red/orange hues in this section to denote struggle. On the right, a bright, clean, and modern digital dashboard displaying clear, actionable performance ad insights with dynamic graphs and charts, predominantly in brand blue and white. A confident, focused marketer (same person as left, now empowered) is interacting with this screen. A subtle, transparent overlay of a 'rival' icon or a rising competitive graph element is visible on the right side, implying outmaneuvering. The overall aesthetic should be professional, clean, and convey a clear transition from chaos to clarity and competitive advantage. Use brand colors: blue, white, black.",
+      "video_brief": {
+        "hook": "Is manual analysis costing you campaign wins?",
+        "scenes": [
+          {
+            "time": "0:00-0:03",
+            "visual": "Close-up on a desk cluttered with printouts, spreadsheets, and a laptop displaying complex, static data. Hands (representing Alex Chen) are frantically scrolling, looking overwhelmed. Dim, slightly desaturated lighting, emphasizing frustration."
+          },
+          {
+            "time": "0:03-0:06",
+            "visual": "Transition to a split screen. On one side, the previous cluttered desk, now with a faint, almost ghost-like rival company logo subtly appearing over it. On the other side, a rapidly updating digital dashboard showing a competitor's performance line sharply rising, while the user's line is flat."
+          },
+          {
+            "time": "0:06-0:12",
+            "visual": "Full screen transition to a sleek, modern digital performance marketing dashboard (predominantly brand blue and white). Dynamic graphs and charts animate, showing 'Your Performance' line rapidly accelerating upwards. Key metrics like 'Creative Insights' and 'Real-time Optimization' are highlighted with glowing blue accents. A hand confidently interacts with the screen, making a swift, decisive gesture."
+          },
+          {
+            "time": "0:12-0:15",
+            "visual": "The dashboard minimizes to reveal the 'Example Domain' brand headline and the CTA button 'Get Real-time Insights' prominently displayed against a clean blue and white background. Company URL example.com subtly visible."
+          }
+        ],
+        "voiceover": "Manual analysis kills speed. While you're digging, rivals are scaling, stealing your ad insights. Gain deep, instant creative insights to outmaneuver them. Iterate performance ads in real-time. Stop losing. Start winning.",
+        "cta": "Get Real-time Insights"
+      },
+      "generated_at": "2025-10-01T07:05:07.170Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+      "image_brief": "A split image or a before-and-after concept. On one side (problem), visualize 'wasted ad spend': a downward trending graph with red indicators, perhaps a stack of generic ad creatives with a red 'X' over them, implying poor performance. The background should feel cluttered or inefficient. On the other side (solution), visualize 'optimized spend' and 'high-ROI creatives': an upward trending graph with green indicators, a sleek digital dashboard showcasing positive performance metrics (ROI, conversions), and a hand interacting with an intuitive interface that suggests 'instant iteration'. The background should be clean and organized. Use a professional, clean aesthetic with brand colors (blue, black, white) to highlight data and efficiency. The overall impression should be a clear contrast between inefficiency and effective, data-driven optimization.",
+      "video_brief": {
+        "hook": "Wasting ad spend on underperforming creatives?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up on a digital performance report displaying red, negative metrics (e.g., high CPA, low ROI). A hand hovers over the screen, looking frustrated and stressed. The screen has a slightly chaotic or overwhelming feel."
+          },
+          {
+            "time": "3-9s",
+            "visual": "Transition to a modern, clean SaaS dashboard interface (using blue, black, white). Animated elements show rapid A/B testing or creative variations being generated and analyzed in real-time. Green arrows and positive data points emerge, indicating improvement. A hand confidently interacts with the interface, suggesting ease of use."
+          },
+          {
+            "time": "9-12s",
+            "visual": "A confident marketing manager smiles, looking at a screen displaying significant ROI growth and budget efficiency. A subtle visual of money growing or being saved, perhaps a green bar graph sharply rising. The overall scene conveys success and control."
+          }
+        ],
+        "voiceover": "Are you wasting valuable ad spend on underperforming creatives? Stop the guesswork. Instantly iterate and optimize your performance ads. Identify and scale high-ROI creatives, cutting wasted budget and boosting your bottom line.",
+        "cta": "Optimize Spend"
+      },
+      "generated_at": "2025-10-01T07:05:29.358Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef234",
+      "image_brief": "A professional-looking marketing manager (mid-30s, diverse, representing Alex Chen persona) at a modern desk. The image should be split or clearly transition between two states. On the left/problem side: The manager appears overwhelmed and stressed, surrounded by multiple computer screens displaying dense, chaotic, and complex performance marketing data (e.g., cluttered spreadsheets, confusing graphs, raw numbers). The color palette here should lean towards desaturated tones with hints of red or orange to convey stress. On the right/solution side: The same manager now appears calm, focused, and empowered. They are interacting with a single, clean, and intuitive digital dashboard (representing the 'Example Domain' tool) displaying clear, actionable data-driven insights (e.g., simplified graphs, key metrics highlighted in blue or green). The background is clean, modern, and predominantly uses brand colors (blue, white, black). A subtle upward trend arrow or a 'lightbulb' icon could appear over the solution side, symbolizing clarity and efficiency. The overall tone is informative, showing a clear problem-solution narrative.",
+      "video_brief": {
+        "hook": "Drowning in manual ad data analysis?",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Close-up on a stressed performance marketing manager (Alex Chen persona) at a modern desk. Multiple monitors surround them, displaying dense, chaotic performance marketing data, complex spreadsheets, and confusing graphs. Quick cuts between screens emphasize the overwhelming data. Use desaturated colors with hints of red."
+          },
+          {
+            "time": "3-6s",
+            "visual": "A close-up shot of a hand frantically scrolling through an endless spreadsheet on a screen, or pointing at a confusing chart with a frustrated gesture. Overlays of question marks or 'X' icons appear briefly over the data, highlighting the difficulty in finding insights."
+          },
+          {
+            "time": "6-9s",
+            "visual": "A smooth transition to a sleek, modern, and intuitive digital dashboard (representing the Example Domain platform). Data is presented clearly with actionable insights highlighted in brand blue and green. Clean UI animations show data being processed and simplified. The manager's hand confidently interacts with the screen."
+          },
+          {
+            "time": "9-12s",
+            "visual": "The marketing manager (now calm, confident, and focused) is shown interacting with the clean dashboard, perhaps nodding in approval or making a strategic gesture. A subtle visual of an upward trend graph or a 'lightbulb' moment appears, signifying clear insights and strategic thinking. Brand colors (blue, white, black) are prominent in the interface."
+          },
+          {
+            "time": "12-15s",
+            "visual": "A clear, concise display of the Call to Action: 'Automate Insights' against a clean, brand-colored background (blue and white). The Example Domain logo appears prominently at the end."
+          }
+        ],
+        "voiceover": "Is manual ad data analysis slowing you down? Drowning in numbers, missing insights? Automate insights with Example Domain. Instantly iterate ads. Free your team for strategy. Automate insights today.",
+        "cta": "Automate Insights"
+      },
+      "generated_at": "2025-10-01T07:06:10.033Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "image_brief": "A split image. On the left, a person (representing Alex Chen, a Performance Marketing Manager) looking puzzled at a complex, tangled web of data lines and graphs, conveying 'surface-level data' and 'guessing.' Colors are muted, hinting at frustration. On the right, the same person is now confident, smiling, and pointing to a clear, intuitive, and modern dashboard displaying actionable 'deep creative insights' and positive ROI metrics. The right side is vibrant with brand colors: blues and whites dominating, with crisp black text. A subtle glow or 'unlock' icon connects the two sides, symbolizing 'unlocking true ad performance.' The overall tone is informative and empowering.",
+      "video_brief": {
+        "hook": "Unlock true ad performance and insights.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Opening shot: A close-up on a person (representing Alex Chen, Performance Marketing Manager) looking stressed or overwhelmed by a screen filled with complex, cluttered ad performance data charts and spreadsheets. The screen displays confusing metrics, suggesting 'surface-level data' and 'guessing.' Colors are dull."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Transition: The chaotic data on the screen smoothly transforms into a clean, modern, and intuitive dashboard. Animated graphs show clear, actionable 'deep creative insights' and positive ROI trends. Brand colors (blue, white, black) are prominent, creating a sense of clarity and organization. A subtle 'unlock' animation appears."
+          },
+          {
+            "time": "7-12s",
+            "visual": "The person from the first scene is now confident and engaged, easily interacting with the insights dashboard. They make a quick, decisive action (e.g., clicking an 'iterate' button). Visuals show a rapid increase in ROI and campaign performance metrics, emphasizing 'instantly iterate for maximum campaign ROI'."
+          },
+          {
+            "time": "12-15s",
+            "visual": "Final shot: The powerful insights dashboard is prominently displayed with the headline 'Unlock True Ad Performance & Insights' clearly visible. A vibrant call-to-action button 'Get Insights' is highlighted. Brand logo subtly appears."
+          }
+        ],
+        "voiceover": "Struggling with surface-level ad data? It's time to unlock true performance. Gain deep creative insights, and instantly iterate for maximum ROI. Stop guessing. Start winning with data.",
+        "cta": "Get Insights"
+      },
+      "generated_at": "2025-10-01T07:06:40.677Z"
+    },
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-1234-567890abcdef",
+      "image_brief": "A dynamic, split-screen image illustrating a stark contrast. On the left, a frustrated performance marketing manager is surrounded by cluttered, manual spreadsheets, slow-loading screens, and a ticking clock, symbolizing 'slow creative cycles' and lost time. The color palette on this side is muted, with hints of grey and desaturated tones. On the right, a confident, focused marketing manager efficiently interacts with a sleek, modern, AI-powered digital dashboard, instantly generating and optimizing 'performance ads.' This side is vibrant, featuring brand blue and white, conveying speed, efficiency, and 'winning.' A subtle visual element like a digital race track or a fast-forward arrow could connect the two sides, emphasizing 'iterating faster' and 'outpacing competitors.' The overall tone is urgent yet empowering.",
+      "video_brief": {
+        "hook": "Your competitors are iterating faster.",
+        "scenes": [
+          {
+            "time": "0-3s",
+            "visual": "Split screen: Left side shows a frustrated performance marketing manager manually adjusting ad creatives on a cluttered screen with multiple tabs. Right side shows a sleek, dynamic dashboard with rapidly changing ad variations and green 'success' indicators, implying competitor's progress. Tone: Urgent, competitive."
+          },
+          {
+            "time": "3-7s",
+            "visual": "Close-up on the frustrated marketer's face, conveying stress and slow progress. A clock ticks audibly or visually in the background, emphasizing lost time and 'slow creative cycles.' Colors: Muted, slightly desaturated, reflecting the 'pain point' of inefficiency."
+          },
+          {
+            "time": "7-11s",
+            "visual": "Abrupt transition to a bright, modern digital interface (featuring brand blue and white). A hand quickly selects options, and new, optimized ad creatives instantly populate and deploy. Smooth, fast animations demonstrate 'instant iteration' and efficiency. The marketer's expression shifts to focused and confident."
+          },
+          {
+            "time": "11-15s",
+            "visual": "An upward-trending performance graph or a 'winning' trophy icon appears prominently on the screen. The marketer from the previous scene now smiles, looking at successful campaign results. The 'Example Domain' logo appears clearly with the brand colors."
+          }
+        ],
+        "voiceover": "Your competitors are iterating faster. Don't let slow creative cycles cost you market share. Instantly iterate performance ads and win.",
+        "cta": "Outpace Them"
+      },
+      "generated_at": "2025-10-01T07:07:15.165Z"
+    }
+  ],
+  "images": {
+    "e5f6a7b8-c9d0-1234-5678-90abcdef0123": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\e5f6a7b8-c9d0-1234-5678-90abcdef0123.png",
+    "d4e5f6a7-b8c9-4012-4567-890abcdef012": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\d4e5f6a7-b8c9-4012-4567-890abcdef012.png",
+    "b2c3d4e5-f6a7-4890-2345-67890abcdef0": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\b2c3d4e5-f6a7-4890-2345-67890abcdef0.png",
+    "d4e5f6a7-b8c9-0123-4567-890abcdef012": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\d4e5f6a7-b8c9-0123-4567-890abcdef012.png",
+    "e5f6a7b8-c9d0-4123-5678-90abcdef0123": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\e5f6a7b8-c9d0-4123-5678-90abcdef0123.png",
+    "c3d4e5f6-a7b8-4901-3456-7890abcdef01": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\c3d4e5f6-a7b8-4901-3456-7890abcdef01.png",
+    "c3d4e5f6-a7b8-9012-3456-7890abcdef12": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\c3d4e5f6-a7b8-9012-3456-7890abcdef12.png",
+    "d4e5f6a7-b8c9-0123-4567-890abcdef234": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\d4e5f6a7-b8c9-0123-4567-890abcdef234.png",
+    "c3d4e5f6-a7b8-9012-3456-7890abcdef01": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\c3d4e5f6-a7b8-9012-3456-7890abcdef01.png",
+    "a1b2c3d4-e5f6-4789-1234-567890abcdef": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\images\\a1b2c3d4-e5f6-4789-1234-567890abcdef.png"
+  },
+  "videos": {
+    "e5f6a7b8-c9d0-1234-5678-90abcdef0123": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\videos\\e5f6a7b8-c9d0-1234-5678-90abcdef0123.mp4",
+    "d4e5f6a7-b8c9-4012-4567-890abcdef012": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\videos\\d4e5f6a7-b8c9-4012-4567-890abcdef012.mp4",
+    "b2c3d4e5-f6a7-4890-2345-67890abcdef0": "D:\\projects\\startup\\tinkerbell\\tinkerbellv1\\mvpv1\\output\\2025-10-01T06-48-46-124Z_5a76b378\\assets\\videos\\b2c3d4e5-f6a7-4890-2345-67890abcdef0.mp4"
+  }
+}

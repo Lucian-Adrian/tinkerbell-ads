@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "b3c4d5e6-f7a8-9012-3456-7890abcdef12",
+    "image_brief": "A split image. On the left, a frustrated, stressed female Head of Performance Marketing (Olivia-type, mid-30s to 40s, professional attire) looks at a complex, cluttered dashboard displaying declining ROI charts and slow-moving progress bars, symbolizing 'slow ad iteration killing ROI'. The background is muted, slightly desaturated, conveying inefficiency. On the right, the same professional, now confident and focused, smiles slightly at a clean, intuitive dashboard with rapidly accelerating green ROI charts and smooth, fast progress bars, symbolizing 'instant ad iteration' and 'maximizing ROI'. The right side is vibrant, well-lit, and dynamic, reflecting efficiency and strategic results. A subtle digital 'speedometer' or 'fast-forward' icon could be integrated on the right side, emphasizing speed. The overall aesthetic should be modern, clean, and professional, using brand colors if possible, to appeal to a results-oriented executive.",
+    "video_brief": {
+      "hook": "Slow ad iteration killing your ROI?",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "Close-up of a digital clock ticking agonizingly slowly, overlaid with a subtle, red-tinted graph showing a downward trend. A hand (representing Olivia, professional attire) hovers over a keyboard, looking stressed and hesitant."
+        },
+        {
+          "time": "2-5s",
+          "visual": "Quick montage: a blurry, complex ad campaign dashboard with multiple error messages or warnings; a competitor's logo subtly appearing victorious in a corner; a calendar page flipping slowly, emphasizing missed deadlines and opportunities. Focus on the 'inefficient cycles' and 'missed opportunities' pain points."
+        },
+        {
+          "time": "5-9s",
+          "visual": "A dynamic, digital transition. The slow clock shatters (digitally, into pixels). A sleek, modern UI of an ad platform appears, showing a simplified, intuitive dashboard. Green arrows shoot upwards rapidly on a clean graph. A 'speedometer' animation quickly fills to max, indicating rapid iteration and optimization."
+        },
+        {
+          "time": "9-12s",
+          "visual": "Olivia (or similar professional) confidently reviewing a clear, concise report showing significant ROI growth and positive performance metrics. A subtle animation of a bar chart rapidly rising. She gestures confidently, perhaps giving a thumbs-up or a satisfied nod, reflecting 'proving value fast' and 'strategic growth'."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Clean screen with the company logo (if provided), the brand headline 'Instantly Iterate Your Performance Ads', and the CTA prominently displayed. The background is clean and professional, using brand colors."
+        }
+      ],
+      "voiceover": "Slow ad iteration killing your ROI? Inefficient cycles mean missed opportunities. Our platform delivers instant ad iteration, maximizing ROI and proving value fast. Ready to accelerate your results?",
+      "cta": "Boost ROI"
+    },
+    "generated_at": "2025-10-01T08:54:31.143Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split image. On the left, a frustrated, stressed female Head of Performance Marketing (Olivia-type, mid-30s to 40s, professional attire) looks at a complex, cluttered dashboard displaying declining ROI charts and slow-moving progress bars, symbolizing 'slow ad iteration killing ROI'. The background is muted, slightly desaturated, conveying inefficiency. On the right, the same professional, now confident and focused, smiles slightly at a clean, intuitive dashboard with rapidly accelerating green ROI charts and smooth, fast progress bars, symbolizing 'instant ad iteration' and 'maximizing ROI'. The right side is vibrant, well-lit, and dynamic, reflecting efficiency and strategic results. A subtle digital 'speedometer' or 'fast-forward' icon could be integrated on the right side, emphasizing speed. The overall aesthetic should be modern, clean, and professional, using brand colors if possible, to appeal to a results-oriented executive.\",\n  \"video_brief\": {\n    \"hook\": \"Slow ad iteration killing your ROI?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"Close-up of a digital clock ticking agonizingly slowly, overlaid with a subtle, red-tinted graph showing a downward trend. A hand (representing Olivia, professional attire) hovers over a keyboard, looking stressed and hesitant.\"\n      },\n      {\n        \"time\": \"2-5s\",\n        \"visual\": \"Quick montage: a blurry, complex ad campaign dashboard with multiple error messages or warnings; a competitor's logo subtly appearing victorious in a corner; a calendar page flipping slowly, emphasizing missed deadlines and opportunities. Focus on the 'inefficient cycles' and 'missed opportunities' pain points.\"\n      },\n      {\n        \"time\": \"5-9s\",\n        \"visual\": \"A dynamic, digital transition. The slow clock shatters (digitally, into pixels). A sleek, modern UI of an ad platform appears, showing a simplified, intuitive dashboard. Green arrows shoot upwards rapidly on a clean graph. A 'speedometer' animation quickly fills to max, indicating rapid iteration and optimization.\"\n      },\n      {\n        \"time\": \"9-12s\",\n        \"visual\": \"Olivia (or similar professional) confidently reviewing a clear, concise report showing significant ROI growth and positive performance metrics. A subtle animation of a bar chart rapidly rising. She gestures confidently, perhaps giving a thumbs-up or a satisfied nod, reflecting 'proving value fast' and 'strategic growth'.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Clean screen with the company logo (if provided), the brand headline 'Instantly Iterate Your Performance Ads', and the CTA prominently displayed. The background is clean and professional, using brand colors.\"\n      }\n    ],\n    \"voiceover\": \"Slow ad iteration killing your ROI? Inefficient cycles mean missed opportunities. Our platform delivers instant ad iteration, maximizing ROI and proving value fast. Ready to accelerate your results?\",\n    \"cta\": \"Boost ROI\"\n  }\n}\n```"
+}

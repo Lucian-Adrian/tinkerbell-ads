@@ -1,0 +1,81 @@
+{
+  "personas": [
+    {
+      "persona_id": "8a1e2f3d-4c5b-6a7e-8f9c-0d1e2f3a4b5c",
+      "name": "Alex Chen",
+      "role": "Performance Marketing Manager",
+      "company_size": "Mid-market (50-500 employees) or Agency",
+      "motivations": [
+        "Achieve campaign KPIs",
+        "Reduce manual work in ad optimization",
+        "Find winning ad creatives faster",
+        "Stay ahead of competitors with better ad performance"
+      ],
+      "pain_points": [
+        "Slow ad iteration cycles",
+        "Wasted ad spend on underperforming ads",
+        "Manual A/B testing is time-consuming",
+        "Difficulty scaling successful campaigns quickly"
+      ],
+      "preferred_channels": [
+        "LinkedIn (industry groups, thought leaders)",
+        "Marketing blogs/webinars",
+        "SaaS review sites (e.g., G2, Capterra)",
+        "Industry conferences"
+      ],
+      "tone": "Efficient"
+    },
+    {
+      "persona_id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "name": "Sarah Miller",
+      "role": "Head of Digital Marketing",
+      "company_size": "Mid-market to Enterprise (200-2000+ employees)",
+      "motivations": [
+        "Maximize ROI on ad spend",
+        "Improve team efficiency and productivity",
+        "Drive measurable growth and hit aggressive targets",
+        "Gain competitive advantage through superior ad performance"
+      ],
+      "pain_points": [
+        "Difficulty demonstrating clear ROI from ad campaigns",
+        "Team bandwidth limitations for ad optimization",
+        "Slow decision-making due to lack of real-time data",
+        "Pressure to hit aggressive growth targets with limited resources"
+      ],
+      "preferred_channels": [
+        "LinkedIn (executive insights, industry trends)",
+        "Analyst reports (e.g., Gartner, Forrester)",
+        "Strategic marketing webinars",
+        "Peer networks and executive roundtables"
+      ],
+      "tone": "Efficient"
+    },
+    {
+      "persona_id": "6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f",
+      "name": "David Lee",
+      "role": "Agency Owner / Head of Growth",
+      "company_size": "Small to Mid-market (10-250 employees)",
+      "motivations": [
+        "Offer cutting-edge solutions to clients",
+        "Increase client retention and satisfaction",
+        "Scale agency operations and client portfolio",
+        "Differentiate services from competitors"
+      ],
+      "pain_points": [
+        "Client pressure for better and faster ad results",
+        "Difficulty managing multiple client campaigns efficiently",
+        "High operational costs for manual ad optimization",
+        "Losing pitches due to lack of innovative tools"
+      ],
+      "preferred_channels": [
+        "Industry-specific forums and communities",
+        "B2B SaaS review sites",
+        "Networking events and conferences",
+        "LinkedIn (partner programs, business development)"
+      ],
+      "tone": "Efficient"
+    }
+  ],
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"personas\": [\n    {\n      \"persona_id\": \"8a1e2f3d-4c5b-6a7e-8f9c-0d1e2f3a4b5c\",\n      \"name\": \"Alex Chen\",\n      \"role\": \"Performance Marketing Manager\",\n      \"company_size\": \"Mid-market (50-500 employees) or Agency\",\n      \"motivations\": [\n        \"Achieve campaign KPIs\",\n        \"Reduce manual work in ad optimization\",\n        \"Find winning ad creatives faster\",\n        \"Stay ahead of competitors with better ad performance\"\n      ],\n      \"pain_points\": [\n        \"Slow ad iteration cycles\",\n        \"Wasted ad spend on underperforming ads\",\n        \"Manual A/B testing is time-consuming\",\n        \"Difficulty scaling successful campaigns quickly\"\n      ],\n      \"preferred_channels\": [\n        \"LinkedIn (industry groups, thought leaders)\",\n        \"Marketing blogs/webinars\",\n        \"SaaS review sites (e.g., G2, Capterra)\",\n        \"Industry conferences\"\n      ],\n      \"tone\": \"Efficient\"\n    },\n    {\n      \"persona_id\": \"1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e\",\n      \"name\": \"Sarah Miller\",\n      \"role\": \"Head of Digital Marketing\",\n      \"company_size\": \"Mid-market to Enterprise (200-2000+ employees)\",\n      \"motivations\": [\n        \"Maximize ROI on ad spend\",\n        \"Improve team efficiency and productivity\",\n        \"Drive measurable growth and hit aggressive targets\",\n        \"Gain competitive advantage through superior ad performance\"\n      ],\n      \"pain_points\": [\n        \"Difficulty demonstrating clear ROI from ad campaigns\",\n        \"Team bandwidth limitations for ad optimization\",\n        \"Slow decision-making due to lack of real-time data\",\n        \"Pressure to hit aggressive growth targets with limited resources\"\n      ],\n      \"preferred_channels\": [\n        \"LinkedIn (executive insights, industry trends)\",\n        \"Analyst reports (e.g., Gartner, Forrester)\",\n        \"Strategic marketing webinars\",\n        \"Peer networks and executive roundtables\"\n      ],\n      \"tone\": \"Efficient\"\n    },\n    {\n      \"persona_id\": \"6c7d8e9f-0a1b-2c3d-4e5f-6a7b8c9d0e1f\",\n      \"name\": \"David Lee\",\n      \"role\": \"Agency Owner / Head of Growth\",\n      \"company_size\": \"Small to Mid-market (10-250 employees)\",\n      \"motivations\": [\n        \"Offer cutting-edge solutions to clients\",\n        \"Increase client retention and satisfaction\",\n        \"Scale agency operations and client portfolio\",\n        \"Differentiate services from competitors\"\n      ],\n      \"pain_points\": [\n        \"Client pressure for better and faster ad results\",\n        \"Difficulty managing multiple client campaigns efficiently\",\n        \"High operational costs for manual ad optimization\",\n        \"Losing pitches due to lack of innovative tools\"\n      ],\n      \"preferred_channels\": [\n        \"Industry-specific forums and communities\",\n        \"B2B SaaS review sites\",\n        \"Networking events and conferences\",\n        \"LinkedIn (partner programs, business development)\"\n      ],\n      \"tone\": \"Efficient\"\n    }\n  ]\n}\n```"
+}

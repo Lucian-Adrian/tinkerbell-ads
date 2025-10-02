@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+    "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+    "seed_phrase": "Contrarian: 'Do less, convert more'",
+    "temperature": 0.35,
+    "batch_index": 1,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T09:03:17.597Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Stop Wasting Time. Convert More.",
+      "body": "Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.",
+      "cta": "Accelerate ROI",
+      "keywords": [
+        "performance ads",
+        "ad iteration",
+        "ROI",
+        "efficiency",
+        "creative optimization",
+        "scale",
+        "marketing budget",
+        "growth",
+        "instant",
+        "optimize"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:17.597Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdeff",
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Scale Faster. Spend Smarter.",
+      "body": "Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.",
+      "cta": "Optimize Now",
+      "keywords": [
+        "ad scaling",
+        "budget optimization",
+        "performance marketing",
+        "creative bottlenecks",
+        "rapid iteration",
+        "ad spend",
+        "efficiency",
+        "growth",
+        "competitive edge",
+        "instant"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:17.597Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Less Creative Effort, More Performance.",
+      "body": "Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.",
+      "cta": "See How It Works",
+      "keywords": [
+        "ad creative",
+        "marketing efficiency",
+        "performance optimization",
+        "instant iteration",
+        "less effort",
+        "more results",
+        "ROI",
+        "growth",
+        "automation",
+        "competitive"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:17.597Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Outpace Competitors. Instantly Iterate Ads.",
+      "body": "Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.",
+      "cta": "Get The Edge",
+      "keywords": [
+        "competitive advantage",
+        "ad innovation",
+        "rapid iteration",
+        "performance ads",
+        "market leadership",
+        "growth",
+        "efficiency",
+        "real-time",
+        "optimization",
+        "scale"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:17.597Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "patch_id": "c8442915-ad91-4130-a686-648efe477963",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Real-Time Optimization. Real ROI.",
+      "body": "Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.",
+      "cta": "Boost Performance",
+      "keywords": [
+        "real-time insights",
+        "ad optimization",
+        "data-driven",
+        "ROI",
+        "conversions",
+        "performance marketing",
+        "instant iteration",
+        "budget allocation",
+        "efficiency",
+        "growth"
+      ],
+      "seed_phrase": "Contrarian: 'Do less, convert more'",
+      "temperature": 0.35,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:17.597Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Time. Convert More.\",\n      \"body\": \"Slow creative cycles kill ROI. Instantly iterate performance ads, scale winners faster, and maximize your ad spend across all channels.\",\n      \"cta\": \"Accelerate ROI\",\n      \"keywords\": [\n        \"performance ads\",\n        \"ad iteration\",\n        \"ROI\",\n        \"efficiency\",\n        \"creative optimization\",\n        \"scale\",\n        \"marketing budget\",\n        \"growth\",\n        \"instant\",\n        \"optimize\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Scale Faster. Spend Smarter.\",\n      \"body\": \"Eliminate creative bottlenecks. Instantly iterate performance ads to unlock rapid scaling and optimize your budget for maximum impact.\",\n      \"cta\": \"Optimize Now\",\n      \"keywords\": [\n        \"ad scaling\",\n        \"budget optimization\",\n        \"performance marketing\",\n        \"creative bottlenecks\",\n        \"rapid iteration\",\n        \"ad spend\",\n        \"efficiency\",\n        \"growth\",\n        \"competitive edge\",\n        \"instant\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Less Creative Effort, More Performance.\",\n      \"body\": \"Traditional ad iteration is slow. Our platform lets you instantly optimize performance ads, driving growth with less manual work.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"ad creative\",\n        \"marketing efficiency\",\n        \"performance optimization\",\n        \"instant iteration\",\n        \"less effort\",\n        \"more results\",\n        \"ROI\",\n        \"growth\",\n        \"automation\",\n        \"competitive\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Outpace Competitors. Instantly Iterate Ads.\",\n      \"body\": \"Your rivals are stuck in slow cycles. Gain the edge with rapid ad creative iteration. Drive growth and innovation without delays.\",\n      \"cta\": \"Get The Edge\",\n      \"keywords\": [\n        \"competitive advantage\",\n        \"ad innovation\",\n        \"rapid iteration\",\n        \"performance ads\",\n        \"market leadership\",\n        \"growth\",\n        \"efficiency\",\n        \"real-time\",\n        \"optimization\",\n        \"scale\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Real-Time Optimization. Real ROI.\",\n      \"body\": \"Stop guessing. Instantly iterate performance ads based on live data. Turn insights into conversions, not delays. Maximize your budget.\",\n      \"cta\": \"Boost Performance\",\n      \"keywords\": [\n        \"real-time insights\",\n        \"ad optimization\",\n        \"data-driven\",\n        \"ROI\",\n        \"conversions\",\n        \"performance marketing\",\n        \"instant iteration\",\n        \"budget allocation\",\n        \"efficiency\",\n        \"growth\"\n      ]\n    }\n  ]\n}\n```"
+}

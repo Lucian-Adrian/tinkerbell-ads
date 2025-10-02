@@ -1,0 +1,81 @@
+{
+  "personas": [
+    {
+      "persona_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+      "name": "Sarah Chen",
+      "role": "Head of Performance Marketing",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Maximize ad campaign ROI",
+        "Accelerate time-to-market for winning ads",
+        "Improve team efficiency and output",
+        "Maintain competitive advantage"
+      ],
+      "pain_points": [
+        "Slow ad testing cycles leading to missed opportunities",
+        "Inefficient ad spend on underperforming creatives",
+        "Difficulty scaling successful ad variations quickly",
+        "Lack of clear data for rapid optimization decisions"
+      ],
+      "preferred_channels": [
+        "Industry reports and whitepapers",
+        "Webinars and expert panels",
+        "LinkedIn thought leadership",
+        "Direct product demonstrations"
+      ],
+      "tone": "Direct"
+    },
+    {
+      "persona_id": "f0e9d8c7-b6a5-4321-fedc-ba9876543210",
+      "name": "David Miller",
+      "role": "Senior Media Buyer / Ad Operations Manager",
+      "company_size": "Small Business to Enterprise",
+      "motivations": [
+        "Hit daily/weekly campaign KPIs",
+        "Reduce manual workload in ad setup and testing",
+        "Quickly identify and scale top-performing ads",
+        "Improve overall campaign efficiency"
+      ],
+      "pain_points": [
+        "Tedious manual ad iteration and testing processes",
+        "Slow feedback loops on ad performance",
+        "Difficulty managing a high volume of ad variations",
+        "Risk of burning through budget on unoptimized ads"
+      ],
+      "preferred_channels": [
+        "Ad tech blogs and forums",
+        "Product review sites",
+        "LinkedIn groups for media buyers",
+        "Tool tutorials and demos"
+      ],
+      "tone": "Direct"
+    },
+    {
+      "persona_id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "name": "Emily White",
+      "role": "Growth Product Manager / Marketing Technologist",
+      "company_size": "Mid-market to Enterprise",
+      "motivations": [
+        "Integrate innovative ad tech into the marketing stack",
+        "Drive incremental growth through optimization",
+        "Improve marketing team's technical capabilities",
+        "Streamline cross-functional workflows"
+      ],
+      "pain_points": [
+        "Limitations of existing ad platforms for rapid iteration",
+        "Complex integrations with current tech stack",
+        "Difficulty proving ROI for new marketing tools",
+        "Slow adoption of new technologies by marketing teams"
+      ],
+      "preferred_channels": [
+        "Tech industry conferences",
+        "Analyst reports and market research",
+        "Peer recommendations and case studies",
+        "Detailed API documentation and sandbox access"
+      ],
+      "tone": "Direct"
+    }
+  ],
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"personas\": [\n    {\n      \"persona_id\": \"a1b2c3d4-e5f6-7890-1234-567890abcdef\",\n      \"name\": \"Sarah Chen\",\n      \"role\": \"Head of Performance Marketing\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Maximize ad campaign ROI\",\n        \"Accelerate time-to-market for winning ads\",\n        \"Improve team efficiency and output\",\n        \"Maintain competitive advantage\"\n      ],\n      \"pain_points\": [\n        \"Slow ad testing cycles leading to missed opportunities\",\n        \"Inefficient ad spend on underperforming creatives\",\n        \"Difficulty scaling successful ad variations quickly\",\n        \"Lack of clear data for rapid optimization decisions\"\n      ],\n      \"preferred_channels\": [\n        \"Industry reports and whitepapers\",\n        \"Webinars and expert panels\",\n        \"LinkedIn thought leadership\",\n        \"Direct product demonstrations\"\n      ],\n      \"tone\": \"Direct\"\n    },\n    {\n      \"persona_id\": \"f0e9d8c7-b6a5-4321-fedc-ba9876543210\",\n      \"name\": \"David Miller\",\n      \"role\": \"Senior Media Buyer / Ad Operations Manager\",\n      \"company_size\": \"Small Business to Enterprise\",\n      \"motivations\": [\n        \"Hit daily/weekly campaign KPIs\",\n        \"Reduce manual workload in ad setup and testing\",\n        \"Quickly identify and scale top-performing ads\",\n        \"Improve overall campaign efficiency\"\n      ],\n      \"pain_points\": [\n        \"Tedious manual ad iteration and testing processes\",\n        \"Slow feedback loops on ad performance\",\n        \"Difficulty managing a high volume of ad variations\",\n        \"Risk of burning through budget on unoptimized ads\"\n      ],\n      \"preferred_channels\": [\n        \"Ad tech blogs and forums\",\n        \"Product review sites\",\n        \"LinkedIn groups for media buyers\",\n        \"Tool tutorials and demos\"\n      ],\n      \"tone\": \"Direct\"\n    },\n    {\n      \"persona_id\": \"1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d\",\n      \"name\": \"Emily White\",\n      \"role\": \"Growth Product Manager / Marketing Technologist\",\n      \"company_size\": \"Mid-market to Enterprise\",\n      \"motivations\": [\n        \"Integrate innovative ad tech into the marketing stack\",\n        \"Drive incremental growth through optimization\",\n        \"Improve marketing team's technical capabilities\",\n        \"Streamline cross-functional workflows\"\n      ],\n      \"pain_points\": [\n        \"Limitations of existing ad platforms for rapid iteration\",\n        \"Complex integrations with current tech stack\",\n        \"Difficulty proving ROI for new marketing tools\",\n        \"Slow adoption of new technologies by marketing teams\"\n      ],\n      \"preferred_channels\": [\n        \"Tech industry conferences\",\n        \"Analyst reports and market research\",\n        \"Peer recommendations and case studies\",\n        \"Detailed API documentation and sandbox access\"\n      ],\n      \"tone\": \"Direct\"\n    }\n  ]\n}\n```"
+}

@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "e5f6a7b8-c9d0-1234-5678-9abcdef01234",
+    "image_brief": "A dynamic, split-screen or composite image. On the left/background, visualize 'ad waste': a digital bar chart with a large, prominent red section representing inefficient spend, with subtle visual cues of money or data pixels draining away. On the right/foreground, or as an overlay, visualize 'real growth' and 'optimization': a clean, modern digital dashboard displaying a vibrant, upward-trending green line graph or a positive ROI metric. A clear, efficient transition from the 'waste' visual to the 'growth' visual, implying instant resolution. The overall aesthetic should be professional, clean, and convey efficiency and strategic results, aligning with the brand's tone. Text overlays, if any, should be minimal and reinforce 'Cut Ad Waste' and 'Drive Growth'.",
+    "video_brief": {
+      "hook": "Cut ad waste. Drive real growth.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A digital screen displaying a performance marketing dashboard with clear indicators of underperforming ad campaigns. A prominent bar chart shows a significant portion of ad budget allocated to red, 'wasteful' segments. Subtle animation of digital currency or data pixels visually draining away from these red segments. A professional (Olivia, the Growth Strategist persona) looks at the screen with a concerned or frustrated expression."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Rapid, seamless transition. The screen transforms into a sleek, modern ad optimization platform interface. A cursor quickly navigates and clicks an 'Optimize' button. The red, wasteful segments on the charts instantly turn green, showing efficient allocation. Key metrics like 'ROI' and 'Spend Efficiency' visibly shift from negative/stagnant to positive/upward-trending figures."
+        },
+        {
+          "time": "7-12s",
+          "visual": "The dashboard now proudly displays vibrant, upward-trending line graphs representing 'Campaign ROI' and 'Growth'. The previously frustrated professional now looks confident and satisfied, perhaps nodding or gesturing positively towards the optimized results on the screen. The visuals emphasize speed and tangible positive outcomes."
+        },
+        {
+          "time": "12-15s",
+          "visual": "Close-up on the platform's interface, highlighting a call-to-action button. The brand's UVP 'Instantly iterate performance ads' or 'Optimize ad campaigns with speed' is subtly integrated into the UI or as a final text overlay. The overall scene is clean, professional, and results-oriented."
+        }
+      ],
+      "voiceover": "Stop pouring budget into underperforming ads. Instantly identify and optimize campaigns to maximize every dollar. Drive real growth and unlock your full potential.",
+      "cta": "Optimize Spend"
+    },
+    "generated_at": "2025-10-01T08:52:42.534Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, split-screen or composite image. On the left/background, visualize 'ad waste': a digital bar chart with a large, prominent red section representing inefficient spend, with subtle visual cues of money or data pixels draining away. On the right/foreground, or as an overlay, visualize 'real growth' and 'optimization': a clean, modern digital dashboard displaying a vibrant, upward-trending green line graph or a positive ROI metric. A clear, efficient transition from the 'waste' visual to the 'growth' visual, implying instant resolution. The overall aesthetic should be professional, clean, and convey efficiency and strategic results, aligning with the brand's tone. Text overlays, if any, should be minimal and reinforce 'Cut Ad Waste' and 'Drive Growth'.\",\n  \"video_brief\": {\n    \"hook\": \"Cut ad waste. Drive real growth.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A digital screen displaying a performance marketing dashboard with clear indicators of underperforming ad campaigns. A prominent bar chart shows a significant portion of ad budget allocated to red, 'wasteful' segments. Subtle animation of digital currency or data pixels visually draining away from these red segments. A professional (Olivia, the Growth Strategist persona) looks at the screen with a concerned or frustrated expression.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Rapid, seamless transition. The screen transforms into a sleek, modern ad optimization platform interface. A cursor quickly navigates and clicks an 'Optimize' button. The red, wasteful segments on the charts instantly turn green, showing efficient allocation. Key metrics like 'ROI' and 'Spend Efficiency' visibly shift from negative/stagnant to positive/upward-trending figures.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"The dashboard now proudly displays vibrant, upward-trending line graphs representing 'Campaign ROI' and 'Growth'. The previously frustrated professional now looks confident and satisfied, perhaps nodding or gesturing positively towards the optimized results on the screen. The visuals emphasize speed and tangible positive outcomes.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Close-up on the platform's interface, highlighting a call-to-action button. The brand's UVP 'Instantly iterate performance ads' or 'Optimize ad campaigns with speed' is subtly integrated into the UI or as a final text overlay. The overall scene is clean, professional, and results-oriented.\"\n      }\n    ],\n    \"voiceover\": \"Stop pouring budget into underperforming ads. Instantly identify and optimize campaigns to maximize every dollar. Drive real growth and unlock your full potential.\",\n    \"cta\": \"Optimize Spend\"\n  }\n}\n```"
+}

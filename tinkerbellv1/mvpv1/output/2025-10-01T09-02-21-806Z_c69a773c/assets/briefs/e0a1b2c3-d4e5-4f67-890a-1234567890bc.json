@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "e0a1b2c3-d4e5-4f67-890a-1234567890bc",
+    "image_brief": "A professional, enterprise-level performance marketer (mid-30s to 40s, diverse, sharp business attire) looks stressed, observing a digital dashboard on a large monitor displaying a competitor's rapidly increasing market share graph and a declining trend for their own company. The screen is partially obscured by a transparent overlay or a thought bubble showing a sleek, modern ad creative platform interface with a 'Success: Ad Iterated' notification and a fast-moving progress bar. The background is a modern, clean office environment. The overall tone is urgent, highlighting competitive pressure and the promise of rapid solution. High contrast, professional aesthetic.",
+    "video_brief": {
+      "hook": "Competitors are winning. Again.",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "Fast-paced montage: A digital graph showing a sharp upward trend for 'Competitor X Market Share'. Quick cuts of competitive product ads succeeding. A digital clock rapidly advancing, emphasizing lost time. Professional, high-tech aesthetic."
+        },
+        {
+          "time": "2-6s",
+          "visual": "A Head of Performance Marketing (Sarah Chen persona, mid-30s/40s, diverse, sharp business attire) looking frustrated at a computer screen displaying a complex, slow-loading creative approval workflow. Multiple email notifications for 'Creative Revisions' pop up. A calendar app shows 'Creative Freeze' for several days. Emphasize the pain of waiting."
+        },
+        {
+          "time": "6-11s",
+          "visual": "Transformative transition: The screen instantly clears to reveal a sleek, modern, AI-powered ad iteration platform. Show a user rapidly inputting parameters, selecting variations, and a 'Generate Ad' button being clicked, leading to instant, diverse ad creative outputs. Progress bars fill instantly. Focus on speed and ease of use. Clean, futuristic UI."
+        },
+        {
+          "time": "11-15s",
+          "visual": "The Head of Performance Marketing now confident and empowered, observing a large digital dashboard where their company's market share graph is now rapidly ascending, clearly surpassing the competitor's. A subtle, satisfied smile. The company logo (placeholder) subtly visible on the dashboard. Professional, successful ambiance."
+        }
+      ],
+      "voiceover": "While you wait for creative, your competitors are scaling. Losing market share, losing momentum. Stop the delays. Instantly iterate performance ads. Reclaim your competitive edge. Dominate.",
+      "cta": "Beat Them Now"
+    },
+    "generated_at": "2025-10-01T09:06:54.534Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A professional, enterprise-level performance marketer (mid-30s to 40s, diverse, sharp business attire) looks stressed, observing a digital dashboard on a large monitor displaying a competitor's rapidly increasing market share graph and a declining trend for their own company. The screen is partially obscured by a transparent overlay or a thought bubble showing a sleek, modern ad creative platform interface with a 'Success: Ad Iterated' notification and a fast-moving progress bar. The background is a modern, clean office environment. The overall tone is urgent, highlighting competitive pressure and the promise of rapid solution. High contrast, professional aesthetic.\",\n  \"video_brief\": {\n    \"hook\": \"Competitors are winning. Again.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"Fast-paced montage: A digital graph showing a sharp upward trend for 'Competitor X Market Share'. Quick cuts of competitive product ads succeeding. A digital clock rapidly advancing, emphasizing lost time. Professional, high-tech aesthetic.\"\n      },\n      {\n        \"time\": \"2-6s\",\n        \"visual\": \"A Head of Performance Marketing (Sarah Chen persona, mid-30s/40s, diverse, sharp business attire) looking frustrated at a computer screen displaying a complex, slow-loading creative approval workflow. Multiple email notifications for 'Creative Revisions' pop up. A calendar app shows 'Creative Freeze' for several days. Emphasize the pain of waiting.\"\n      },\n      {\n        \"time\": \"6-11s\",\n        \"visual\": \"Transformative transition: The screen instantly clears to reveal a sleek, modern, AI-powered ad iteration platform. Show a user rapidly inputting parameters, selecting variations, and a 'Generate Ad' button being clicked, leading to instant, diverse ad creative outputs. Progress bars fill instantly. Focus on speed and ease of use. Clean, futuristic UI.\"\n      },\n      {\n        \"time\": \"11-15s\",\n        \"visual\": \"The Head of Performance Marketing now confident and empowered, observing a large digital dashboard where their company's market share graph is now rapidly ascending, clearly surpassing the competitor's. A subtle, satisfied smile. The company logo (placeholder) subtly visible on the dashboard. Professional, successful ambiance.\"\n      }\n    ],\n    \"voiceover\": \"While you wait for creative, your competitors are scaling. Losing market share, losing momentum. Stop the delays. Instantly iterate performance ads. Reclaim your competitive edge. Dominate.\",\n    \"cta\": \"Beat Them Now\"\n  }\n}\n```"
+}

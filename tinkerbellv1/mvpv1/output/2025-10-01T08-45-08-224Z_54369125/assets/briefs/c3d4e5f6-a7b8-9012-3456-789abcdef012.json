@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "c3d4e5f6-a7b8-9012-3456-789abcdef012",
+    "image_brief": "A dynamic digital dashboard displaying rapidly accelerating performance marketing metrics (upward trending graphs, green indicators). Overlayed with a blurring, fast-spinning stopwatch, symbolizing speed. In the background, a subtle, blurred visual of competitors falling behind or a finish line being crossed, indicating competitive dominance. The overall impression is rapid growth, efficiency, and a strategic edge. Clean, modern aesthetic with subtle brand colors.",
+    "video_brief": {
+      "hook": "Outpace competitors. Scale smarter.",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "A person (representing Olivia, Head of Performance Marketing) looking frustrated at a complex, cluttered computer screen filled with slow-loading graphs and multiple browser tabs. A calendar in the background shows 'weeks' highlighted for iteration cycles."
+        },
+        {
+          "time": "2-5s",
+          "visual": "Transition to a sleek, modern, simplified digital dashboard. A single, intuitive interface with clear, rapidly updating performance metrics (e.g., green arrows pointing up, progress bars filling quickly). Hands quickly and confidently interacting with a mouse or trackpad."
+        },
+        {
+          "time": "5-8s",
+          "visual": "Animated data points and lines on a graph rapidly ascending, visually representing 'unprecedented speed' and 'scaling'. Text overlays briefly highlight key actions: 'Iterate. Test. Scale.'"
+        },
+        {
+          "time": "8-12s",
+          "visual": "A split screen or juxtaposed image. On one side, a blurred, static, or declining graph (representing competitors struggling). On the other, a sharp, rapidly rising, vibrant graph (representing the user's success). A subtle 'trophy' or 'finish line' icon appears next to the rising graph, signifying dominance."
+        },
+        {
+          "time": "12-15s",
+          "visual": "The brand's logo appears cleanly, followed by the CTA text 'Gain Edge' prominently displayed against a modern, efficient background."
+        }
+      ],
+      "voiceover": "Performance marketing shouldn't be a waiting game. Our platform transforms slow ad cycles into rapid iterations. Test, optimize, and scale campaigns at unprecedented speed. Outpace competitors and dominate your market.",
+      "cta": "Gain Edge"
+    },
+    "generated_at": "2025-10-01T08:56:04.215Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic digital dashboard displaying rapidly accelerating performance marketing metrics (upward trending graphs, green indicators). Overlayed with a blurring, fast-spinning stopwatch, symbolizing speed. In the background, a subtle, blurred visual of competitors falling behind or a finish line being crossed, indicating competitive dominance. The overall impression is rapid growth, efficiency, and a strategic edge. Clean, modern aesthetic with subtle brand colors.\",\n  \"video_brief\": {\n    \"hook\": \"Outpace competitors. Scale smarter.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"A person (representing Olivia, Head of Performance Marketing) looking frustrated at a complex, cluttered computer screen filled with slow-loading graphs and multiple browser tabs. A calendar in the background shows 'weeks' highlighted for iteration cycles.\"\n      },\n      {\n        \"time\": \"2-5s\",\n        \"visual\": \"Transition to a sleek, modern, simplified digital dashboard. A single, intuitive interface with clear, rapidly updating performance metrics (e.g., green arrows pointing up, progress bars filling quickly). Hands quickly and confidently interacting with a mouse or trackpad.\"\n      },\n      {\n        \"time\": \"5-8s\",\n        \"visual\": \"Animated data points and lines on a graph rapidly ascending, visually representing 'unprecedented speed' and 'scaling'. Text overlays briefly highlight key actions: 'Iterate. Test. Scale.'\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"A split screen or juxtaposed image. On one side, a blurred, static, or declining graph (representing competitors struggling). On the other, a sharp, rapidly rising, vibrant graph (representing the user's success). A subtle 'trophy' or 'finish line' icon appears next to the rising graph, signifying dominance.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"The brand's logo appears cleanly, followed by the CTA text 'Gain Edge' prominently displayed against a modern, efficient background.\"\n      }\n    ],\n    \"voiceover\": \"Performance marketing shouldn't be a waiting game. Our platform transforms slow ad cycles into rapid iterations. Test, optimize, and scale campaigns at unprecedented speed. Outpace competitors and dominate your market.\",\n    \"cta\": \"Gain Edge\"\n  }\n}\n```"
+}

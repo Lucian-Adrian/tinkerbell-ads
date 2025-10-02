@@ -1,0 +1,25 @@
+{
+  "company_id": "54369125-6560-40ea-b436-1c3b53893146",
+  "url": "https://example.com",
+  "uvp": "Instantly iterate performance ads",
+  "brand_headline": "Instantly Iterate Your Performance Ads",
+  "brand_keywords": [
+    "performance advertising",
+    "ad optimization",
+    "marketing automation",
+    "campaign iteration",
+    "ad testing"
+  ],
+  "brand_colors": [],
+  "logo_urls": [],
+  "short_bullets": [
+    "Accelerate performance ad iteration.",
+    "Optimize ad campaigns with speed.",
+    "Streamline your ad testing process."
+  ],
+  "tone": "Efficient",
+  "generated_at": "2024-07-30T12:00:00Z",
+  "prompt_version": "v1",
+  "raw_response": "```json\n{\n  \"company_id\": \"54369125-6560-40ea-b436-1c3b53893146\",\n  \"url\": \"https://example.com\",\n  \"uvp\": \"Instantly iterate performance ads\",\n  \"brand_headline\": \"Instantly Iterate Your Performance Ads\",\n  \"brand_keywords\": [\n    \"performance advertising\",\n    \"ad optimization\",\n    \"marketing automation\",\n    \"campaign iteration\",\n    \"ad testing\"\n  ],\n  \"brand_colors\": [],\n  \"logo_urls\": [],\n  \"short_bullets\": [\n    \"Accelerate performance ad iteration.\",\n    \"Optimize ad campaigns with speed.\",\n    \"Streamline your ad testing process.\"\n  ],\n  \"tone\": \"Efficient\",\n  \"generated_at\": \"2024-07-30T12:00:00Z\"\n}\n```",
+  "sample": "Example Domain\nExample Domain\nThis domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission."
+}

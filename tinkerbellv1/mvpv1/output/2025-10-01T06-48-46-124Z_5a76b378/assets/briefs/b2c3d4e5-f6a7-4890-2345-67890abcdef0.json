@@ -1,0 +1,35 @@
+{
+  "brief": {
+    "script_id": "b2c3d4e5-f6a7-4890-2345-67890abcdef0",
+    "image_brief": "A dynamic, split-screen or overlaid composition. On the left/background, a digital dashboard with downward-trending red graphs and a 'slow' progress bar, subtly implying 'lost revenue' or 'inefficient ad spend.' On the right/foreground, a sleek, upward-trending blue bar graph or a stylized arrow accelerating upwards, representing 'optimized budgets' and 'scaling winning ads.' A subtle, blurred background element could suggest a competitor's shadow or a slightly ahead figure. The overall visual should convey a shift from inefficiency to rapid, successful optimization. Use brand colors: prominent blue, with white and black for contrast and text. Clean, modern, and professional digital aesthetic, suitable for a performance marketing context.",
+    "video_brief": {
+      "hook": "Competitors stealing your ad ROI? Not anymore.",
+      "scenes": [
+        {
+          "time": "0-2s",
+          "visual": "A close-up of a digital screen displaying complex, cluttered performance marketing dashboards with several red, downward-trending arrows and slow-loading indicators. The overall impression is stagnation and inefficiency. Use muted colors, hinting at frustration."
+        },
+        {
+          "time": "2-5s",
+          "visual": "A split screen. On one side, a calendar view with many manual tasks and delays highlighted in red. On the other, a stylized, abstract animation of a competitor's progress bar rapidly filling up with green, symbolizing swift iteration and market gain."
+        },
+        {
+          "time": "5-8s",
+          "visual": "A dynamic transition. The cluttered screen dissolves into a sleek, modern, blue-themed interface. Upward-trending blue graphs animate quickly, and a progress bar instantly snaps to 100%. Digital data streams flow smoothly, representing 'instant iteration'."
+        },
+        {
+          "time": "8-12s",
+          "visual": "Abstract representation of 'scaling winning ads.' Multiple ad creative thumbnails rapidly generate and optimize themselves, then a single, highly effective ad creative launches forward like a digital projectile, leaving a blue trail. This conveys speed and precision."
+        },
+        {
+          "time": "12-15s",
+          "visual": "A bold, clear display of 'ROI' or 'Campaign ROI' metric prominently increasing on a screen, surrounded by positive, green-lit data points. The screen glows with a confident blue light. The brand logo (Example Domain, if available, or a generic placeholder for the product) appears subtly in the corner."
+        }
+      ],
+      "voiceover": "Is slow ad iteration costing you? While you're testing, competitors are winning. Stop inefficient spend. Instantly optimize budgets, scale winning ads, and reclaim your ROI.",
+      "cta": "Boost ROI"
+    },
+    "generated_at": "2025-10-01T07:03:38.127Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, split-screen or overlaid composition. On the left/background, a digital dashboard with downward-trending red graphs and a 'slow' progress bar, subtly implying 'lost revenue' or 'inefficient ad spend.' On the right/foreground, a sleek, upward-trending blue bar graph or a stylized arrow accelerating upwards, representing 'optimized budgets' and 'scaling winning ads.' A subtle, blurred background element could suggest a competitor's shadow or a slightly ahead figure. The overall visual should convey a shift from inefficiency to rapid, successful optimization. Use brand colors: prominent blue, with white and black for contrast and text. Clean, modern, and professional digital aesthetic, suitable for a performance marketing context.\",\n  \"video_brief\": {\n    \"hook\": \"Competitors stealing your ad ROI? Not anymore.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-2s\",\n        \"visual\": \"A close-up of a digital screen displaying complex, cluttered performance marketing dashboards with several red, downward-trending arrows and slow-loading indicators. The overall impression is stagnation and inefficiency. Use muted colors, hinting at frustration.\"\n      },\n      {\n        \"time\": \"2-5s\",\n        \"visual\": \"A split screen. On one side, a calendar view with many manual tasks and delays highlighted in red. On the other, a stylized, abstract animation of a competitor's progress bar rapidly filling up with green, symbolizing swift iteration and market gain.\"\n      },\n      {\n        \"time\": \"5-8s\",\n        \"visual\": \"A dynamic transition. The cluttered screen dissolves into a sleek, modern, blue-themed interface. Upward-trending blue graphs animate quickly, and a progress bar instantly snaps to 100%. Digital data streams flow smoothly, representing 'instant iteration'.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"Abstract representation of 'scaling winning ads.' Multiple ad creative thumbnails rapidly generate and optimize themselves, then a single, highly effective ad creative launches forward like a digital projectile, leaving a blue trail. This conveys speed and precision.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"A bold, clear display of 'ROI' or 'Campaign ROI' metric prominently increasing on a screen, surrounded by positive, green-lit data points. The screen glows with a confident blue light. The brand logo (Example Domain, if available, or a generic placeholder for the product) appears subtly in the corner.\"\n      }\n    ],\n    \"voiceover\": \"Is slow ad iteration costing you? While you're testing, competitors are winning. Stop inefficient spend. Instantly optimize budgets, scale winning ads, and reclaim your ROI.\",\n    \"cta\": \"Boost ROI\"\n  }\n}\n```"
+}

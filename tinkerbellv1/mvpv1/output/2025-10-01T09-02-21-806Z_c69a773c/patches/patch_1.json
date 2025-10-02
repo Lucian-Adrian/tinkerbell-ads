@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+    "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+    "seed_phrase": "Problem-solution: Pain-first",
+    "temperature": 0.15,
+    "batch_index": 0,
+    "prompt_version": "v1",
+    "generated_at": "2025-10-01T09:03:00.587Z"
+  },
+  "ideas": [
+    {
+      "script_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Stop Wasting Weeks on Ad Creative.",
+      "body": "Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.",
+      "cta": "See How It Works",
+      "keywords": [
+        "Ad Creative",
+        "Performance Marketing",
+        "Iteration",
+        "Optimization",
+        "Efficiency",
+        "Scale",
+        "ROI",
+        "Enterprise",
+        "Marketing Budget",
+        "Real-time"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:00.587Z"
+    },
+    {
+      "script_id": "b2c3d4e5-f6a7-8901-2345-67890abcdeff",
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Can't Scale Winning Ads Fast Enough?",
+      "body": "Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.",
+      "cta": "Scale Faster",
+      "keywords": [
+        "Ad Scaling",
+        "Performance Ads",
+        "Creative Optimization",
+        "ROI",
+        "Efficiency",
+        "Growth",
+        "Enterprise Marketing",
+        "Ad Spend",
+        "Iteration",
+        "Speed"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:00.587Z"
+    },
+    {
+      "script_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Your Ad Budget is Bleeding.",
+      "body": "Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.",
+      "cta": "Optimize Spend",
+      "keywords": [
+        "Budget Optimization",
+        "Ad Spend",
+        "Performance Marketing",
+        "ROI",
+        "Real-time Insights",
+        "Efficiency",
+        "Iteration",
+        "Ad Creative",
+        "Enterprise",
+        "Growth"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:00.587Z"
+    },
+    {
+      "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Blind Spots in Your Ad Performance?",
+      "body": "Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.",
+      "cta": "Get Insights",
+      "keywords": [
+        "Real-time Insights",
+        "Ad Performance",
+        "Optimization",
+        "Data-driven",
+        "Iteration",
+        "Performance Ads",
+        "Marketing Efficiency",
+        "ROI",
+        "Enterprise",
+        "Creative Testing"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:00.587Z"
+    },
+    {
+      "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+      "patch_id": "cd8cf458-7a89-4581-9ec2-ff141be737cd",
+      "persona_id": "a1b2c3d4-e5f6-4789-a012-34567890abcd",
+      "headline": "Losing the Ad Innovation Race?",
+      "body": "Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.",
+      "cta": "Innovate Now",
+      "keywords": [
+        "Ad Innovation",
+        "Competitive Edge",
+        "Performance Marketing",
+        "Iteration",
+        "Speed",
+        "Growth",
+        "Enterprise",
+        "Ad Creative",
+        "Optimization",
+        "Market Lead"
+      ],
+      "seed_phrase": "Problem-solution: Pain-first",
+      "temperature": 0.15,
+      "provenance": {
+        "model": "gemini-2.5-flash",
+        "prompt_version": "v1"
+      },
+      "raw_llm_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```",
+      "created_at": "2025-10-01T09:03:00.587Z"
+    }
+  ],
+  "raw_response": "```json\n{\n  \"ideas\": [\n    {\n      \"script_id\": \"a1b2c3d4-e5f6-4789-a012-34567890abcd\",\n      \"headline\": \"Stop Wasting Weeks on Ad Creative.\",\n      \"body\": \"Your team is bogged down. We cut creative production and testing cycles from weeks to minutes. Scale winning ads instantly.\",\n      \"cta\": \"See How It Works\",\n      \"keywords\": [\n        \"Ad Creative\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Optimization\",\n        \"Efficiency\",\n        \"Scale\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Marketing Budget\",\n        \"Real-time\"\n      ]\n    },\n    {\n      \"script_id\": \"b2c3d4e5-f6a7-8901-2345-67890abcdeff\",\n      \"headline\": \"Can't Scale Winning Ads Fast Enough?\",\n      \"body\": \"Manual processes kill your momentum. Instantly iterate and deploy high-performing ad creatives across all channels. Maximize ROI now.\",\n      \"cta\": \"Scale Faster\",\n      \"keywords\": [\n        \"Ad Scaling\",\n        \"Performance Ads\",\n        \"Creative Optimization\",\n        \"ROI\",\n        \"Efficiency\",\n        \"Growth\",\n        \"Enterprise Marketing\",\n        \"Ad Spend\",\n        \"Iteration\",\n        \"Speed\"\n      ]\n    },\n    {\n      \"script_id\": \"c3d4e5f6-a7b8-9012-3456-7890abcdef01\",\n      \"headline\": \"Your Ad Budget is Bleeding.\",\n      \"body\": \"Delays in optimization mean wasted spend. Get real-time insights and instantly iterate performance ads to reallocate budget effectively.\",\n      \"cta\": \"Optimize Spend\",\n      \"keywords\": [\n        \"Budget Optimization\",\n        \"Ad Spend\",\n        \"Performance Marketing\",\n        \"ROI\",\n        \"Real-time Insights\",\n        \"Efficiency\",\n        \"Iteration\",\n        \"Ad Creative\",\n        \"Enterprise\",\n        \"Growth\"\n      ]\n    },\n    {\n      \"script_id\": \"d4e5f6a7-b8c9-0123-4567-890abcdef012\",\n      \"headline\": \"Blind Spots in Your Ad Performance?\",\n      \"body\": \"Stop guessing. Our platform provides instant iteration capabilities based on real-time data, ensuring every ad dollar counts.\",\n      \"cta\": \"Get Insights\",\n      \"keywords\": [\n        \"Real-time Insights\",\n        \"Ad Performance\",\n        \"Optimization\",\n        \"Data-driven\",\n        \"Iteration\",\n        \"Performance Ads\",\n        \"Marketing Efficiency\",\n        \"ROI\",\n        \"Enterprise\",\n        \"Creative Testing\"\n      ]\n    },\n    {\n      \"script_id\": \"e5f6a7b8-c9d0-1234-5678-90abcdef0123\",\n      \"headline\": \"Losing the Ad Innovation Race?\",\n      \"body\": \"Competitors are moving faster. Instantly iterate and deploy cutting-edge performance ads to maintain your market lead.\",\n      \"cta\": \"Innovate Now\",\n      \"keywords\": [\n        \"Ad Innovation\",\n        \"Competitive Edge\",\n        \"Performance Marketing\",\n        \"Iteration\",\n        \"Speed\",\n        \"Growth\",\n        \"Enterprise\",\n        \"Ad Creative\",\n        \"Optimization\",\n        \"Market Lead\"\n      ]\n    }\n  ]\n}\n```"
+}

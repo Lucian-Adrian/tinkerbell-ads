@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "a1b2c3d4-e5f6-4789-1234-567890abcdef",
+    "image_brief": "A dynamic, split-screen image illustrating a stark contrast. On the left, a frustrated performance marketing manager is surrounded by cluttered, manual spreadsheets, slow-loading screens, and a ticking clock, symbolizing 'slow creative cycles' and lost time. The color palette on this side is muted, with hints of grey and desaturated tones. On the right, a confident, focused marketing manager efficiently interacts with a sleek, modern, AI-powered digital dashboard, instantly generating and optimizing 'performance ads.' This side is vibrant, featuring brand blue and white, conveying speed, efficiency, and 'winning.' A subtle visual element like a digital race track or a fast-forward arrow could connect the two sides, emphasizing 'iterating faster' and 'outpacing competitors.' The overall tone is urgent yet empowering.",
+    "video_brief": {
+      "hook": "Your competitors are iterating faster.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Split screen: Left side shows a frustrated performance marketing manager manually adjusting ad creatives on a cluttered screen with multiple tabs. Right side shows a sleek, dynamic dashboard with rapidly changing ad variations and green 'success' indicators, implying competitor's progress. Tone: Urgent, competitive."
+        },
+        {
+          "time": "3-7s",
+          "visual": "Close-up on the frustrated marketer's face, conveying stress and slow progress. A clock ticks audibly or visually in the background, emphasizing lost time and 'slow creative cycles.' Colors: Muted, slightly desaturated, reflecting the 'pain point' of inefficiency."
+        },
+        {
+          "time": "7-11s",
+          "visual": "Abrupt transition to a bright, modern digital interface (featuring brand blue and white). A hand quickly selects options, and new, optimized ad creatives instantly populate and deploy. Smooth, fast animations demonstrate 'instant iteration' and efficiency. The marketer's expression shifts to focused and confident."
+        },
+        {
+          "time": "11-15s",
+          "visual": "An upward-trending performance graph or a 'winning' trophy icon appears prominently on the screen. The marketer from the previous scene now smiles, looking at successful campaign results. The 'Example Domain' logo appears clearly with the brand colors."
+        }
+      ],
+      "voiceover": "Your competitors are iterating faster. Don't let slow creative cycles cost you market share. Instantly iterate performance ads and win.",
+      "cta": "Outpace Them"
+    },
+    "generated_at": "2025-10-01T07:07:15.165Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A dynamic, split-screen image illustrating a stark contrast. On the left, a frustrated performance marketing manager is surrounded by cluttered, manual spreadsheets, slow-loading screens, and a ticking clock, symbolizing 'slow creative cycles' and lost time. The color palette on this side is muted, with hints of grey and desaturated tones. On the right, a confident, focused marketing manager efficiently interacts with a sleek, modern, AI-powered digital dashboard, instantly generating and optimizing 'performance ads.' This side is vibrant, featuring brand blue and white, conveying speed, efficiency, and 'winning.' A subtle visual element like a digital race track or a fast-forward arrow could connect the two sides, emphasizing 'iterating faster' and 'outpacing competitors.' The overall tone is urgent yet empowering.\",\n  \"video_brief\": {\n    \"hook\": \"Your competitors are iterating faster.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Split screen: Left side shows a frustrated performance marketing manager manually adjusting ad creatives on a cluttered screen with multiple tabs. Right side shows a sleek, dynamic dashboard with rapidly changing ad variations and green 'success' indicators, implying competitor's progress. Tone: Urgent, competitive.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"Close-up on the frustrated marketer's face, conveying stress and slow progress. A clock ticks audibly or visually in the background, emphasizing lost time and 'slow creative cycles.' Colors: Muted, slightly desaturated, reflecting the 'pain point' of inefficiency.\"\n      },\n      {\n        \"time\": \"7-11s\",\n        \"visual\": \"Abrupt transition to a bright, modern digital interface (featuring brand blue and white). A hand quickly selects options, and new, optimized ad creatives instantly populate and deploy. Smooth, fast animations demonstrate 'instant iteration' and efficiency. The marketer's expression shifts to focused and confident.\"\n      },\n      {\n        \"time\": \"11-15s\",\n        \"visual\": \"An upward-trending performance graph or a 'winning' trophy icon appears prominently on the screen. The marketer from the previous scene now smiles, looking at successful campaign results. The 'Example Domain' logo appears clearly with the brand colors.\"\n      }\n    ],\n    \"voiceover\": \"Your competitors are iterating faster. Don't let slow creative cycles cost you market share. Instantly iterate performance ads and win.\",\n    \"cta\": \"Outpace Them\"\n  }\n}\n```"
+}

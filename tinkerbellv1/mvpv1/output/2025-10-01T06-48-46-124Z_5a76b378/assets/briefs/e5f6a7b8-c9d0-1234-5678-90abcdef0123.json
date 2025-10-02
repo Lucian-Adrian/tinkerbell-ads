@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "e5f6a7b8-c9d0-1234-5678-90abcdef0123",
+    "image_brief": "A clean, modern digital dashboard interface, primarily using shades of blue and white with subtle black accents. The central focus is a prominent, upward-trending line graph or multiple rapidly increasing performance metrics, visually representing 'scaling winning ads' and 'growth.' Integrate subtle visual cues for 'instantly' and 'real-time,' such as a fast-forward icon or a digital clock accelerating. The overall aesthetic should be professional, data-driven, and convey efficiency and rapid progress in performance marketing. Avoid literal human figures or complex real-world objects; focus on abstract data visualization and digital elements.",
+    "video_brief": {
+      "hook": "Scale winning ads, instantly. No more waiting.",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "A digital interface showing a cluttered, complex spreadsheet or a slow-loading analytics report with stagnant or slightly declining performance metrics. A subtle, digital hourglass icon or a 'processing...' spinner is visible, emphasizing delay."
+        },
+        {
+          "time": "3-7s",
+          "visual": "A rapid, dynamic transition. The cluttered interface dissolves or transforms into a sleek, modern, and intuitive performance marketing dashboard. Data points and graphs begin to animate, showing an immediate and clear upward trend. A prominent 'Scale Campaign' button is highlighted, glowing in a brand blue."
+        },
+        {
+          "time": "7-12s",
+          "visual": "A digital cursor or finger quickly clicks the 'Scale Campaign' button. Immediately, multiple performance graphs (e.g., ROI, conversions, reach) surge upwards with animated lines. A progress bar quickly fills, indicating rapid deployment and amplification across various digital channels. A brief, positive notification appears: 'Campaign scaled successfully!'"
+        },
+        {
+          "time": "12-15s",
+          "visual": "Final screen: Display the 'Example Domain' logo. The headline 'Scale Winning Ads, Instantly. No More Waiting.' appears prominently. Below it, the call to action 'Scale Campaigns' is clearly visible, against a clean, professional background using brand colors (blue, white, black)."
+        }
+      ],
+      "voiceover": "Tired of slow ad cycles? Waiting for results is costing you growth. Imagine finding your top performers and amplifying them instantly. Our platform empowers you to scale winning ads in real-time, maximizing your spend and accelerating your growth. Stop waiting. Start winning.",
+      "cta": "Scale Campaigns"
+    },
+    "generated_at": "2025-10-01T07:02:31.089Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A clean, modern digital dashboard interface, primarily using shades of blue and white with subtle black accents. The central focus is a prominent, upward-trending line graph or multiple rapidly increasing performance metrics, visually representing 'scaling winning ads' and 'growth.' Integrate subtle visual cues for 'instantly' and 'real-time,' such as a fast-forward icon or a digital clock accelerating. The overall aesthetic should be professional, data-driven, and convey efficiency and rapid progress in performance marketing. Avoid literal human figures or complex real-world objects; focus on abstract data visualization and digital elements.\",\n  \"video_brief\": {\n    \"hook\": \"Scale winning ads, instantly. No more waiting.\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"A digital interface showing a cluttered, complex spreadsheet or a slow-loading analytics report with stagnant or slightly declining performance metrics. A subtle, digital hourglass icon or a 'processing...' spinner is visible, emphasizing delay.\"\n      },\n      {\n        \"time\": \"3-7s\",\n        \"visual\": \"A rapid, dynamic transition. The cluttered interface dissolves or transforms into a sleek, modern, and intuitive performance marketing dashboard. Data points and graphs begin to animate, showing an immediate and clear upward trend. A prominent 'Scale Campaign' button is highlighted, glowing in a brand blue.\"\n      },\n      {\n        \"time\": \"7-12s\",\n        \"visual\": \"A digital cursor or finger quickly clicks the 'Scale Campaign' button. Immediately, multiple performance graphs (e.g., ROI, conversions, reach) surge upwards with animated lines. A progress bar quickly fills, indicating rapid deployment and amplification across various digital channels. A brief, positive notification appears: 'Campaign scaled successfully!'\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"Final screen: Display the 'Example Domain' logo. The headline 'Scale Winning Ads, Instantly. No More Waiting.' appears prominently. Below it, the call to action 'Scale Campaigns' is clearly visible, against a clean, professional background using brand colors (blue, white, black).\"\n      }\n    ],\n    \"voiceover\": \"Tired of slow ad cycles? Waiting for results is costing you growth. Imagine finding your top performers and amplifying them instantly. Our platform empowers you to scale winning ads in real-time, maximizing your spend and accelerating your growth. Stop waiting. Start winning.\",\n    \"cta\": \"Scale Campaigns\"\n  }\n}\n```"
+}

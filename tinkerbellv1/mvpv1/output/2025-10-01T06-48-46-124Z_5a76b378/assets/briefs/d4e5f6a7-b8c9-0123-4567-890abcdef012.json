@@ -1,0 +1,31 @@
+{
+  "brief": {
+    "script_id": "d4e5f6a7-b8c9-0123-4567-890abcdef012",
+    "image_brief": "A split visual, contrasting manual inefficiency with automated clarity. On the left (or background, subtly fading), depict a performance marketing manager (Alex Chen persona, mid-30s, professional attire) looking overwhelmed, surrounded by chaotic, physical spreadsheets, cluttered data charts, and a ticking clock. The color palette here should be muted, perhaps sepia or desaturated. On the right (or foreground, brightly lit), the same manager, now calm and focused, interacts with a sleek, modern digital dashboard displaying clear, concise performance metrics and an AI icon, rendered in clean blues and whites (brand colors). The overall impression should be a transition from manual drudgery to intelligent, time-saving automation. The image should convey 'reclaiming time' and 'focusing on strategy' through visual metaphors.",
+    "video_brief": {
+      "hook": "Tired of endless manual ad data analysis?",
+      "scenes": [
+        {
+          "time": "0-3s",
+          "visual": "Close-up of a performance marketing manager's hands (Alex Chen persona) frantically scrolling through an overwhelming, cluttered spreadsheet on a laptop screen. Visual cues of stress: quick eye movements, a half-empty coffee cup, a stack of physical reports nearby. The screen displays complex, unorganized data. Muted, slightly desaturated colors."
+        },
+        {
+          "time": "3-8s",
+          "visual": "A rapid visual transition: the cluttered screen is suddenly enveloped by a clean, vibrant blue light (brand color). As the light recedes, it reveals a sleek, modern digital dashboard. The dashboard displays clear, concise performance metrics, dynamic graphs, and subtle AI-driven elements indicating instant ad iteration. The interface is predominantly blue, white, and black, reflecting brand colors."
+        },
+        {
+          "time": "8-12s",
+          "visual": "The manager from the opening scene is now relaxed and confident, interacting smoothly with the new, clean dashboard. They are seen making strategic decisions, perhaps gesturing towards a clean whiteboard with strategic notes, rather than being bogged down in data entry. The background is a clean, modern office environment, emphasizing focus and productivity."
+        },
+        {
+          "time": "12-15s",
+          "visual": "The dashboard screen fills the frame, transforming into a branded splash screen. It prominently displays the headline: 'Automate Your Ad Optimization. Reclaim Time.' in a clean, informative font, with a clear call-to-action button: 'Automate Smarter' in brand blue. The company logo (Example Domain) is subtly visible."
+        }
+      ],
+      "voiceover": "Tired of endless manual ad data analysis? Our AI instantly iterates performance ads, freeing your team. Focus on strategy, not spreadsheets. Automate smarter.",
+      "cta": "Automate Smarter"
+    },
+    "generated_at": "2025-10-01T07:04:09.910Z"
+  },
+  "raw": "```json\n{\n  \"image_brief\": \"A split visual, contrasting manual inefficiency with automated clarity. On the left (or background, subtly fading), depict a performance marketing manager (Alex Chen persona, mid-30s, professional attire) looking overwhelmed, surrounded by chaotic, physical spreadsheets, cluttered data charts, and a ticking clock. The color palette here should be muted, perhaps sepia or desaturated. On the right (or foreground, brightly lit), the same manager, now calm and focused, interacts with a sleek, modern digital dashboard displaying clear, concise performance metrics and an AI icon, rendered in clean blues and whites (brand colors). The overall impression should be a transition from manual drudgery to intelligent, time-saving automation. The image should convey 'reclaiming time' and 'focusing on strategy' through visual metaphors.\",\n  \"video_brief\": {\n    \"hook\": \"Tired of endless manual ad data analysis?\",\n    \"scenes\": [\n      {\n        \"time\": \"0-3s\",\n        \"visual\": \"Close-up of a performance marketing manager's hands (Alex Chen persona) frantically scrolling through an overwhelming, cluttered spreadsheet on a laptop screen. Visual cues of stress: quick eye movements, a half-empty coffee cup, a stack of physical reports nearby. The screen displays complex, unorganized data. Muted, slightly desaturated colors.\"\n      },\n      {\n        \"time\": \"3-8s\",\n        \"visual\": \"A rapid visual transition: the cluttered screen is suddenly enveloped by a clean, vibrant blue light (brand color). As the light recedes, it reveals a sleek, modern digital dashboard. The dashboard displays clear, concise performance metrics, dynamic graphs, and subtle AI-driven elements indicating instant ad iteration. The interface is predominantly blue, white, and black, reflecting brand colors.\"\n      },\n      {\n        \"time\": \"8-12s\",\n        \"visual\": \"The manager from the opening scene is now relaxed and confident, interacting smoothly with the new, clean dashboard. They are seen making strategic decisions, perhaps gesturing towards a clean whiteboard with strategic notes, rather than being bogged down in data entry. The background is a clean, modern office environment, emphasizing focus and productivity.\"\n      },\n      {\n        \"time\": \"12-15s\",\n        \"visual\": \"The dashboard screen fills the frame, transforming into a branded splash screen. It prominently displays the headline: 'Automate Your Ad Optimization. Reclaim Time.' in a clean, informative font, with a clear call-to-action button: 'Automate Smarter' in brand blue. The company logo (Example Domain) is subtly visible.\"\n      }\n    ],\n    \"voiceover\": \"Tired of endless manual ad data analysis? Our AI instantly iterates performance ads, freeing your team. Focus on strategy, not spreadsheets. Automate smarter.\",\n    \"cta\": \"Automate Smarter\"\n  }\n}\n```"
+}

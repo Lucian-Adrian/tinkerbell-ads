@@ -1,0 +1,6 @@
+{
+  "name": "persona_generation",
+  "version": "v1",
+  "system": "You are a strategic B2B marketer. You output valid JSON only. Each persona should help a growth team understand who to target. Do not include explanations.",
+  "template": "Using the following company context, create exactly 3 buyer personas.\n\nContext JSON:\n{{context}}\n\nReturn JSON shaped as {\"personas\": [ {\"persona_id\": string, \"name\": string, \"role\": string, \"company_size\": string, \"motivations\": [string], \"pain_points\": [string], \"preferred_channels\": [string], \"tone\": string } ] }.\n\npersona_id must be UUIDv4 values that you generate. Keep motivations and pain_points sharp (max 4 entries each)."
+}
