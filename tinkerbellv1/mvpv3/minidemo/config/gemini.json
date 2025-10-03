@@ -1,0 +1,9 @@
+{
+  "name": "Gemini 2.5 Flash",
+  "provider": "google",
+  "model": "gemini-2.5-flash",
+  "default_temperature": 0.8,
+  "max_output_tokens": 65535,
+  "supports": ["text", "vision", "audio", "video", "url"],
+  "description": "High-speed multimodal Gemini model ideal for iterative ideation."
+}

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pipeline Workbench</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <h1>Pipeline Workbench</h1>
+      <p>Run the five-step workflow from context ingestion to final assets.</p>
+    </header>
+
+    <main class="app-main" aria-live="polite">
+      <section class="panel" id="step-context" aria-labelledby="context-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="context-title">Step 1 · Context Ingestion</h2>
+            <p>Fetch and structure business context from a company URL.</p>
+          </div>
+          <span class="status" data-status="pending">Pending</span>
+        </div>
+        <form class="form-grid" id="contextForm">
+          <label class="form-field">
+            <span>Company URL</span>
+            <input id="companyUrl" type="url" required value="https://example.com" />
+          </label>
+          <label class="form-field">
+            <span>Model Backend</span>
+            <select id="modelSelect"></select>
+          </label>
+        </form>
+        <div class="panel-actions">
+          <button id="contextBack" class="secondary" disabled>Back</button>
+          <button id="contextRun">Run</button>
+          <button id="contextRerun" class="secondary" disabled>Re-run</button>
+          <button id="contextNext" class="secondary" disabled>Next</button>
+        </div>
+        <pre id="contextOutput" class="panel-output" aria-label="Context output"></pre>
+      </section>
+
+      <section class="panel" id="step-personas" aria-labelledby="personas-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="personas-title">Step 2 · Persona Generation</h2>
+            <p>Create five personas from the captured context.</p>
+          </div>
+          <span class="status" data-status="pending">Pending</span>
+        </div>
+        <div class="panel-controls">
+          <label class="form-field">
+            <span>Initial Persona Index</span>
+            <input id="personaIndex" type="number" min="0" max="4" value="0" />
+          </label>
+        </div>
+        <div class="panel-actions">
+          <button id="personasBack" class="secondary" disabled>Back</button>
+          <button id="personasRun" disabled>Run</button>
+          <button id="personasRerun" class="secondary" disabled>Re-run</button>
+          <button id="personasNext" class="secondary" disabled>Next</button>
+        </div>
+        <div id="personasGrid" class="card-grid" aria-label="Persona results"></div>
+      </section>
+
+      <section class="panel" id="step-ideas" aria-labelledby="ideas-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="ideas-title">Step 3 · Idea Generation</h2>
+            <p>Generate batches of ad ideas from the anchor persona.</p>
+          </div>
+          <span class="status" data-status="pending">Pending</span>
+        </div>
+        <form class="form-grid" id="ideasForm">
+          <label class="form-field" title="Number of ideas per generation batch">
+            <span>Batch Size</span>
+            <input id="batchSize" type="number" min="1" value="5" />
+          </label>
+          <label class="form-field" title="Target number of ideas to generate">
+            <span>Target Ideas</span>
+            <input id="targetIdeas" type="number" min="1" value="30" />
+          </label>
+          <label class="form-field" title="Base temperature offset per batch">
+            <span>Temperature Seed</span>
+            <input id="temperatureSeed" type="number" step="0.05" value="0.8" />
+          </label>
+        </form>
+        <div class="panel-actions">
+          <button id="ideasBack" class="secondary" disabled>Back</button>
+          <button id="ideasRun" disabled>Run</button>
+          <button id="ideasRerun" class="secondary" disabled>Re-run</button>
+          <button id="ideasNext" class="secondary" disabled>Next</button>
+        </div>
+        <div id="ideasList" class="card-grid" aria-label="Generated ideas"></div>
+      </section>
+
+      <section class="panel" id="step-scripts" aria-labelledby="scripts-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="scripts-title">Step 4 · Script Drafts</h2>
+            <p>Draft scripts for the ideas you selected.</p>
+          </div>
+          <span class="status" data-status="pending">Pending</span>
+        </div>
+        <div class="panel-actions">
+          <button id="scriptsBack" class="secondary" disabled>Back</button>
+          <button id="scriptsRun" disabled>Run</button>
+          <button id="scriptsRerun" class="secondary" disabled>Re-run</button>
+          <button id="scriptsNext" class="secondary" disabled>Next</button>
+        </div>
+        <pre id="scriptsOutput" class="panel-output" aria-label="Script output"></pre>
+      </section>
+
+      <section class="panel" id="step-assets" aria-labelledby="assets-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="assets-title">Step 5 · Asset Summaries</h2>
+            <p>Convert scripts into asset summaries ready for production.</p>
+          </div>
+          <span class="status" data-status="pending">Pending</span>
+        </div>
+        <div class="panel-actions">
+          <button id="assetsBack" class="secondary" disabled>Back</button>
+          <button id="assetsRun" disabled>Run</button>
+          <button id="assetsRerun" class="secondary" disabled>Re-run</button>
+          <button id="assetsNext" class="secondary" disabled>Next</button>
+        </div>
+        <pre id="assetsOutput" class="panel-output" aria-label="Asset output"></pre>
+      </section>
+    </main>
+
+    <template id="personaTemplate">
+      <article class="persona-card" data-index="0">
+        <header>
+          <div>
+            <h3 class="persona-name"></h3>
+            <p class="persona-description"></p>
+          </div>
+          <span class="persona-tone"></span>
+        </header>
+        <div class="persona-meta">
+          <h4>Pain Points</h4>
+          <ul class="persona-pains"></ul>
+        </div>
+        <div class="persona-meta">
+          <h4>Keywords</h4>
+          <div class="persona-tags"></div>
+        </div>
+      </article>
+    </template>
+
+    <template id="ideaTemplate">
+      <article class="idea-card" data-id="">
+        <header>
+          <input type="checkbox" class="idea-select" />
+          <div>
+            <h3 class="idea-headline"></h3>
+            <p class="idea-hook"></p>
+          </div>
+          <span class="idea-batch"></span>
+        </header>
+        <p class="idea-body"></p>
+        <footer class="idea-footer"></footer>
+      </article>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

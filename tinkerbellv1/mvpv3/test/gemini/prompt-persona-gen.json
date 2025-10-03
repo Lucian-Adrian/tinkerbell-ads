@@ -1,0 +1,28 @@
+{
+  "name": "persona_generation_v1",
+  "version": "1.0",
+  "description": "Generate 5 marketing personas from business context using structured output",
+  "model": "gemini-2.5-flash",
+  "temperature": 0.8,
+  "max_tokens": 2048,
+  "request": {
+    "system": "You are a marketing strategist AI specialized in creating detailed audience personas for advertising campaigns.",
+    "instructions": "Based on the provided business context, generate exactly 5 distinct marketing personas. Each persona should represent a different segment of the target audience with unique characteristics, pain points, and communication preferences.
+    **AI Content Automation:** The platform features an AI Content Writer that creates original, strategic content optimized for various search platforms, with an 81% ranking success rate proven by their internal agency. This tool aims to automate content creation at scale, learn brand voice, and ensure factual accuracy.
+*   **Automated Forecasting:** SEOmonitor provides automated SEO forecasting that connects ranking improvements to revenue projections. It helps users set target rankings, generate monthly traffic forecasts based on real search data and SERP dynamics, and track performance against objectives.
+*   **Agency-focused Solutions:** The platform offers specific solutions for content marketing automation, client acquisition (by helping agencies create business cases), and churn prevention (by proving ROI).
+*   **Future Development:** SEOmonitor is actively developing further AI agents and automation capabilities, including an AI Copilot for data analysis and an "Autonomous Content Agent" for fully autonomous content workflows.
+*   **Pricing Model:** The pricing is designed to scale with success, offering unlimited users, unrestricted API access, and flexible plans without per-user fees, API limits, or contracts.
+
+In essence, SEOmonitor positions itself as a comprehensive, AI-driven solution for SEO professionals to navigate the complexities of modern search, automate workflows, prove ROI, and scale their operations efficiently.The business context for SEOmonitor.com is centered around providing a comprehensive "SEO AI Agent" platform tailored for SEO agencies and in-house marketing teams. The platform's core offering is to simplify and automate various aspects of SEO in a search landscape that now encompasses Google, AI Overviews, and AI Search platforms like ChatGPT and Gemini.
+
+Specifically, SEOmonitor aims to:
+*   **Provide Unified Search Performance Visibility:** It offers a single dashboard to track performance across Google rankings, AI Overviews (daily brand mention and citation tracking), and AI Search (weekly ChatGPT/Gemini performance monitoring), giving users 100% visibility of 90% of search.
+*   **Automate Content Creation:** Through its AI Content Writer, the platform generates strategic, original content optimized for Google, AI Overviews, and ChatGPT, with a proven 81% ranking success rate. This feature helps agencies scale content creation, learn brand voice, and ensures factual accuracy.
+*   **Facilitate Accurate SEO Forecasting and ROI Proof:** SEOmonitor automates SEO forecasting, allowing users to connect improved rankings to reliable traffic forecasts and ultimately, revenue. It helps in setting target rankings, generating monthly projections, and tracking actual performance against these goals.
+*   **Support Agency Growth and Client Retention:** The platform provides solutions for content marketing automation, client acquisition (by enabling the creation of automatic business cases), and churn prevention through demonstrating the tangible impact of SEO efforts.
+*   **Offer a Scalable and Transparent Business Model:** SEOmonitor's pricing is designed to be flexible and transparent, without per-user fees, API limits, or hidden costs, making it suitable for growing agencies.
+*   **Drive Future SEO Innovation:** The company is actively developing advanced AI capabilities, including an AI Copilot for data analysis and an "Autonomous Content Agent" for end-to-end content workflows, positioning itself at the forefront of autonomous SEO.
+""
+  }
+}

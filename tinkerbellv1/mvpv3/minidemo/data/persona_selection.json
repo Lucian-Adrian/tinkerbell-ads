@@ -1,0 +1,21 @@
+{
+  "request_id": "429c7ab3-da12-4b74-b069-62f55774e506",
+  "saved_at": "2025-10-03T06:41:55.688Z",
+  "persona": {
+    "id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+    "name": "Acme Growth Persona 1",
+    "description": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+    "tone": "Bold",
+    "pain_points": [
+      "Fragmented campaign tooling",
+      "Slow creative testing cycles",
+      "Lack of unified analytics"
+    ],
+    "keywords": [
+      "innovation-1",
+      "marketing-ops",
+      "conversion-lift"
+    ],
+    "selected_index": 0
+  }
+}

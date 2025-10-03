@@ -1,0 +1,526 @@
+{
+  "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+  "saved_at": "2025-10-03T06:41:55.692Z",
+  "metadata": {
+    "request_id": "429c7ab3-da12-4b74-b069-62f55774e506",
+    "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+    "total_ideas": 30,
+    "batch_size": 5,
+    "target_ideas": 30,
+    "seed_file": "seeds\\idea-templates.json",
+    "prompt_file": "prompts\\prompt-ideas.json",
+    "model": "gemini-2.5-flash"
+  },
+  "ideas": [
+    {
+      "id": "2b7ce4a3-9abd-4add-b6b9-c8219eaf0f5a",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "1",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #1",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "9e1e8ea8-2cbf-4403-8e09-6c4d5fa36961",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "1",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #2",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "a855a78d-ca71-4bba-b77d-102a5ae0a636",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "1",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #3",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "84db3d7c-eea6-407c-a5d0-9f5e7fe65bed",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "1",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #4",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "10e074d2-849a-4b7a-8cfd-c41b9b4ed843",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "1",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #5",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "4e3f2f6a-38a2-44fb-8478-51b610fadac3",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "2",
+      "seed_template": "user_story",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Customer Spotlight: Acme Growth Persona 1 #6",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with tell a heartfelt customer story that highlights before/after transformation..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use tell a heartfelt customer story that highlights before/after transformation. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "ee35e4ad-e664-4b48-b3fa-7eb2bb4c7cea",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "2",
+      "seed_template": "user_story",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Customer Spotlight: Acme Growth Persona 1 #7",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with tell a heartfelt customer story that highlights before/after transformation..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use tell a heartfelt customer story that highlights before/after transformation. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "1e72d332-e0b0-4bed-a906-aa1f61d7c527",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "2",
+      "seed_template": "user_story",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Customer Spotlight: Acme Growth Persona 1 #8",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with tell a heartfelt customer story that highlights before/after transformation..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use tell a heartfelt customer story that highlights before/after transformation. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "dd288d50-9cb3-4a6b-b961-adcd65e642b5",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "2",
+      "seed_template": "user_story",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Customer Spotlight: Acme Growth Persona 1 #9",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with tell a heartfelt customer story that highlights before/after transformation..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use tell a heartfelt customer story that highlights before/after transformation. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "2c2bd192-ffbd-4942-9f6e-9dac37b68af4",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "2",
+      "seed_template": "user_story",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Customer Spotlight: Acme Growth Persona 1 #10",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with tell a heartfelt customer story that highlights before/after transformation..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use tell a heartfelt customer story that highlights before/after transformation. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "c48157ae-af96-4727-8991-a547a37465f5",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "3",
+      "seed_template": "mythbusting",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Myth Busting: Acme Growth Persona 1 #11",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with challenge a common misconception with data and wit, anchored to the persona's pain points..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use challenge a common misconception with data and wit, anchored to the persona's pain points. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "a83512f8-d433-43cd-a23f-14e7642051c0",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "3",
+      "seed_template": "mythbusting",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Myth Busting: Acme Growth Persona 1 #12",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with challenge a common misconception with data and wit, anchored to the persona's pain points..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use challenge a common misconception with data and wit, anchored to the persona's pain points. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "9378a109-c024-4870-8882-e96090b5884d",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "3",
+      "seed_template": "mythbusting",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Myth Busting: Acme Growth Persona 1 #13",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with challenge a common misconception with data and wit, anchored to the persona's pain points..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use challenge a common misconception with data and wit, anchored to the persona's pain points. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "58e5fa7f-40fa-4889-866d-b61f117b6c43",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "3",
+      "seed_template": "mythbusting",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Myth Busting: Acme Growth Persona 1 #14",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with challenge a common misconception with data and wit, anchored to the persona's pain points..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use challenge a common misconception with data and wit, anchored to the persona's pain points. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "04dc9c1b-0d14-4ab8-b9dc-8346e1e2ac10",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "3",
+      "seed_template": "mythbusting",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Myth Busting: Acme Growth Persona 1 #15",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with challenge a common misconception with data and wit, anchored to the persona's pain points..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use challenge a common misconception with data and wit, anchored to the persona's pain points. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "2aee1d33-f64c-49f6-90cd-12992b79a88e",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "4",
+      "seed_template": "behind_scenes",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Behind the Scenes: Acme Growth Persona 1 #16",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with reveal the craftsmanship or team culture that makes the offering trustworthy..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use reveal the craftsmanship or team culture that makes the offering trustworthy. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "6bff5fda-89e4-4660-a65e-98ae093a9f00",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "4",
+      "seed_template": "behind_scenes",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Behind the Scenes: Acme Growth Persona 1 #17",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with reveal the craftsmanship or team culture that makes the offering trustworthy..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use reveal the craftsmanship or team culture that makes the offering trustworthy. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "5c46e39a-3d4b-4882-8906-97dd0e39cd10",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "4",
+      "seed_template": "behind_scenes",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Behind the Scenes: Acme Growth Persona 1 #18",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with reveal the craftsmanship or team culture that makes the offering trustworthy..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use reveal the craftsmanship or team culture that makes the offering trustworthy. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "b3a68c22-84b1-4d8f-aced-b6e09338c1af",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "4",
+      "seed_template": "behind_scenes",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Behind the Scenes: Acme Growth Persona 1 #19",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with reveal the craftsmanship or team culture that makes the offering trustworthy..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use reveal the craftsmanship or team culture that makes the offering trustworthy. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "07cddd4e-22ff-47ea-a2ab-a1c14f24d68d",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "4",
+      "seed_template": "behind_scenes",
+      "temperature": 0.7,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Behind the Scenes: Acme Growth Persona 1 #20",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with reveal the craftsmanship or team culture that makes the offering trustworthy..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use reveal the craftsmanship or team culture that makes the offering trustworthy. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "6d701c78-7a2b-4b17-a46a-7821bdc3ec67",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "5",
+      "seed_template": "challenge",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "30-Day Challenge: Acme Growth Persona 1 #21",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with invite the audience to join a limited-time challenge that uses the product daily with social proof prompts..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use invite the audience to join a limited-time challenge that uses the product daily with social proof prompts. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "4da83bbe-a415-4690-b515-9b78569b609a",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "5",
+      "seed_template": "challenge",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "30-Day Challenge: Acme Growth Persona 1 #22",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with invite the audience to join a limited-time challenge that uses the product daily with social proof prompts..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use invite the audience to join a limited-time challenge that uses the product daily with social proof prompts. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "5e7e3774-0d05-4ceb-82be-9f6b65fb73c1",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "5",
+      "seed_template": "challenge",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "30-Day Challenge: Acme Growth Persona 1 #23",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with invite the audience to join a limited-time challenge that uses the product daily with social proof prompts..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use invite the audience to join a limited-time challenge that uses the product daily with social proof prompts. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "1946fe80-7e53-46e7-95c8-110a3db30b8d",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "5",
+      "seed_template": "challenge",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "30-Day Challenge: Acme Growth Persona 1 #24",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with invite the audience to join a limited-time challenge that uses the product daily with social proof prompts..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use invite the audience to join a limited-time challenge that uses the product daily with social proof prompts. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "00c80776-4ded-4cbf-92d0-fdd28f29a248",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "5",
+      "seed_template": "challenge",
+      "temperature": 0.8,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "30-Day Challenge: Acme Growth Persona 1 #25",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with invite the audience to join a limited-time challenge that uses the product daily with social proof prompts..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use invite the audience to join a limited-time challenge that uses the product daily with social proof prompts. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "aa02b9ab-b787-4ff3-8370-d35db73a08aa",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "6",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #26",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "4e4307db-efe9-4e5b-8472-3463c35c3680",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "6",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #27",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "a43bca80-62b2-4e75-b554-3148bc466a68",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "6",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #28",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "ca9135dd-c266-4f68-a2f8-7ca8afb0467a",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "6",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #29",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    },
+    {
+      "id": "904a702a-d16d-46b9-a43a-c8b0ee7edda5",
+      "persona_id": "2b7fa2f3-3237-4af5-8f77-657362e46aaa",
+      "batch_id": "6",
+      "seed_template": "guerrilla_flashmob",
+      "temperature": 0.9,
+      "prompt_used": "Idea Generation v1",
+      "model_used": "gemini-2.5-flash",
+      "headline": "Flash Mob Surprise: Acme Growth Persona 1 #30",
+      "hook": "Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes.. — spark urgency with stage a pop-up experience that dramatizes the core benefit in a memorable public space..",
+      "body": "Acme Growth Persona 1 craves outcomes fast. Use stage a pop-up experience that dramatizes the core benefit in a memorable public space. to prove the value proposition: Acme Growth works with performance advertisers who crave acme growth turns complex digital workflows into a guided journey for customers in minutes..",
+      "keywords": [
+        "innovation-1",
+        "marketing-ops",
+        "conversion-lift"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Persona Generation v1",
+  "description": "Create 5 campaign personas from business context",
+  "request": {
+    "system": "You are a marketing strategist designing personas for ad experiments.",
+    "instructions": "Produce five distinct personas that reflect the business context.",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "personas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string" },
+              "name": { "type": "string" },
+              "description": { "type": "string" },
+              "tone": { "type": "string" },
+              "pain_points": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              "keywords": {
+                "type": "array",
+                "items": { "type": "string" },
+                "minItems": 3,
+                "maxItems": 5
+              }
+            },
+            "required": ["id", "name", "description", "tone", "pain_points", "keywords"]
+          },
+          "minItems": 5,
+          "maxItems": 5
+        }
+      },
+      "required": ["personas"]
+    }
+  }
+}

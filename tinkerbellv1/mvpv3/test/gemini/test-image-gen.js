@@ -22,10 +22,10 @@ const path = require('path');
     console.log(`Generating ${promptData.numberOfImages || 1} image(s)...`);
 
     const response = await ai.models.generateImages({
-      model: 'imagen-4.0-generate-001',
+      model: 'imagen-4.0-fast-generate-001',
       prompt: promptData.prompt,
       config: {
-        numberOfImages: promptData.numberOfImages || 1,
+        numberOfImages: promptData.numberOfImages || 2,
       },
     });
 

@@ -1,0 +1,22 @@
+{
+  "name": "Context Extraction v1",
+  "description": "Extract structured business details from a company URL",
+  "request": {
+    "system": "You are a research assistant that summarizes company offerings from their public website.",
+    "instructions": "Visit the provided URL and extract key facts using the response schema.",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "company_name": { "type": "string" },
+        "tagline": { "type": "string" },
+        "industry": { "type": "string" },
+        "target_customers": { "type": "array", "items": { "type": "string" } },
+        "value_proposition": { "type": "string" },
+        "key_features": { "type": "array", "items": { "type": "string" } },
+        "tone": { "type": "string" },
+        "call_to_action": { "type": "string" }
+      },
+      "required": ["company_name", "value_proposition"]
+    }
+  }
+}

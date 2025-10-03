@@ -5,7 +5,6 @@
   "system_instruction": "You are a business analyst AI. Extract structured information about companies from their websites.",
   "prompt_template": "Analyze the following company website and extract structured information.\n\nCompany URL: {{company_url}}\n\nProvide a JSON response with the following structure:\n{\n  \"company_name\": \"string\",\n  \"industry\": \"string\",\n  \"company_size\": \"startup|small|medium|large|enterprise\",\n  \"location\": \"string (primary location)\",\n  \"description\": \"string (2-3 sentences)\",\n  \"products_services\": [\"string\"],\n  \"target_audience\": \"string\",\n  \"unique_value_proposition\": \"string\",\n  \"brand_tone\": \"string (professional, casual, playful, etc.)\",\n  \"keywords\": [\"string\"],\n  \"pain_points_addressed\": [\"string\"],\n  \"language\": \"string (primary language)\"\n}\n\nBe concise and accurate. Extract only information that is clearly stated or strongly implied.",
   "company_url": "https://examen.md/",
-  "response_mime_type": "application/json",
   "temperature": 0.2,
   "max_tokens": 2048,
   "tools": [

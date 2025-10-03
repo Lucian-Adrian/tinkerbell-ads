@@ -1,0 +1,9 @@
+{
+  "name": "GPT-4.1",
+  "provider": "openai",
+  "model": "gpt-4.1",
+  "default_temperature": 0.65,
+  "max_output_tokens": 8192,
+  "supports": ["text"],
+  "description": "Balanced creative + analytical model for ad concepts."
+}

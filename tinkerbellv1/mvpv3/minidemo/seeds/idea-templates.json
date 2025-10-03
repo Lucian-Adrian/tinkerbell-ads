@@ -1,0 +1,27 @@
+[
+  {
+    "id": "guerrilla_flashmob",
+    "title": "Flash Mob Surprise",
+    "frame": "Stage a pop-up experience that dramatizes the core benefit in a memorable public space."
+  },
+  {
+    "id": "user_story",
+    "title": "Customer Spotlight",
+    "frame": "Tell a heartfelt customer story that highlights before/after transformation."
+  },
+  {
+    "id": "mythbusting",
+    "title": "Myth Busting",
+    "frame": "Challenge a common misconception with data and wit, anchored to the persona's pain points."
+  },
+  {
+    "id": "behind_scenes",
+    "title": "Behind the Scenes",
+    "frame": "Reveal the craftsmanship or team culture that makes the offering trustworthy."
+  },
+  {
+    "id": "challenge",
+    "title": "30-Day Challenge",
+    "frame": "Invite the audience to join a limited-time challenge that uses the product daily with social proof prompts."
+  }
+]

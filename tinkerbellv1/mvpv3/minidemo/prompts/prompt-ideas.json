@@ -1,0 +1,32 @@
+{
+  "name": "Idea Generation v1",
+  "description": "Generate campaign ideas from personas",
+  "request": {
+    "system": "You are an award-winning creative director building paid-social ad experiments.",
+    "instructions": "Using the anchor persona and the seed template, craft batch_size ad concepts.",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "ideas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "headline": { "type": "string" },
+              "hook": { "type": "string" },
+              "body": { "type": "string" },
+              "keywords": {
+                "type": "array",
+                "items": { "type": "string" },
+                "minItems": 3,
+                "maxItems": 5
+              }
+            },
+            "required": ["headline", "hook", "body", "keywords"]
+          }
+        }
+      },
+      "required": ["ideas"]
+    }
+  }
+}
