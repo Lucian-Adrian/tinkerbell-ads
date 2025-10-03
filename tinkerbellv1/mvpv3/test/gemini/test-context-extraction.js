@@ -20,7 +20,9 @@ const path = require('path');
     const config = JSON.parse(fs.readFileSync(promptPath, 'utf8'));
 
     console.log(`Running: ${config.name} v${config.version}`);
-    console.log(`Description: ${config.description}\n`);
+    console.log(`Description: ${config.description}`);
+    console.log(`Temperature: ${config.temperature}`);
+    console.log(`Max Tokens: ${config.max_tokens}\n`);
 
     // Replace template variables
     let finalPrompt = config.prompt_template.replace('{{company_url}}', config.company_url);
