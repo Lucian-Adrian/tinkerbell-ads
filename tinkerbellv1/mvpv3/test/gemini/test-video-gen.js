@@ -23,7 +23,7 @@ const path = require('path');
     console.log('Starting video generation...\n');
 
     let operation = await ai.models.generateVideos({
-      model: 'veo-3.0-generate-001',
+      model: 'veo-3.0-fast-generate-preview',
       prompt: prompt,
     });
 
