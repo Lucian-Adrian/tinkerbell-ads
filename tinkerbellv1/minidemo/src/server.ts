@@ -1,4 +1,5 @@
 import express, { type Request, type Response, type NextFunction } from "express";
+import cors from "cors";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { Buffer } from "node:buffer";
@@ -11,8 +12,12 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = Number(process.env.PORT ?? 4000);
 
-app.use(express.json({ limit: "2mb" }));
+app.use(express.json({ limit: "8mb" }));
+app.use(cors());
 app.use(express.static(path.resolve(__dirname, "..", "public")));
+
+// simple favicon handler to avoid 404 noise from browsers
+app.get("/favicon.ico", (_req: Request, res: Response) => res.status(204).end());
 
 app.get("/api/health", (_req: Request, res: Response) => {
   res.json({ status: "ok", timestamp: new Date().toISOString() });
@@ -85,33 +90,69 @@ app.post("/api/image", async (req: Request, res: Response) => {
   }
 });
 
-async function pollVideo(operationHandle: unknown, attempts = 24): Promise<{ videoBytes?: string; mimeType?: string } | null> {
+async function pollVideo(operationHandle: unknown, attempts = 24): Promise<{ videoBytes?: string; mimeType?: string; operationName?: string } | null> {
   const client = getMediaClient() as unknown as {
     operations: {
-      get: (params: { operation: unknown }) => Promise<{
+      get: (params: { operation?: unknown; name?: unknown }) => Promise<{
         done?: boolean;
         response?: { generatedVideos?: Array<{ video?: { videoBytes?: string; mimeType?: string } }> };
+        name?: string;
       }>;
     };
   };
 
-  let current = operationHandle;
+  // helper to extract an operation name string from various shapes
+  function extractName(op: any): string | null {
+    if (!op) return null;
+    if (typeof op === "string") return op;
+    if (typeof op.name === "string") return op.name;
+    if (op.operation && typeof op.operation === "string") return op.operation;
+    if (op.operation && typeof op.operation.name === "string") return op.operation.name;
+    return null;
+  }
+
+  const name = extractName(operationHandle);
+  let lastOperationName: string | undefined = name ?? undefined;
 
   for (let i = 0; i < attempts; i += 1) {
-    current = await client.operations.get({ operation: current });
-    const result = current as unknown as {
+    let resultRaw: unknown;
+    try {
+      // try asking by name first when available
+      if (lastOperationName) {
+        resultRaw = await client.operations.get({ name: lastOperationName });
+      } else {
+        resultRaw = await client.operations.get({ operation: operationHandle });
+      }
+    } catch (e) {
+      // fallback: try alternate param
+      try {
+        resultRaw = await client.operations.get({ operation: lastOperationName ?? operationHandle });
+      } catch (err) {
+        console.warn('[pollVideo] operations.get failed, retrying', err);
+        resultRaw = null;
+      }
+    }
+
+    const result = (resultRaw ?? {}) as unknown as {
       done?: boolean;
       response?: { generatedVideos?: Array<{ video?: { videoBytes?: string; mimeType?: string } }> };
+      name?: string;
     };
 
-    if (result.done) {
+    if (result?.name) {
+      lastOperationName = result.name;
+    }
+
+    if (result?.done) {
       return result.response?.generatedVideos?.[0]?.video ?? null;
     }
 
+    // wait then retry
     await new Promise((resolve) => setTimeout(resolve, 5000));
   }
 
-  return null;
+  // timed out; return operationName so client can poll later
+  return lastOperationName ? { operationName: lastOperationName } : null;
 }
 
 app.post("/api/video", async (req: Request, res: Response) => {
@@ -121,6 +162,12 @@ app.post("/api/video", async (req: Request, res: Response) => {
 
     if (!prompt) {
       res.status(400).json({ error: "Prompt is required" });
+      return;
+    }
+
+    // Veo requires duration between 4 and 8 seconds
+    if (!Number.isFinite(durationSeconds) || durationSeconds < 4 || durationSeconds > 8) {
+      res.status(400).json({ error: "The number value for `durationSeconds` is out of bound. Please provide a value between 4 and 8, inclusive." });
       return;
     }
 

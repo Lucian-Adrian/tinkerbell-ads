@@ -180,8 +180,8 @@
         <form id="video-form">
           <label for="video-prompt">Prompt</label>
           <textarea id="video-prompt" rows="3" placeholder="A 6-second looping advert showing a marketer launching new creative in seconds."></textarea>
-          <label for="video-duration">Duration seconds (1-8)</label>
-          <input id="video-duration" type="number" min="1" max="8" value="6" />
+          <label for="video-duration">Duration seconds (4-8)</label>
+          <input id="video-duration" type="number" min="4" max="8" value="6" />
           <button type="submit">Generate Video</button>
           <span class="status" id="video-status"></span>
         </form>
@@ -250,6 +250,9 @@
       handleSubmit("video-form", "video-status", async () => {
         const prompt = document.getElementById("video-prompt").value;
         const durationSeconds = Number(document.getElementById("video-duration").value || 6);
+        if (durationSeconds < 4 || durationSeconds > 8) {
+          throw new Error('Duration must be between 4 and 8 seconds');
+        }
         const response = await fetch("/api/video", {
           method: "POST",
           headers: { "Content-Type": "application/json" },

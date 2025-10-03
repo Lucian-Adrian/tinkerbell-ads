@@ -1,0 +1,18 @@
+{
+  "type": "ARRAY",
+  "items": {
+    "type": "OBJECT",
+    "properties": {
+      "recipeName": {
+        "type": "STRING"
+      },
+      "ingredients": {
+        "type": "ARRAY",
+        "items": {
+          "type": "STRING"
+        }
+      }
+    },
+    "propertyOrdering": ["recipeName", "ingredients"]
+  }
+}
